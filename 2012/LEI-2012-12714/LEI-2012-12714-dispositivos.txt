@@ -1,0 +1,41 @@
+Os dados e as informações da execução da pena, da prisão cautelar e da medida de segurança deverão ser mantidos e atualizados em sistema informatizado de acompanhamento da execução da pena. 
+Os sistemas informatizados de que trata o caput serão, preferencialmente, de tipo aberto. 
+Considera-se sistema ou programa aberto aquele cuja licença de uso não restrinja sob nenhum aspecto a sua cessão, distribuição, utilização ou modificação, assegurando ao usuário o acesso irrestrito e sem custos adicionais ao seu código fonte e documentação associada, permitindo a sua modificação parcial ou total, garantindose os direitos autorais do programador. 
+Os dados e as informações previstos no caput serão acompanhados pelo magistrado, pelo representante do Ministério Público e pelo defensor e estarão disponíveis à pessoa presa ou custodiada. 
+O sistema de que trata o caput deverá permitir o cadastramento do defensor, dos representantes dos conselhos penitenciários estaduais e do Distrito Federal e dos conselhos da comunidade para acesso aos dados e informações. 
+O sistema previsto no art. 1º deverá conter o registro dos seguintes dados e informações: 
+nome, filiação, data de nascimento e sexo; 
+data da prisão ou da internação; 
+comunicação da prisão à família e ao defensor; 
+tipo penal e pena em abstrato; 
+tempo de condenação ou da medida aplicada; 
+dias de trabalho ou estudo; 
+dias remidos; 
+atestado de comportamento carcerário expedido pelo  diretor do estabelecimento prisional; 
+faltas graves; 
+exame de cessação de periculosidade, no caso de medida  de segurança; e 
+utilização de equipamento de monitoração eletrônica  pelo condenado. 
+O lançamento dos dados ou das informações de que trata o art. 2º ficará sob a responsabilidade: 
+da autoridade policial, por ocasião da prisão, quanto ao disposto nos incisos I a IV do caput do art. 2º; 
+do magistrado que proferir a decisão ou acórdão, quanto ao disposto nos incisos V, VII e XI do caput do art. 2º; 
+do diretor do estabelecimento prisional, quanto ao disposto nos incisos VI, VIII e IX do caput do art. 2º; e 
+do diretor da unidade de internação, quanto ao disposto no inciso X do caput do art. 2º. 
+Os dados e informações previstos no inciso II do caput do art. 2º poderão, a qualquer momento, ser revistos pelo magistrado. 
+O sistema referido no art. 1 o deverá conter ferramentas que: 
+informem as datas estipuladas para: 
+conclusão do inquérito; 
+oferecimento da denúncia; 
+obtenção da progressão de regime; 
+concessão do livramento condicional; 
+realização do exame de cessação de periculosidade; e 
+enquadramento nas hipóteses de indulto ou de comutação de pena; 
+calculem a remição da pena; e 
+identifiquem a existência de outros processos em que tenha sido determinada a prisão do réu ou acusado. 
+O sistema deverá ser programado para informar tempestiva e automaticamente, por aviso eletrônico, as datas mencionadas no inciso I do caput : 
+ao magistrado responsável pela investigação criminal, processo penal ou execução da pena ou cumprimento da medida de segurança; 
+ao Ministério Público; e 
+ao defensor. 
+Recebido o aviso previsto no § 1 o , o magistrado verificará o cumprimento das condições legalmente previstas para soltura ou concessão de outros benefícios à pessoa presa ou custodiada e dará vista ao Ministério Público. 
+O Poder Executivo federal instituirá sistema nacional, visando à interoperabilidade das bases de dados e informações dos sistemas informatizados instituídos pelos Estados e pelo Distrito Federal. 
+A União poderá apoiar os Estados e o Distrito Federal no desenvolvimento, implementação e adequação de sistemas próprios que permitam interoperabilidade com o sistema nacional de que trata o caput. 
+Esta Lei entra em vigor após decorridos 365 (trezentos e sessenta e cinco) dias de sua publicação oficial. 

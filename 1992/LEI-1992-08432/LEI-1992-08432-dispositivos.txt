@@ -1,0 +1,935 @@
+São criadas, na 1ª Região da Justiça do Trabalho, as seguintes Juntas de Conciliação e Julgamento, e cargos pertinentes, assim distribuídas:
+na Cidade do Rio de Janeiro, 22 (vinte e duas) Juntas de Conciliação e Julgamento (52ª a 73ª), 22 (vinte e dois) cargos de Juiz do Trabalho Presidente de Junta, 22 (vinte e dois) cargos de Juiz do Trabalho Substituto, 44 (quarenta e quatro) cargos de Juiz Classista de Junta, observada a representação paritária, e 22 (vinte e dois) cargos em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Cabo Frio, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de juiz do Trabalho Substituto 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Campos dos Goytacazes, 1 (uma) Junta de Conciliação e Julgamento (2ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5 e 1 (um) cargo em comissão de Diretor de Serviço de Distribuição DAS-101.4;
+na Cidade de Cordeiro, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Duque de Caxias, 3 (três) Juntas de Conciliação e Julgamento (4ª a 6ª), 3 (três) cargos de Juiz do Trabalho Presidente de Junta, 3 (três) cargos de Juiz do Trabalho Substituto, 6 (seis) cargos de Juiz Classista de Junta, observada a representação paritária, e 3 (três) cargos em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Niterói, 1 (uma) Junta de Conciliação e Julgamento (4ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Nova Iguaçu, 2 (duas) Juntas de Conciliação e Julgamento (4ª e 5ª), 2 (dois) cargos de Juiz do Trabalho Presidente de Junta, 2 (dois) cargos de Juiz do Trabalho Substituto, 4 (quatro) cargos de Juiz Classista de Junta, observada a representação paritária, e 2 (dois) cargos em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de São Gonçalo, 1 (uma) Junta de Conciliação e Julgamento (3ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de São João do Meriti, 1 (uma) Junta de Conciliação e Julgamento (2ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5 e 1 (um) cargo em comissão de Diretor de Serviço de Distribuição DAS-101.4;
+na Cidade de Resende, 1 (uma) Junta de Conciliação e Julgamento (lª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5.
+São criadas, na 2ª Região da Justiça do Trabalho, as seguintes Juntas de Conciliação e Julgamento, e cargos pertinentes, assim distribuídas:
+na Cidade de Caieiras, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Cajamar, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Cubatão, 1 (uma) Junta de Conciliação e Julgamento (5ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Embu, 1 (uma) Junta de Conciliação e Julgamento, (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Ferraz de Vasconcelos, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Itapecerica da Serra, 1 (uma) Junta de Conciliação e Julgamento (2ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5 e 1 (um) cargo em comissão de Diretor de Serviço de Distribuição DAS-101.4;
+na Cidade de Jandira, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Osasco, 1 (uma) Junta de Conciliação e Julgamento (3ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade Praia Grande, 2 (duas) Juntas de Conciliação e Julgamento (1ª e 2ª), 2 (dois) cargos de Juiz do Trabalho Presidente de Junta, 2 (dois) cargos de Juiz do Trabalho Substituto, 4 (quatro) cargos de Juiz Classista de Junta, observada a representação paritária, 2 (dois) cargos em comissão de Diretor de Secretaria de Junta DAS-101.5 e 1 (um) cargo em comissão de Diretor de Serviço de Distribuição DAS-101.4;
+na Cidade de Ribeirão Pires, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Santana do Parnaíba, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de São Vicente, 2 (duas) Juntas de Conciliação e Julgamento (1ª e 2ª), 2 (dois) cargos de Juiz do Trabalho Presidente de Junta, 2 (dois) cargos de Juiz do Trabalho Substituto, 4 (quatro) cargos de Juiz Classista de Junta, observada a representação paritária, 2 (dois) cargos em comissão de Diretor de Secretaria de Junta DAS-101.5 e 1 (um) cargo em comissão de Diretor de Serviço de Distribuição DAS-101.4;
+na Cidade de Suzano, 1 (uma) Junta de Conciliação e Julgamento (2ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5 e 1 (um) cargo em comissão de Diretor de Serviço de Distribuição DAS-101.4;
+na Cidade de Taboão da Serra, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5.
+São criadas, na 3ª Região da Justiça do Trabalho, as seguintes Juntas de Conciliação e Julgamento, e cargos pertinentes, assim distribuídas:
+na Cidade de Belo Horizonte, 10 (dez) Juntas de Conciliação e Julgamento (26ª a 35ª), 10 (dez) cargos de Juiz do Trabalho Presidente de Junta, 10 (dez) cargos de Juiz do Trabalho Substituto, 20 (vinte) cargos de Juiz Classista de Junta, observada a representação paritária, e 10 (dez) cargos em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Alfenas, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Betim, 1 (uma) Junta de Conciliação e Julgamento (4ª), 1 (um) cargo de Juiz do Trabalho Presidente da Junta, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Congonhas, 1 (uma) Junta de Conciliação e Julgamento (2ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5 e 1 (um) cargo em comissão de Diretor de Serviço de Distribuição DAS-101.4;
+na Cidade de Coronel Fabriciano, 2 (duas) Juntas de Conciliação e Julgamento (3ª e 4ª), 2 (dois) cargos de Juiz do Trabalho Presidente de Junta, 2 (dois) cargos de Juiz do Trabalho Substituto, 4 (quatro) cargos de Juiz Classista de Junta, observada a representação paritária, e 2 (dois) cargos em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Divinópolis, 1 (uma) Junta de Conciliação e Julgamento (2ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5 e 1 (um) cargo em comissão de Diretor de Serviço de Distribuição DAS-101.4;
+na Cidade de Governador Valadares, 1 (uma) Junta de Conciliação e Julgamento (2ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5 e 1 (um) cargo em comissão de Diretor de Serviço de Distribuição DAS-101.4;
+na Cidade de Guanhães, 1 (uma) Junta de Conciliação (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+(Vetado)
+(Vetado)
+na Cidade de João Monlevade, 1 (uma) Junta de Conciliação e Julgamento (2ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5 e 1 (um) cargo em comissão de Diretor de Serviço de Distribuição DAS-101.4;
+(Vetado)
+na Cidade de Montes Claros, 1 (uma) Junta de Conciliação e Julgamento (2ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5 e 1 (um) cargo em comissão de Diretor de Serviço de Distribuição DAS-101.4;
+na Cidade de Nova Lima, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Passos, 1 (uma) Junta de Conciliação e Julgamento (2ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5 e 1 (um) cargo em comissão de Diretor de Serviço de Distribuição DAS-101.4;
+na Cidade de Pedro Leopoldo, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5; XVII na Cidade de Ribeirão das Neves, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5; XVIII na Cidade de Sabará, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Santa Luzia, 1 (uma) Junta de Conciliação e Julgamento (lª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+(Vetado)
+na Cidade de Uberlândia, 2 (duas) Juntas de Conciliação e Julgamento (3ª e 4ª), 2 (dois) cargos de Juiz do Trabalho Presidente de Junta, 2 (dois) cargos de Juiz do Trabalho Substituto, 4 (quatro) cargos de Juiz Classista de Junta, observada a representação paritária, e 2 (dois) cargos em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Unaí, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+São criadas, na 4ª Região da Justiça do Trabalho, as seguintes Juntas de Conciliação e Julgamento, e cargos pertinentes, assim distribuídas:
+na Cidade de Porto Alegre, 10 (dez) Juntas de Conciliação e Julgamento (21ª a 30ª), 10 (dez) cargos de Juiz do Trabalho Presidente de Junta, 10 (dez) cargos de Juiz do Trabalho Substituto, 20 (vinte) cargos de Juiz Classista de Junta, observada a representação paritária, e 10 (dez) cargos em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Arroio Grande, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Bento Gonçalves, 1 (uma) Junta de Conciliação e Julgamento (2ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5 e 1 (um) cargo em comissão de Diretor de Serviço de Distribuição DAS-101.4;
+na Cidade de Caxias do Sul, 1 (uma) Junta de Conciliação e Julgamento (3ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+(Vetado)
+na Cidade de Estância Velha, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Farroupilha, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Gramado, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+(Vetado)
+na Cidade de Novo Hamburgo, 2 (duas) Juntas de Conciliação e Julgamento (4ª e 5ª), 2 (dois) cargos de Juiz do Trabalho Presidente de Junta, 2 (dois) cargos de Juiz do Trabalho Substituto, 4 (quatro) cargos de Juiz Classista de Junta, observada a representação paritária, e 2 (dois) cargos em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Palmeira das Missões, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Passo Fundo, 1 (uma) Junta de Conciliação e Julgamento (2ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5 e 1 (um) cargo em comissão de Diretor de Serviço de Distribuição DAS-101.4;
+na Cidade de Pelotas, 1 (uma) Junta de Conciliação e Julgamento (3ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Santa Cruz do Sul, 1 (uma) Junta de Conciliação e Julgamento (2ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5 e 1 (um)) cargo em comissão de Diretor de Serviço de Distribuição DAS-101.4;
+na Cidade de Santa Maria, 1 (uma) Junta de Conciliação e Julgamento (2ª ), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5 e 1 (um) cargo em comissão de Diretor de Serviço de Distribuição DAS-101.4;
+na Cidade de São Leopoldo, 1 (uma) Junta de Conciliação e Julgamento (3ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Sapiranga, 1 (uma) Junta de Conciliação e Julgamento (3ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Sapucaia do Sul, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Taquara, 1 (uma) Junta de Conciliação e Julgamento (2ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5 e 1 (um) cargo em comissão de Diretor de Serviço de Distribuição DAS-101.4;
+na Cidade de Três Passos, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5.
+São criadas, na 5ª Região da Justiça do Trabalho, as seguintes Juntas de Conciliação e Julgamento, e cargos pertinentes, assim distribuídas:
+no Estado da Bahia:
+na Cidade de Salvador, 10 (dez) Juntas de Conciliação e Julgamento (16ª a 25ª), 10 (dez) cargos de Juiz do Trabalho Presidente de Junta, 10 (dez) cargos de Juiz do Trabalho Substituto, 20 (vinte) cargos de Juiz Classista de Junta, observada a representação paritária, e 10 (dez) cargos em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Alagoinhas, 1 (uma) Junta de Conciliação e Julgamento (2ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5 e 1 (um) cargo em comissão de Diretor de Serviço de Distribuição DAS-101.4;
+na Cidade de Barreiras, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Bom Jesus da Lapa, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Brumado, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Camacã, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Camaçari, 1 (uma) Junta de Conciliação e Julgamento (4ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Candeias, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Euclides da Cunha, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Feira de Santana, 1 (uma) Junta de Conciliação e Julgamento (3ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Ilhéus, 1 (uma) Junta de Conciliação e Julgamento (2ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5 e 1 (um) cargo em comissão de Diretor de Serviço de Distribuição DAS-101.4;
+na Cidade de Itabuna, 1 (uma) Junta de Conciliação e Julgamento (3ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Itapetinga, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Juazeiro, 1 (uma) Junta de Conciliação e Julgamento (2ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5 e 1 (um) cargo em comissão de Diretor de Serviço de Distribuição DAS-101.4;
+na Cidade de Santo Antônio de Jesus, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Teixeira de Freitas, 1 (uma) Junta de Conciliação e Julgamento (1ª), um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Ubaíra, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+(Vetado)
+no Estado de Sergipe:
+na Cidade de Aracaju, 1 (uma) Junta de Conciliação e Julgamento (4ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Nossa Senhora da Glória, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5.
+São criadas, na 6ª Região da Justiça do Trabalho, as seguintes Juntas de Conciliação e Julgamento, e cargos pertinentes, assim distribuídas:
+no Estado de Pernambuco:
+na Cidade de Recife, 6 (seis) Juntas de Conciliação e Julgamento (15ª a 20ª), 6 (seis) cargos de Juiz do Trabalho Presidente de Junta, 6 (seis) cargos de Juiz do Trabalho Substituto, 12 (doze) cargos de Juiz Classista de Junta, observada a representação paritária, e 6 (seis) cargos em comissão de Diretor de Secretarias de Junta DAS-101.5;
+(Vetado)
+na Cidade de Araripina, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+(Vetado)
+(Vetado)
+na Cidade de Carpina, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Floresta, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Igarassu, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Ipojuca, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Jaboatão, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Olinda, 2 (duas) Juntas de Conciliação e Julgamento (1ª e 2ª), 2 (dois) cargos de Juiz do Trabalho Presidente de Junta, 2 (dois) cargos de Juiz do Trabalho Substituto, 4 (quatro) cargos de Juiz Classista de Junta, observada a representação paritária, 2 (dois) cargos em comissão de Diretor de Secretaria de Junta DAS-101.5 e 1 (um) cargo em comissão de Diretor de Serviço de Distribuição DAS-101.4;
+na Cidade de Ribeirão, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de São Lourenço da Mata, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Sertânia, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Surubim, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Timbaúba, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+no Estado de Alagoas:
+na Cidade de Maceió, 3 (três) Juntas de Conciliação e Julgamento (4ª a 6ª), 3 (três) cargos de Juiz do Trabalho Presidente de Junta, 3 (três) cargos de Juiz do Trabalho Substituto, 6 (seis) cargos de Juiz Classista de Junta, observada a representação paritária, e 3 (três) cargos em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Atalaia, 1 (uma) Junta de Conciliação de Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+(Vetado);
+na Cidade de Porto Calvo, 1 (uma) Junta de Conciliação de Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Santana do Ipanema, 1 (uma) Junta de Conciliação de Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de São Luiz do Quitunde, 1 (uma) Junta de Conciliação de Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5.
+São criadas na 7ª Região da Justiça do Trabalho, as seguintes Juntas de Conciliação e Julgamento, e cargos pertinentes, assim distribuídas:
+na Cidade de Fortaleza, 4 (quatro) Juntas de Conciliação de Julgamento (9ª a 12ª ), 4 (quatro) cargos de Juiz do Trabalho Presidente de Junta, 4 (quatro) cargos de Juiz do Trabalho Substituto, 8 (oito) cargos de Juiz Classista de Junta, observada a representação paritária, e 4 (quatro) cargos em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Baturité, 1 (uma) Junta de Conciliação de Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Crateús, 1 (uma) Junta de Conciliação de Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Juazeiro do Norte, 1 (uma) Junta de Conciliação de Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Limoeiro do Norte, 1 (uma) Junta de Conciliação de Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5.
+São criadas na 8ª Região da Justiça do Trabalho, as seguintes Juntas de Conciliação e Julgamento, e cargos pertinentes, assim distribuídas:
+no Estado do Pará:
+na Cidade de Belém, 6 (seis) Juntas de Conciliação e Julgamento (9ª a 14ª), 6 (seis) cargos de Juiz do Trabalho Presidente de Junta, 6 (seis) cargos de Juiz do Trabalho Substituto, 12 (doze) cargos de Juiz Classista de Junta, observada a representação paritária, e 6 (seis) cargos em comissão de Diretor de Secretaria de Junta DAS-101.5;
+(Vetado)
+na Cidade de Ananindeua, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+(Vetado)
+na Cidade de Conceição do Araguaia, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Itaituba, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+Na Cidade de Marabá, 1 (uma) Junta de Conciliação e Julgamento (2ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5 e 1 (um) cargo em comissão de Diretor de Serviço de Distribuição DAS-101.4;
+na Cidade de Paragominas, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Parauapebas, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Santa Isabel do Pará, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+no Estado do Amapá:
+na Cidade de Macapá, 1 (uma) Junta de Conciliação e Julgamento (2ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5 e 1 (um) cargo em comissão de Diretor de Distribuição DAS-101.4;
+na Cidade de Calçoene, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Laranjal do Jari, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5.
+São criadas, na 9ª Região da Justiça do Trabalho, as seguintes Juntas de Conciliação e Julgamento, e cargos pertinentes, assim distribuídas:
+na Cidade de Curitiba, 6 (seis) Juntas de Conciliação e Julgamento (13ª a 18ª), 6 (seis) cargos de Juiz do Trabalho Presidente de Junta, 6 (seis) cargos de Juiz do Trabalho Substituto, 12 (doze) cargos de Juiz Classista de Junta, observada a representação paritária, e 6 (seis) cargos em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Arapongas, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Araucária, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Assis Chateaubriand, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+(Vetado)
+na Cidade de Castro, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Colombo, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Foz do Iguaçu, 1 (uma) Junta de Conciliação e Julgamento (2ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5 e 1 (um) cargo em comissão de Diretor de Distribuição DAS-101.4;
+na Cidade de Guarapuava, 1 (uma) Junta de Conciliação e Julgamento (2ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5 e 1 (um) cargo em comissão de Diretor de Distribuição DAS-101.4;
+na Cidade de Irati, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Jaguariaíva, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Laranjeiras do Sul, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Londrina, 3 (três) Juntas de Conciliação e Julgamento (3ª a 5ª), 3 (três) cargos de Juiz do Trabalho Presidente de Junta, 3 (três) cargos de Juiz do Trabalho Substituto, 6 (seis) cargos de Juiz Classista de Junta, observada a representação paritária, e 3 (três) cargos em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Marechal Cândido Rondon, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Maringá, 2 (duas) Juntas de Conciliação e Julgamento (3ª e 4ª), 2 (dois) cargos de Juiz do Trabalho Presidente de Junta, 2 (dois) cargos de Juiz do Trabalho Substituto, 4 (quatro) cargos de Juiz Classista de Junta, observada a representação paritária, e 2 (dois) cargos em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Ponta Grossa, 1 (uma) Junta de Conciliação e Julgamento (2ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5 e 1 (um) cargo em comissão de Diretor de Distribuição DAS-101.4;
+na Cidade de Rolândia, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de São José dos Pinhais, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Telêmaco Borba, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Venceslau Braz, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+São criadas, na 10ª Região da Justiça do Trabalho, as seguintes Juntas de Conciliação e Julgamento, e cargos pertinentes, assim distribuídas:
+no Distrito Federal:
+na Cidade de Brasília, 5 (cinco) Juntas de Conciliação e Julgamento (11ª a 15ª), 5 (cinco) cargos de Juiz do Trabalho Presidente de Junta, 5 (cinco) cargos de Juiz do Trabalho Substituto, 10 (dez) cargos de Juiz Classista de Junta, observada a representação paritária, e 5 (cinco) cargos em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Taguatinga, 5 (cinco) Juntas de Conciliação e Julgamento (3ª a 7ª), 5 (cinco) cargos de Juiz do Trabalho Presidente de Junta, 5 (cinco) cargos de Juiz do Trabalho Substituto, 10 (dez) cargos de Juiz Classista de Junta, observada a representação paritária, e 5 (cinco) cargos em comissão de Diretor de Secretaria de Junta DAS-101.5;
+no Estado de Mato Grosso:
+na Cidade de Cuiabá, 3 (três) Juntas de Conciliação e Julgamento (3ª a 5ª), 3 (três) cargos de Juiz do Trabalho Presidente de Junta, 3 (três) cargos de Juiz do Trabalho Substituto, 6 (seis) cargos de Juiz Classista de Junta, observada a representação paritária, e 3 (três) cargos em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Alta Floresta, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Barra do Garças, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Diamantino, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Sinop, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Tangará da Serra, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+no Estado de Mato Grosso do Sul:
+na Cidade de Campo Grande, 2 (duas) Juntas de Conciliação e Julgamento (4ª e 5ª), 2 (dois) cargos de Juiz do Trabalho Presidente de Junta, 2 (dois) cargos de Juiz do Trabalho Substituto, 4 (quatro) cargos de Juiz Classista de Junta, observada a representação paritária, e 2 (dois) cargos em comissão de Diretor de Secretaria de Junta DAS-101.5;
+(Vetado)
+na Cidade de Paranaíba, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+no Estado de Tocantins:
+na Cidade de Palmas, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5.
+São criadas, na 11ª Região da Justiça do Trabalho, as seguintes Juntas de Conciliação e Julgamento, e cargos pertinentes, assim distribuídas:
+na Cidade de Manaus, 3 (três) Juntas de Conciliação e Julgamento (10ª a 12ª), 3 (três) cargos de Juiz do Trabalho Presidente de Junta, 3 (três) cargos de Juiz do Trabalho Substituto, 6 (seis) cargos de Juiz Classista de Junta, observada a representação paritária, e 3 (três) cargos em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Manacapuru, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+(Vetado)
+na Cidade de Presidente Figueiredo, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Tefé, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5.
+São criadas, na 12ª Região da Justiça do Trabalho, as seguintes Juntas de Conciliação e Julgamento, e cargos pertinentes, assim distribuídas:
+na Cidade de Florianópolis, 4 (quatro) Juntas de Conciliação e Julgamento (4ª a 7ª), 4 (quatro) cargos de Juiz do Trabalho Presidente de Junta, 4 (quatro) cargos de Juiz do Trabalho Substituto, 8 (oito) cargos de Juiz Classista de Junta, observada a representação paritária, e 4 (quatro) cargos em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Balneário de Camboriú, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS 101.5;
+na Cidade de Blumenau, 1 (uma) Junta de Conciliação e Julgamento (3ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Chapecó, 1 (uma) Junta de Conciliação e Julgamento (2ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5 e 1 (um) cargo em comissão de Diretor de Serviço de Distribuição DAS-101.4;
+(Vetado)
+na Cidade de Curitibanos, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Imbituba, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Indaial, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+(Vetado)
+na Cidade de Joinville, 1 (uma) Junta de Conciliação e Julgamento (4ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Lajes, 1 (uma) Junta de Conciliação e Julgamento (2ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5 e 1 (um) cargo em comissão de Diretor de Serviço de Distribuição DAS-101.4;
+na Cidade de Porto União, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de São José, 2 (duas) Juntas de Conciliação e Julgamento (1ª e 2ª), 2 (dois) cargos de Juiz do Trabalho Presidente de Junta, 2 (dois) cargos de Juiz do Trabalho Substituto, 4 (quatro) cargos de Juiz Classista de Junta, observada a representação paritária, e 2 (dois) cargos em comissão de Diretor de Secretaria de Junta DAS-101.5 e 1 (um) cargo em comissão de Diretor de Serviço de Distribuição DAS-101.4;
+na Cidade de Tubarão, 1 (uma) Junta de Conciliação e Julgamento (2ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5 e 1 (um) cargo em comissão de Diretor de Serviço de Distribuição DAS-101.4.
+São criadas, na 13ª Região da Justiça do Trabalho, as seguintes Juntas de Conciliação e Julgamento, e cargos pertinentes, assim distribuídas:
+no Estado da Paraíba:
+na Cidade de João Pessoa, 2 (duas) Juntas de Conciliação e Julgamento (4ª e 5ª), 2 (dois) cargos de Juiz do Trabalho Presidente de Junta, 2 (dois) cargos de Juiz do Trabalho Substituto, 4 (quatro) cargos de Juiz Classista de Junta, observada a representação paritária, e 2 (dois) cargos em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Areia, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+(Vetado)
+na Cidade de Cajazeiras, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Campina Grande, 2 (duas) Juntas de Conciliação e Julgamento (2ª e 3ª), 2 (dois) cargos de Juiz do Trabalho Presidente de Junta, 2 (dois) cargos de Juiz do Trabalho Substituto, 4 (quatro) cargos de Juiz Classista de Junta, observada a representação paritária, e 2 (dois) cargos em comissão de Diretor de Secretaria de Junta DAS-101.5 e 1 (um) cargo em comissão de Diretor de Serviço de Distribuição DAS-101.4;
+na Cidade de Catolé do Rocha, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Itabaiana, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Itaporanga, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Mamanguape, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Monteiro, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Picuí, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Taperoá, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+no Estado do Rio Grande do Norte:
+na Cidade de Natal, 2 (duas) Juntas de Conciliação e Julgamento (4ª e 5ª), 2 (dois) cargos de Juiz do Trabalho Presidente de Junta, 2 (dois) cargos de Juiz do Trabalho Substituto, 4 (quatro) cargos de Juiz Classista de Junta, observada a representação paritária, e 2 (dois) cargos em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Açu, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Caicó, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Ceará Mirim, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Currais Novos, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Mossoró, 1 (uma) Junta de Conciliação e Julgamento (2ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.4;
+na Cidade de Nova Cruz, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Pau dos Ferros, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5.
+São criadas, na 14ª Região da Justiça do Trabalho, as seguintes Juntas de Conciliação e Julgamento, e cargos pertinentes, assim distribuídas:
+no Estado de Rondônia:
+na Cidade de Porto Velho, 2 (duas) Juntas de Conciliação e Julgamento (4ª e 5ª), 2 (dois) cargos de Juiz do Trabalho Presidente de Junta, 2 (dois) cargos de Juiz do Trabalho Substituto, 4 (quatro) cargos de Juiz Classista de Junta, observada a representação paritária, e 2 (dois) cargos em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Colorado do Oeste, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Costa Marques, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Jaru, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Ouro Preto d'Oeste, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Pimenta Bueno, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Presidente Médici, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Rolim de Moura, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+no Estado do Acre:
+na Cidade de Rio Branco, 2 (duas) Juntas de Conciliação e Julgamento (3ª e 4ª), 2 (dois) cargos de Juiz do Trabalho Presidente de Junta, 2 (dois) cargos de Juiz do Trabalho Substituto, 4 (quatro) cargos de Juiz Classista de Junta, observada a representação paritária, e 2 (dois) cargos em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Brasiléia, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Feijó, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Sena Madureira, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Tarauacá, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Xapuri, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5.
+São criadas, na 15ª Região da Justiça do Trabalho, as seguintes Juntas de Conciliação e Julgamento, e cargos pertinentes, assim distribuídas:
+na Cidade de Campinas, 4 (quatro) Juntas de Conciliação e Julgamento (5ª a 8ª), 4 (quatro) cargos de Juiz do Trabalho Presidente de Junta, 4 (quatro) cargos de Juiz do Trabalho Substituto, 8 (oito) cargos de Juiz Classista de Junta, observada a representação paritária, e 4 (quatro) cargos em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Americana, 1 (uma) Junta de Conciliação e Julgamento (2ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5 e 1 (um) cargo em comissão de Diretor de Serviço de Distribuição DAS-101.4;
+na Cidade de Araçatuba, 1 (uma) Junta de Conciliação e Julgamento (3ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Araraquara, 1 (uma) Junta de Conciliação e Julgamento (2ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5 e 1 (um) cargo em comissão de Diretor de Serviço de Distribuição DAS-101.4;
+na Cidade de Assis, 1 (uma) Junta de Conciliação e Julgamento (2ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5 e 1 (um) cargo em comissão de Diretor de Serviço de Distribuição DAS-101.4;
+(Vetado)
+na Cidade de Batatais, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Bauru, 3 (três) Juntas de Conciliação e Julgamento (2ª a 4ª), 3 (três) cargos de Juiz do Trabalho Presidente de Junta, 3 (três) cargos de Juiz do Trabalho Substituto, 6 (seis) cargos de Juiz Classista de Junta, observada a representação paritária, e 3 (três) cargos em comissão de Diretor de Secretaria de Junta DAS-101.5 e 1 (um) cargo em comissão de Diretor de Serviço de Distribuição DAS-101.4;
+na Cidade de Birigüi, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Cajuru, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Campo Limpo Paulista, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Catanduva, 1 (uma) Junta de Conciliação e Julgamento (2ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5 e 1 (um) cargo em comissão de Diretor de Serviço Distribuição DAS-101.4;
+na Cidade de Franca, 1 (uma) Junta de Conciliação e Julgamento (2ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5 e 1 (um) cargo em comissão de Diretor de Serviço de Distribuição DAS-101.4;
+na Cidade de Garça, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Indaiatuba, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+(Vetado)
+na Cidade de Jales, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de José Bonifácio, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Jundiaí, 2 (duas) Juntas de Conciliação e Julgamento (3ª e 4ª), 2 (dois) cargos de Juiz do Trabalho Presidente de Junta, 2 (dois) cargos de Juiz do Trabalho Substituto, 4 (quatro) cargos de Juiz Classista de Junta, observada a representação paritária, e 2 (dois) cargos em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Lençóis Paulista, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Lorena, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Marília, 1 (uma) Junta de Conciliação e Julgamento (2ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5 e 1 (um) cargo em comissão de Diretor de Serviço de Distribuição DAS-101.4;
+na Cidade de Matão, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Moji Guaçu, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+(Vetado)
+na Cidade de Olímpia, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Paulínia, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Piedade, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Rancharia, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Salto, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Santa Bárbara d'Oeste, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de São Carlos, 1 (uma) Junta de Conciliação e Julgamento (2ª ), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5 e 1 (um) cargo em comissão de Diretor de Serviço de Distribuição DAS-101.4;
+na Cidade de São José do Rio Preto, 1 (uma) Junta de Conciliação e Julgamento (3ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade São José dos Campos, 2 (duas) Juntas de Conciliação e Julgamento (3ª e 4ª), 2 (dois) cargos de Juiz do Trabalho Presidente de Junta, 2 (dois) cargos de Juiz do Trabalho Substituto, 4 (quatro) cargos de Juiz Classista de Junta, observada a representação paritária, e 2 (dois) cargos em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de São Roque, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Sorocaba, 1 (uma) Junta de Conciliação e Julgamento (3ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Tanabi, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Taubaté, 1 (uma) Junta de Conciliação e Julgamento (2ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5 e 1 (um) cargo em comissão de Diretor de Serviço de Distribuição DAS-101.4;
+na Cidade de Tietê, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5.
+São criadas, na 16ª Região da Justiça do Trabalho, as seguintes Juntas de Conciliação e Julgamento, e cargos pertinentes, assim distribuídas:
+no Estado do Maranhão:
+na Cidade de São Luís, 2 (duas) Juntas de Conciliação e Julgamento (3ª e 4ª), 2 (dois) cargos de Juiz do Trabalho Presidente de Junta, 2 (dois) cargos de Juiz do Trabalho Substituto, 4 (quatro) cargos de Juiz Classista de Junta, observada a representação paritária, e 2 (dois) cargos em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Açailândia, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Santa Inês, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+no Estado do Piauí:
+na Cidade de Teresina, 1 (uma) Junta de Conciliação e Julgamento (3ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5.
+São criadas, na 17ª Região da Justiça do Trabalho, as seguintes Juntas de Conciliação e Julgamento, e cargos pertinentes, assim distribuídas:
+na Cidade de Vitória, 5 (cinco) Juntas de Conciliação e Julgamento (4ª a 8ª), 5 (cinco) cargos de Juiz do Trabalho Presidente de Junta, 5 (cinco) cargos de Juiz do Trabalho Substituto, 10 (dez) cargos de Juiz Classista de Junta, observada a representação paritária, e 5 (cinco) cargos em comissão de Diretor de Secretaria de Junta DAS-101.5 e 1 (um) cargo em comissão de Diretor de Serviço de Distribuição DAS-101.4;
+na Cidade de Afonso Cláudio, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Alegre, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Guarapari, 1 (uma) Junta de Conciliação e Julgamento (1ª) 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Mimoso do Sul, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Nova Venécia, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de São Mateus, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5.
+São criadas, na 18ª Região da Justiça do Trabalho, as seguintes Juntas de Conciliação e Julgamento, e cargos pertinentes, assim distribuídas:
+na Cidade de Goiânia, 6 (seis) Juntas de Conciliação e Julgamento (7ª a 12ª), 6 (seis) cargos de Juiz do Trabalho Presidente de Junta, 6 (seis) cargos de Juiz do Trabalho Substituto, 12 (doze) cargos de Juiz Classista de Junta, observada a representação paritária, e 6 (seis) cargos em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Anápolis, 3 (três) Juntas de Conciliação e Julgamento (2ª a 4ª), 3 (três) cargos de Juiz do Trabalho Presidente de Junta, 3 (três) cargos de Juiz do Trabalho Substituto, 6 (seis) cargos de Juiz Classista de Junta, observada a representação paritária, e 3 (três) cargos em comissão de Diretor de Secretaria de Junta DAS-101.5 e 1 (um) cargo em comissão de Diretor de Serviço de Distribuição DAS-101.4;
+na Cidade de Aparecida de Goiânia, 2 (duas) Juntas de Conciliação e Julgamento (1ª e 2ª), 2 (dois) cargos de Juiz do Trabalho Presidente de Junta, 2 (dois) cargos de Juiz do Trabalho Substituto, 4 (quatro) cargos de Juiz Classista de Junta, observada a representação paritária, 2 (dois) cargos em comissão de Diretor de Secretaria de Junta DAS-101.5 e 1 (um) cargo em comissão de Diretor de Serviço de Distribuição DAS-101.4;
+na Cidade de Ceres, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Goiás, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de São Luís de Montes Belos, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Iporá, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+na Cidade de Mineiros, 1 (uma) Junta de Conciliação e Julgamento (1ª), 1 (um) cargo de Juiz do Trabalho Presidente de Junta, 1 (um) cargo de Juiz do Trabalho Substituto, 2 (dois) cargos de Juiz Classista de Junta, observada a representação paritária, e 1 (um) cargo em comissão de Diretor de Secretaria de Junta DAS-101.5;
+(Vetado)
+Os cargos de Juiz do Trabalho Substituto, criados por esta lei, integram o quadro geral de Juízes do Trabalho Substitutos da respectiva região, não ficando, diretamente, vinculados às Juntas de Conciliação e Julgamento.
+Para cada Juiz Classista de Junta haverá um suplente.
+Ficam assim definidas as áreas de jurisdição das Juntas de Conciliação e Julgamento, localizadas nas cidades abaixo, pertencentes à 1ª Região, no Estado do Rio de Janeiro:
+Rio de Janeiro: o respectivo Município;
+Angra dos Reis: o respectivo Município e os de Parati e Rio Claro;
+Araruama: o respectivo Município e o de Saquarema;
+Barra do Piraí: o respectivo Município e os de Mendes, Miguel Pereira, Pati do Alferes, Paulo de Frontin, Piraí, Valença e Vassouras;
+Cabo Frio: o respectivo Município e os de Arraial do Cabo e São Pedro da Aldeia; VI Campos dos Goytacazes: o respectivo Município e os de Italva, São Fidélis e São João da Barra;
+Cordeiro: o respectivo Município e os de Cantagalo, Santa Maria Madalena, São Sebastião do Alto e Trajano de Morais;
+Duque de Caxias: o respectivo Município;
+Itaboraí: o respectivo Município e os de Rio Bonito e Silva Jardim;
+Itaguaí: o respectivo Município e o de Mangaratiba;
+Itaperuna: o respectivo Município e os de Bom Jesus de Itabapoana, Cambuci, Itaocara, Lage do Muriaé, Miracema, Natividade, Porciúncula e Santo Antônio de Pádua;
+Macaé: o respectivo Município e os de Casimiro de Abreu e Conceição de Macabu;
+Magé: o respectivo Município;
+Nilópolis: o respectivo Município;
+Niterói: o respectivo Município e o de Maricá;
+Nova Friburgo: o respectivo Município e os de Bom Jardim, Cachoeiras de Macacu, Carmo, Duas Barras e Sumidouro;
+Nova Iguaçu: o respectivo Município e o de Paracambi;
+Petrópolis: o respectivo Município;
+Resende: o respectivo Município e o de Itatiaia;
+São Gonçalo: o respectivo Município;
+São João do Meriti: o respectivo Município;
+Teresópolis: o respectivo Município;
+Três Rios: o respectivo Município e os de Paraíba do Sul, Rio das Flores e Sapucaia; XXIV Volta Redonda: o respectivo Município e o de Barra Mansa.
+Ficam assim definidas as áreas de jurisdição das Juntas de Conciliação e Julgamento, localizadas nas cidades abaixo, pertencentes à 2ª Região, no Estado de São Paulo, com sede na Cidade de São Paulo:
+São Paulo: o respectivo Município;
+Barueri: o respectivo Município;
+Barra Bonita: o respectivo Município e os de Iguaraçu e Mineiro do Tietê;
+Caieiras: o respectivo Município;
+Cajamar: o respectivo Município;
+Carapicuíba: o respectivo Município;
+Cotia: o respectivo Município e os de Itapevi, Ibiúna e Vargem Grande Paulista;
+Cubatão: o respectivo Município;
+Diadema: o respectivo Município;
+Embu: o respectivo Município;
+Ferraz de Vasconcelos: o respectivo Município;
+Franco da Rocha: o respectivo Município e os de Francisco Morato e Mairiporã;
+Guarujá: o respectivo Município e os de Bertioga e Vicente de Carvalho;
+Guarulhos: o respectivo Município e os de Arujá e Santa Isabel;
+Itapecerica da Serra: o respectivo Município e os de Embu-Guaçu e Juquitiba;
+Itaquaquecetuba: o respectivo Município;
+Jandira: o respectivo Município;
+Mauá: o respectivo Município;
+Mogi das Cruzes: o respectivo Município e os de Biritiba-Mirim, Guararema e Salesópolis;
+Osasco: o respectivo Município;
+Poá: o respectivo Município;
+Praia Grande: o respectivo Município;
+Ribeirão Pires: o respectivo Município e o de Rio Grande da Serra;
+Santana do Parnaíba: o respectivo Município e o de Pirapora do Bom Jesus;
+Santo André: o respectivo Município;
+Santos: o respectivo Município;
+São Bernardo do Campo: o respectivo Município;
+São Caetano do Sul: o respectivo Município;
+São Vicente: o respectivo Município;
+Suzano: o respectivo Município;
+Taboão da Serra: o respectivo Município;
+Ficam assim definidas as áreas de Jurisdição das Juntas de Conciliação e Julgamento, localizadas nas cidades abaixo, pertencentes à 3ª Região, no Estado de Minas Gerais:
+Belo Horizonte: o respectivo Município;
+Aimorés: o respectivo Município e os de Alvarenga, Conselheiro Pena, Itanhomi, Itueta, Resplendor, Santa Rita do Itueto e Tumiritinga;
+Alfenas: o respectivo Município e os de Alterosa, Areado, Campo do Meio, Campos Gerais, Carmo do Rio Claro, Carvalhópolis, Conceição da Aparecida, Cordislândia, Divisa Nova, Fama, Machado, Paraguaçu, Poço Fundo, Serrania e Turvolândia;
+Almenara: o respectivo Município e os de Águas Vermelhas, André Fernandes, Bandeira, Comercinho, Coronel Murta, Felisburgo, Fronteira dos Vales, Jacinto, Jequitinhonha, Joaíma, Jordânia, Medina, Pedra Azul, Rio do Prado, Rubelita, Rubim, Salinas, Salto da Divisa, Santa Maria do Salto, Santo Antônio do Jacinto e Taiobeiras;
+Araguari: o respectivo Município e os de Cascalho Rico e Grupiara;
+Araxá: o respectivo Município e os de Campos Altos, Ibiá, Pedrinópolis, Perdizes, Pratinha, Santa Juliana e Tapira;
+Barbacena: o respectivo Município e os de Alto Rio Doce, Antônio Carlos, Aracitaba, Barroso, Bias Fortes, Capela Nova, Carandaí, Cipotânea, Desterro do Melo, Ibertioga, Oliveira Fortes, Paiva, Ressaquinha, Santa Bárbara do Tugúrio, Santa Rita do Ibitipoca, Santos Dumont e Senhora dos Remédios;
+Betim: o respectivo Município e os de Bonfim, Brumadinho, Crucilândia, Esmeraldas, Igarapé, Mateus Leme, Piedade das Gerais e Rio Manso;
+Bom Despacho: o respectivo Município e os de Abaeté, Araújos, Biquinhas, Cedro do Abaeté, Córrego Dantas, Dores do Indaiá, Estrela do Indaiá, Japaraíba, Lagoa da Prata, Leandro Ferreira, Luz, Maravilhas, Martinho Campos, Moema, Morada Nova de Minas, Nova Serrana, Paineiras, Papagaios, Perdigão, Pitangui, Pompeu, Quartel Geral, Santo Antônio do Monte e Serra da Saudade;
+Caratinga: o respectivo Município e os de Bom Jesus do Galho, Córrego Novo, Dom Cavati, Engenheiro Caldas, Fernandes Tourinho, Iapu, Inhapim, São João do Oriente, Sobrália e Tarumirim;
+Cataguases: o respectivo Município e os de Além Paraíba, Argirita, Astolfo Dutra, Dona Euzébia, Estrela Dalva, Itamarati de Minas, Leopoldina, Miraí, Pirapetinga, Recreio, Santana de Cataguases, Santo Antônio de Aventureiro e Volta Grande;
+Caxambu: o respectivo Município e os de Airuoca, Alagoa, Andrelândia, Arantina, Baependi, Bocaina de Minas, Bom Jardim de Minas, Carmo de Minas, Carvalhos, Cruzília, Dom Viçoso, Itamonte, Itanhandu, Jesuânia, Liberdade, Minduri, Olímpio Noronha, Passa Quatro, Passa Vinte, Pouso Alto, Santa Rita de Jacutinga, São Lourenço, São Sebastião do Rio Verde, São Vicente de Minas, Seritinga, Serranos, Soledade de Minas e Virgínia;
+Congonhas: o respectivo Município e os de Belo Vale, Desterro de Entre Rios, Entre Rios de Minas, Jeceaba, Moeda, Ouro Branco e São Brás do Suaçuí;
+Conselheiro Lafaiete: o respectivo Município e os de Caranaíba, Casa Grande, Catas Altas da Noruega, Cristiano Otoni, Itaverava, Lamin, Piranga, Queluzita, Rio Espera, Santana dos Montes e Senhora de Oliveira;
+Contagem: o respectivo Município e o de Ibirité; XVI Coronel Fabriciano: o respectivo Município e os de Antônio Dias, Jaguaraçu, Marliéria e Timóteo;
+Curvelo: o respectivo Município e os de Augusto de Lima, Buenópolis, Corinto, Felixlândia, Inimutaba, Joaquim Felício, Monjolos, Morro da Garça, Presidente Juscelino, Santo Hipólito e Três Marias;
+Diamantina: o respectivo Município e os de Alvorada de Minas, Carbonita, Congonhas do Norte, Couto de Magalhães de Minas, Dantas, Felício dos Santos, Felisberto Caldeira, Gouvêa, Itamarandiba, Presidente Kubitschek, Rio Vermelho, Santo Antônio do Itambé, Senador Modestino Gonçalves, Serra Azul de Minas e Serro;
+Divinópolis: o respectivo Município e os de Camacho, Carmo do Cajuru, Cláudio, Itapecerica, Pedra do Indaiá, São Gonçalo do Pará e São Sebastião do Oeste;
+Formiga: o respectivo Município e os de Aguanil, Arcos, Bambuí, Campo Belo, Candeias, Capitólio, Cristais, Doresópolis, Guapé, Iguatama, Medeiros, Pains, Pimenta, Piuí, Santana do Jacaré, São Roque de Minas, Tapiraí e Vargem Bonita;
+Governador Valadares: o respectivo Município e os de Alpercata, Central de Minas, Coroaci, Divino das Laranjeiras, Galiléia, Frei Inocêncio, Itabirinha de Mantena, Mantena, Marilac, Mendes Pimentel, Nacip Raydan, Santa Efigênia de Minas, São Geraldo da Piedade, São José da Safira, Sardoá, Vila Matias e Virgolândia;
+Guanhães: o respectivo Município e os de Açucena, Água Boa, Braúnas, Capelinha, Carmésia, Coluna, Conceição do Mato Dentro, Divinolândia de Minas, Dom Joaquim, Dores de Guanhães, Gonzaga, Materlândia, Minas Novas, Morro do Pilar, Paulistas, Peçanha, Sabinópolis, Santa Maria do Suaçuí, São João Evangelista, São José do Jacuri, São Pedro do Suasuí, Senhora do Porto, Turmalina e Virginópolis;
+Guaxupé: o respectivo Município e os de Arceburgo, Bom Jesus da Penha, Guaranésia, Itamogi, Juruaia, Monte Belo, Monte Salto de Minas, Muzambinho, Nova Resende e São Pedro da União;
+(Vetado)
+Itabira: o respectivo Município e os de Bom Jesus do Amparo, Ferros, Itambé do Mato Dentro, Passabém, Santa Maria do Itabira, Santo Antônio do Rio Abaixo e São Sebastião do Rio Preto;
+Itajubá: o respectivo Município e os de Brazópolis, Conceição da Pedra, Conceição dos Ouros, Consolação, Cristina, Delfim Moreira, Gonçalves, Maria da Fé, Marmelópolis, Natércia, Paraisópolis, Pedralva, Piranguçu, Piranguinho, São José do Alegre, Sapucaí-Mirim e Wenceslau Braz;
+Itaúna: o respectivo Município e os de Conceição do Pará, Florestal, Igaratinga, Itaguara, Itatiaiuçu, Onça do Pitangui, Pará de Minas, Pequi e São José da Varginha;
+Ituiutaba: o respectivo Município e os de Cachoeira Dourada, Campina Verde, Canápolis, Capinópolis, Centralina, Comendador Gomes, Gurinhatã, Ipiaçu, Itapagipe, Iturama, Prata, Santa Vitória e São Francisco de Sales;
+(Vetado)
+Januária: o respectivo Município e os de Itacarambi, Manga, Montalvânia, São Francisco, São João da Ponte e Varzelândia;
+João Monlevade: o respectivo Município e os de Alvinópolis, Barão de Cocais, Bela Vista de Minas, Dionísio, Nova Era, Rio Piracicaba, Santa Bárbara, São Domingos do Prata, São Gonçalo do Rio Abaixo e São José do Goiabal;
+Juiz de Fora: o respectivo Município e os de Belmiro Braga, Bicas, Chácara, Chiador, Coronel Pacheco, Descoberto, Ewbank da Câmara, Guarará, Lima Duarte, Mar de Espanha, Maripá de Minas, Matias Barbosa, Olaria, Pedro Teixeira, Pequeri, Piau, Rio Novo, Rio Preto, Rochedo de Minas, Santana do Deserto, Santana do Garambéu, São João Nepomuceno, Senador Cortes e Simão Pereira;
+Lavras: o respectivo Município e os de Bom Sucesso, Cana Verde, Carmo da Mata, Carmópolis de Minas, Ibituruna, Ijaci, Ingai, Itumirim, Nepomuceno, Oliveira, Passa Tempo, Perdões, Piracema, Ribeirão Vermelho, Santo Antônio do Amparo, São Francisco de Oliveira e São Tiago;
+Manhuaçu: o respectivo Município e os de Caputira, Chalé, Conceição de Ipanema, Ipanema, Lajinha, Matipó, Manhumirim, Mutum, Pocrane, Presidente Soares, Santa Margarida, Santana do Manhuaçu, São José do Mantimento e Simonésia;
+(Vetado)
+Monte Azul: o respectivo Município e os de Espinosa, Riacho dos Machados, Rio Pardo de Minas e São João do Paraíso;
+Montes Claros: o respectivo Município e os de Bocaiúva, Botumirim, Brasília de Minas, Capitão Enéias, Claro dos Poções, Coração de Jesus, Cristália, Engenheiro Navarro, Francisco Dumont, Francisco Sá, Grão Mogol, Ibiaí, Itacambira, Juramento, Lagoa dos Patos, Mirabela e Ubaí;
+Muriaé: o respectivo Município e os de Antônio Prado de Minas, Barão do Monte Alto, Caiana, Caparaó, Carangola, Divino, Espera Feliz, Eugenópolis, Faria Lemos, Laranjal, Miradouro, Palma, Patrocínio do Muriaé, Pedra Dourada, São Francisco do Glória, Tombos e Vieiras;
+Nova Lima: o respectivo Município e os de Raposos e Rio Acima;
+Ouro Preto: o respectivo Município e os de Acaiaca, Diogo de Vasconcelos, Itabirito e Mariana;
+Paracatu: o respectivo Município e os de Guarda-Mor, João Pinheiro e Vazante;
+Passos: o respectivo Município e os de Alpinópolis, Capetinga, Cássia, Claraval, Delfinópolis, Fortaleza de Minas, Ibiraci, Itaú de Minas, Jacuí, Pratápolis, São João Batista do Glória, São Sebastião do Paraíso e São Tomás de Aquino;
+Patos de Minas: o respectivo Município e os de Arapuã, Carmo do Paranaíba, Lagamar, Lagoa Formosa, Matutina, Presidente Olegário, Rio Paranaíba, Santa Rosa da Serra, São Gonçalo do Abaeté, São Gotardo e Tiros;
+Patrocínio: o respectivo Município e os de Abadia dos Dourados, Coromandel, Cruzeiro da Fortaleza, Douradoquara, Estrela do Sul, Guimarânia, Iraí de Minas, Monte Carmelo, Romaria e Serra do Salitre;
+Pedro Leopoldo: o respectivo Município e os de Lagoa Santa e Vespasiano;
+Pirapora: o respectivo Município e os de Buritizeiro, Jequitaí, Lassance, Santa Fé de Minas, São Romão e Várzea da Palma;
+Poços de Caldas: o respectivo Município e os de Andradas, Bandeira do Sul, Botelhos, Cabo Verde, Caldas, Campestre, Ibitiúra de Minas, Ipiúna e Santa Rita de Caldas;
+Ponte Nova: o respectivo Município e os de Abre Campo, Amparo da Serra, Araponga, Barra Longa, Cajuri, Canaã, Coimbra, Dom Silvério, Guaraciaba, Jequeri, Pedra do Anta, Piedade de Ponta Nova, Porto Firme, Raul Soares, Rio Casca, Rio Doce, Santa Cruz do Escalvado, Santo Antônio do Grama, São Miguel do Anta, São Pedro dos Ferros, Sericita, Teixeiras, Urucânia e Viçosa;
+Pouso Alegre: o respectivo Município e os de Albertina, Bom Repouso, Borda da Mata, Bueno Brandão, Cachoeira de Minas, Camanducaia, Cambuí, Careaçu, Congonhal, Córrego do Bom Jesus, Espírito Santo do Dourado, Estiva, Extrema, Heliodora, Inconfidentes, Itapeva, Jacutinga, Munhoz, Monte Sião, Ouro Fino, Santa Rita do Sapucaí, São João da Mata, São Sebastião da Bela Vista, Senador José Bento, Silvianópolis e Toledo;
+Ribeirão das Neves: o respectivo Município;
+Sabará: o respectivo Município e o de Caeté;
+Santa Luzia: o respectivo Município e os de Jaboticatubas, Nova União e Taquaraçu de Minas;
+São João Del Rei: o respectivo Município e os de Cassiterita, Coronel Xavier Chaves, Dores de Campos, Lagoa Dourada, Madre de Deus de Minas, Nazareno, Piedade do Rio Grande, Prados, Rezende Costa, Ritápolis e Tiradentes;
+Sete Lagoas: o respectivo Município e os de Araçaí, Baldim, Cachoeira da Prata, Caetanópolis, Cordisburgo, Fortuna de Minas, Inhaúma, Jequitibá, Paraopeba, Santana de Pirapama e Santana do Riacho;
+Teófilo Otoni: o respectivo Município e os de Águas Formosas, Araçuaí, Ataléia, Berilo, Bertópolis, Campanário, Caraí, Carlos Chagas, Chapada do Norte, Francisco Badaró, Frei Gaspar, Itaipé, Itambacuri, Itaobim Itinga, Ladainha, Machacalis, Malacacheta, Nanuque, Nova Módica, Novo Cruzeiro, Ouro Verde de Minas, Padre Paraíso, Pavão, Pescador, Poté, São José do Divino, São Sebastião do Maranhão, Serra dos Aimorés, Umburatiba e Virgem da Lapa;
+(Vetado)
+Ubá: o respectivo Município e os de Braz do Pires, Divinésia, Dores do Turvo, Ervália, Guarani, Guidoval, Guiricema, Mercês, Paula Cândido, Piraúba, Presidente Bernardes, Rio Pomba, Rodeio, São Geraldo, Senador Firmino, Silveirânia, Tabuleiro, Tocantins e Visconde do Rio Branco;
+Uberaba: o respectivo Município e os de Águas Compridas, Campo Florido, Conceição das Alagoas, Conquista, Fronteira, Frutal, Pirajuba, Planura, Sacramento e Veríssimo;
+Uberlândia: o respectivo Município e os de Indianópolis, Monte Alegre de Minas, Nova Ponte e Tupaciguara;
+Unaí: o respectivo Município e os de Arinos, Bonfinópolis de Minas, Buritis e Formoso;
+Varginha: o respectivo Município e os de Boa Esperança, Coqueiral, Elói Mendes, Ilicínea, Santana da Vargem e Três Pontas;
+Ficam assim definidas as áreas de jurisdição das Juntas de Conciliação e Julgamento, localizadas nas cidades abaixo, pertencentes à 4ª Região, no Estado do Rio Grande do Sul:
+Porto Alegre: o respectivo Município;
+Alegrete: o respectivo Município;
+Alvorada: o respectivo Município;
+Arroio Grande: o respectivo Município e os de Herval, Jaguarão e Pedro Osório;
+Bagé: o respectivo Município e os de Dom Pedrito, Lavras do Sul e Pinheiro Machado;
+Bento Gonçalves: o respectivo Município e os de Carlos Barbosa, Cotiporã, Dois Lajeados, Fagundes Varela, Garibaldi, Guabiju, Guaporé, Nova Araçá, Nova Bassano, Nova Prata, Paraí, Protásio Alves, São Jorge, Veranópolis, Vista Alegre do Prata e Vila Flores;
+Cachoeirinha: o respectivo Município;
+Cachoeira do Sul: o respectivo Município e os de Agudo, Amaral Ferrador, Caçapava do Sul, Cerro Branco, Dona Francisca, Encruzilhada do Sul, Paraíso do Sul, Restinga Seca e Santana da Boa Vista;
+Camaquã: o respectivo Município e os de Cerro Grande do Sul, Cristal, Dom Feliciano, São Lourenço do Sul e Tapes;
+Canoas: o respectivo Município;
+Carazinho: o respectivo Município e os de Alto Alegre, Campos Borges, Colorado, Espumoso, Ibirapuitã, Lagoão, Não-me-Toque, Nonoai, Salto do Jacuí, Sarandi, Selbach, Soledade, Tapera, Três Palmeiras, Tunas e Victor Graeff;
+Caxias do Sul: o respectivo Município e os de Antônio Prado, Flores da Cunha e São Marcos;
+(Vetado)
+Cruz Alta: o respectivo Município e os de Condor, Fortaleza dos Valos, Ibirubá, Panambi, Pejuçara, Quinze de Novembro, Saldanha Marinho, Santa Bárbara do Sul e Tupanciretã;
+Erexim: o respectivo Município e os de Aratiba, Aurea, Barão do Cotegipe, Cacique Doble, Campinas do Sul, Entre Rios do Sul, Erebango, Erval Grande, Estação, Faxinalzinho, Gaurama, Getúlio Vargas, Ipiranga do Sul, Itatiba do Sul, Jacutinga, Machadinho, Marcelino Ramos, Mariano Moro, Maximiliano de Almeida, Paim Filho, Sananduva, São João da Urtiga, São José do Ouro, São Valentim, Severiano de Almeida, Três Arroios e Viadutos;
+Estância Velha: o respectivo Município e os de Dois Irmãos, Ivoti e Santa Maria do Herval;
+Esteio: o respectivo Município;
+Farroupilha: o respectivo Município e o de Nova Roma do Sul;
+Frederico Westphalen: o respectivo Município e os de Alpestre, Erval Seco, Iraí, Jaboticaba, Palmitinho, Pinhal, Planalto, Rodeio Bonito, Seberi, Trindade do Sul, Vicente Dutra, Vista Alegre e Taquaruçu do Sul;
+Gramado: o respectivo Município e os de Cambará do Sul, Canela, Jaquirana, Nova Petrópolis e São Francisco de Paula;
+Gravataí: o respectivo Município e o de Glorinha;
+Guaíba: o respectivo Município e os de Barra do Ribeiro e Eldorado do Sul;
+Ijuí: o respectivo Município e os de Ajuricaba, Augusto Pestana e Jóia;
+(Vetado)
+Montenegro: o respectivo Município e os de Barão, Brochier do Maratá, Harmonia, Paverama, Poço das Antas, Salvador do Sul e Taquari;
+Novo Hamburgo: o respectivo Município;
+Osório: o respectivo Município e os de Arroio do Sal, Capão da Canoa, Cidreira, Imbé, Santo Antônio da Patrulha, Terra de Areia, Torres, Tramandaí e Três Cachoeiras;
+Palmeira das Missões: o respectivo Município e os de Chapada, Cerro Grande, Constantina, Liberato Salzano, Ronda Alta, Rondinha e Sarandi;
+Passo Fundo: o respectivo Município e os de Água Santa, Arvorezinha, Camargo, Casca, Ciríaco, David Canabarro, Ernestina, Marau, Montauri, Nova Alvorada, São Domingos do Sul, Serafina Corrêa, Sertão, Tapejara, Vanini e Vila Maria;
+Pelotas: o respectivo Município e os de Canguçu, Capão do Leão, Morro Redondo e Piratini;
+Rio Grande: o respectivo Município e os de Santa Vitória do Palmar e São José do Norte;
+Rosário do Sul: o respectivo Município e o de Cacequi;
+Santa Cruz do Sul: o respectivo Município e os de Arroio do Tigre, Boqueirão do Leão; Candelária, Ibarama, Pântano Grande, Rio Pardo, Segredo, Sobradinho, Venâncio Aires e Vera Cruz;
+Santa Maria: o respectivo Município e os de Faxinal do Soturno, Formigueiro, Ivorá, Júlio de Castilhos, Mata, Nova Palma, São Pedro do Sul, São Sepé e Silveira Martins;
+Santa Rosa: o respectivo Município e os de Alecrim, Alegria, Doutor Maurício Cardoso, Giruá, Horizontina, Independência, Porto Lucena, Santo Cristo, Três de Maio, Tucunduva e Tuparendi;
+Santana do Livramento: o respectivo Município e o de Quaraí;
+Santiago: o respectivo Município e os de Bossoroca, Itacurubi, Jaguari, Nova Esperança do Sul, São Francisco de Assis e São Vicente do Sul;
+Santo Ângelo: o respectivo Município e os de Catuípe, Entre Ijuís, Eugênio de Castro e São Miguel das Missões;
+São Borja: o respectivo Município e os de Itaqui e Santo Antônio das Missões;
+São Jerônimo: o respectivo Município e os de Arroio dos Ratos, Butiá, Charqueadas e General Câmara;
+São Leopoldo: o respectivo Município e os de Bom Princípio, Capela de Santana, Feliz, Portão, São José do Hortêncio, São Sebastião do Caí, São Vendelino e Tupandi;
+Sapiranga: o respectivo Município e os de Campo Bom e Nova Hartz;
+Sapucaia do Sul: o respectivo Município;
+Taquara: o respectivo Município e os de Igrejinha, Parobé, Riozinho, Rolante e Três Coroas;
+Três Passos: o respectivo Município e os de Boa Vista do Buricá, Braga, Campo Novo, Chiapetta, Coronel Bicaco, Crissiumal, Humaitá, Miraguai, Redentora, Santo Augusto, São Martinho, Sede Nova, Tenente Portela e Vista Gaúcha;
+Triunfo: o respectivo Município;
+Uruguaiana: o respectivo Município;
+Vacaria: o respectivo Município e os de André da Rocha, Barracão, Bom Jesus, Caseiros, Esmeralda, Ibiaçá, Ibiraiaras, Ipê e Lagoa Vermelha;
+Viamão: o respectivo Município e os de Mostardas, Palmares do Sul e Tavares.
+Ficam assim definidas as áreas de jurisdição das Juntas de Conciliação e Julgamento, localizadas nas cidades abaixo, pertencentes à 5ª Região:
+no Estado da Bahia;
+Salvador: o respectivo Município e os de Itaparica, Lauro de Freitas e Vera Cruz;
+Alagoinhas: o respectivo Município e os de Acajutiba, Aporá, Araças, Aramari, Cardeal da Silva, Catu, Entre Rios, Esplanada, Inhambupe, Itanagra, Ouriçangas, Pedrão, Pojuca, Sátiro Dias, Teodoro Sampaio e Terra Nova;
+Barreiras: o respectivo Município e os de Angical, Baianópolis, Catolândia, Cotegipe, Cristópolis, Riachão das Neves, São Desidério e Wanderley;
+Bom Jesus da Lapa: o respectivo Município e os de Boquira, Brejolândia, Canápolis, Ibipitanga, Macaúbas, Piratinga, Riacho de Santana, Santa Maria da Vitória, Santana, São Félix do Coribe, Serra Dourada, Serra do Ramalho, Sítio do Mato e Tabocas do Brejo Velho;
+Brumado: o respectivo Município e os de Aracatu, Barra da Estiva, Caculé, Condeúba, Cordeiros, Dom Basílio, Guageru, Ibiassucê, Ituaçu, Jussiape, Lagoa Real, Livramento do Brumado, Maetinga, Malhada de Pedras, Piripá, Presidente Jânio Quadros, Rio de Contas, Rio de Antônio e Tanhaçu;
+Camaçã: o respectivo Município e os de Arataca, Itaju do Colônia, Itarantim, Jussari, Mascote, Pau Brasil, Potiraquá, São José da Vitória, Santa Luzia e Santa Maria Eterna;
+Camaçari: o respectivo Município e os de Dias d'Ávila e Mata de São João;
+Candeias: o respectivo Município e os de Madre de Deus e São Sebastião do Passé;
+Conceição do Coité: o respectivo Município e os de Araci, Barrocas, Biritinga, Candeal, Capela do Alto Alegre, Gavião, Ichu, Nova Fátima, Pé de Serra, Retirolândia, Riachão do Jacuípe, Santaluz, São Domingos, Serrinha, Teofilândia e Valente;
+Cruz das Almas: o respectivo Município e os de Cabeceiras do Paraguassu, Cachoeira, Castro Alves, Conceição de Feira, Governador Mangabeira, Itatim, Maragogipe, Muritiba, Santa Terezinha, São Félix e Sapeaçu;
+Euclides da Cunha: o respectivo Município e os de Banzé, Cansanção, Canudos, Cícero Dantas, Fátima, Heliópolis, Monte Santo, Quinjigue, Ribeira do Pombal e Tucano;
+Eunápolis: o respectivo Município e os de Belmonte, Guaratinga, Itabela, Itagimirim, Itapebi, Porto Seguro e Santa Cruz de Cabrália;
+Feira de Santana: o respectivo Município e os de Água Fria, Amélia Rodrigues, Anguera, Antônio Cardoso, Conceição do Jacuípe, Coração de Maria, Ipecaetá, Irará, Lamarão, Rafael Jambeiro, Santa Bárbara, Santanópolis, Santo Estevão, São Gonçalo dos Campos, Serra Preta e Tanquinho;
+Guanambi: o respectivo Município e os de Caetité, Candiba, Carinhanha, Feira da Mata, Igaporã, Iuiu, Jacaraci, Licínio de Almeida, Malhada, Mortugaba, Matina, Ouro Branco, Palmas de Monte Alto, Sebastião Laranjeiras e Urandi;
+Ilhéus: o respectivo Município e os de Canavieiras, Itacaré, Una e Uruçuca;
+Ipiaú: o respectivo Município e os de Aurelino Leal, Barra do Rocha, Dário Meira, Gandu, Gongogi, Ibirapitanga, Ibirataia, Itagibá, Itamari, Maraú, Nova Ibiá, Ubatã e Ubaitaba;
+Irecê: o respectivo Município e os de América Dourada, Barra do Mendes, Barro Alto, Bonito, Cafarnaum, Canarana, Central, Gentio do Ouro, Ibipeba, Ibititá, Iracoara, João Dourado, Jussara, Lapão, Morro do Chapéu, Mulungu do Morro, Presidente Dutra, São Gabriel, Souto Soares, Uibaí e Xique-Xique;
+Itaberaba: o respectivo Município e os de Baixa Grande, Boa Vista do Tupim, Iaçu, Ibiquera, Ipirá, Itaetê, Lajedinho, Lençóis, Macajuba, Marcionílio Souza, Milagres, Mucugê, Palmeiras, Pintadas, Rui Barbosa, Seabra, Utinga e Wagner;
+Itabuna: o respectivo Município e os de Almadina, Buerarema, Coaraci, Firmino Alves, Floresta Azul, Governador Lomanto Júnior, Ibicaraí, Ibicuí, Iguaí, Itajuípe, Itapé, Itapitanga, Nova Canaã e Santa Cruz da Vitória;
+Itamaraju: o respectivo Município e os de Jucuruçu, Prado e Vereda;
+Itapetinga: o respectivo Município e os de Caatiba, Encruzilhada, Itambé, Itororó, Macarani, Maiquinique e Ribeirão do Largo;
+Jacobina: o respectivo Município e os de Caém, Caldeirão Grande, Capim Grosso, Mairi, Miguel Calmon, Mirangaba, Mundo Novo, Ourolandia, Piritiba, Ponto Novo, Quixabeira, Saúde, São José do Jacuípe, Serrolândia, Tapiramutá, Várzea Nova, Várzea do Poço e Várzea da Roça;
+Jequié: o respectivo Município e os de Aiquara, Apuarema, Boa Nova, Irajuba, Itaji, Itaquara, Itiruçu, Jaguaquara, Jitaúna, Lafaiete Coutinho, Lage do Tabocal, Manoel Vitorino, Maracás e Nova Itarana;
+Juazeiro: o respectivo Município e os de Casa Nova, Curaçá, Sento Sé e Sobradinho;
+Paulo Afonso: o respectivo Município e os de Coronel João Sá, Glória, Jeremoabo, Pedro Alexandre, Rodelas e Santa Brígida;
+Santo Amaro: o respectivo Município e os de São Francisco do Conde, Saubara, Teodoro Sampaio e Terra Nova;
+Santo Antônio de Jesus: o respectivo Município e os de Amargosa, Aratuípe, Conceição do Almeida, Dom Macêdo Costa, Elísio Medrado, Jaguaripe, Muniz Ferreira, Nazaré, Salinas da Margarida, São Felipe, São Miguel das Matas, Teolândia, Varzedo e Wenceslau Guimarães;
+Senhor do Bonfim: o respectivo Município e os de Andorinha, Antônio Gonçalves, Campo Formoso, Filadélfia, Itiúba, Jaguarari, Pinhobaçu, Uauá e Umburanas;
+Simões Filho: o respectivo Município;
+Teixeira de Freitas: o respectivo Município e os de Alcobaça, Caravelas, Ibirapuã, Itanhém, Lajedão, Medeiros Neto, Mucuri e Nova Viçosa;
+Ubaíra: o respectivo Município e os de Brejões, Cravolandia, Jiquiriçá, Laje, Mutuípe, Planaltino e Santa Inês;
+Valença: o respectivo Município e os de Cairu, Camamu, Igrapiúna, Ituberá, Nilo Peçanha, Piraí do Norte, Presidente Tancredo Neves e Taperoá;
+(Vetado)
+no Estado de Sergipe:
+Aracaju: o respectivo Município e os de Barra dos Coqueiros, Itaporanga d'Ajuda, Nossa Senhora do Socorro e São Cristóvão;
+Estância: o respectivo Município e os de Cristinápolis, Indiaroba, Itabaianinha, Salgado, Santa Luzia do Itanhy, Tomar do Geru e Umbaúba;
+Itabaiana: o respectivo Município e os de Areia Branca, Campo do Brito, Carira, Frei Paulo, Macambira, Malhador, Moita Bonita, Pedra Mole, Pinhão, Ribeirópolis e São Domingos;
+Lagarto: o respectivo Município e os de Arauá, Boquim, Pedrinhas, Poço Verde, Riachão dos Dantas, Simão Dias e Tobias Barreto;
+Maruim: o respectivo Município e os de Capela, Carmópolis, Divina Pastora, General Maynard, Japaratuba, Laranjeiras, Nossa Senhora do Socorro, Pirambu, Riachuelo, Rosário do Catete, Santa Rosa de Lima, Santo Amaro das Brotas e Siriri;
+Nossa Senhora da Glória: o respectivo Município e os de Canindé de São Francisco, Cumbe, Feira Nova, Gararu, Graccho Cardoso, Monte Alegre de Sergipe, Nossa Senhora Aparecida, Nossa Senhora das Dores, Poço Redondo, Porto da Folha e São Miguel do Aleixo;
+Propriá: o respectivo Município e os de Amparo do São Francisco, Aquidabã, Brejo Grande, Canhoba, Cedro de São João, Ilha das Flores, Itabi, Japoatã, Malhada dos Bois, Neópolis, Nossa Senhora de Lourdes, Pacatuba, São Francisco e Telha.
+Ficam assim definidas as áreas de jurisdição das Juntas de Conciliação e Julgamento, localizadas nas cidades abaixo, pertencentes à 6ª Região:
+no Estado de Pernambuco:
+Recife: o respectivo Município (lª a 14ª) e seus Bairros de Casa Amarela, Apipucos, Casa Forte, Dois Irmãos, Macaxeira, Monteiro, Nova Descoberta, Rosarinho, e Vasco da Gama (15ª), Encruzilhada, Aflitos, Água Fria, Arruda, Beberibe, Bomba do Hemetério, Cajueiro, Campo Grande, Dois Unidos, Espinheiro, Fundão, Hipódromo, Linha do Tiro, Mangabeira e Ponto de Parada (16ª), Madalena, Bonji, Cidade Universitária, Caxangá, Cordeiro, Derby, Engenho do Meio, Guabiraba, Iputinga, Monsenhor Fabrício, Prado, San Martin, Torre, Torrões, Várzea e Zumbi (17ª), Afogados, Areias, Barro, Estância, Jardim São Paulo, Jiquiá, Mangueira, Mustardinha, Sucupira, Tejipió e Totó (18ª), Imbiribeira, Ibura, Ipsep e Jordão (19ª), Boa Viagem (20ª), e o Município de Fernando de Noronha;
+(Vetado)
+Araripina: o respectivo Município os de Bodocó, Ipubi, Ouricuri e Trindade;
+(Vetado)
+Barreiros: o respectivo Município e os de Rio Formoso, São José da Coroa Grande e Serinhaém;
+Belo Jardim: o respectivo Município e os de Brejo da Madre de Deus, Sanharó, São Bento do Una, São Caetano e Tacaimbó;
+(Vetado)
+Cabo: o respectivo Município;
+Carpina: o respectivo Município e os de Lagoa de Itaenga e Paudalho;
+Caruaru: o respectivo Município e os de Agrestina, Altinho, Jataúba, Riacho das Almas, Santa Cruz do Capibaribe e Toritama;
+Catende: o respectivo Município e os de Belém de Maria, Cupira, Jurema, Lagoa dos Gatos, Maraial, Panelas, Quipapá e São Benedito do Sul;
+Escada: o respectivo Município;
+Floresta: o respectivo Município e os de Belém de São Francisco, Inajá, Itacuruba, Petrolândia e Tacaratu;
+Garanhuns: o respectivo Município e os de Águas Belas, Angelim, Bom Conselho, Brejão, Cachoeirinha, Caetés, Calçado, Canhotinho, Capoeiras, Correntes, Iati, Ibirajuba, Itaíba, Jupi, Lajedo, Lagoa do Ouro, Palmerina, Paranatama, Saloá, São João e Terezinha;
+Goiana: o respectivo Município e o de Condado;
+Igarassu: o respectivo Município e os de Itamaracá e Itapissuma;
+Ipojuca: o respectivo Município;
+Jaboatão: o respectivo Município e o de Moreno;
+Limoeiro: o respectivo Município e os de Bom Jardim, Cumaru, Feira Nova, João Alfredo, Machados, Orobó, Passira e Salgadinho;
+Nazaré da Mata: o respectivo Município e os de Aliança, Buenos Aires, Itaquitinga, Tracunhaém e Vicência;
+Olinda: o respectivo Município;
+Palmares: o respectivo Município e os de Água Preta, Gameleira e Joaquim Nabuco;
+Paulista: o respectivo Município e o de Abreu e Lima;
+Pesqueira: o respectivo Município e os de Alagoinha, Poção e Venturosa;
+Petrolina: o respectivo Município e os de Afrânio e Santa Maria da Boa Vista;
+Ribeirão: o respectivo Município e os de Amaraji, Cortês e Primavera;
+Salgueiro: o respectivo Município e os de Cabrobó, Cedro, Exu, Granito, Mirandiba, Orocó, Parnamirim, São José do Belmonte, Serrita, Sítio dos Moreiras, Terra Nova e Verdejante;
+São Lourenço da Mata: o respectivo Município e o de Camaragibe;
+Serra Talhada: o respectivo Município e os de Betânia, Calumbi, Flores e Triunfo;
+Sertânea: o respectivo Município e os de Custódia e Ibimirim;
+Surubim: o respectivo Município e os de Frei Miguelinho, Santa Maria do Cambucá, Taquaritinga do Norte e Vertentes;
+Timbaúba: o respectivo Município e os de Camutanga, Ferreiros, Itambé, Macaparana e São Vicente Férrer;
+Vitória de Santo Antão: o respectivo Município e os de Chã de Alegria, Chã Grande, Glória de Goitá e Pombos;
+no Estado de Alagoas:
+Maceió: o respectivo Município e os de Coqueiro Seco, Marechal Deodoro, Rio Largo, Santa Luzia do Norte e Satuba;
+Arapiraca: o respectivo Município e os de Campo Alegre, Coité do Nóia, Feira Grande, Girau do Ponciano, Lagoa da Canoa, Limoeiro de Anadia, Major Isidoro, Mar Vermelho, Minador do Jacinto, Taguarana e Traipu;
+Atalaia: o respectivo Município e os de Cajueiro, Capela, Pindoba, Pilar e Boca da Mata;
+(Vetado)
+Penedo: o respectivo Município e os de Campo Grande, Feliz Deserto, Igreja Nova, Junqueiro, Olho d'Água Grande, Piaçabuçu, Porto Real do Colégio, São Brás e São Sebastião;
+Porto Calvo: o respectivo Município e os de Jacuípe, Japaratinga, Jundiá, Maragogi, Matriz de Camaragibe, Porto de Pedras e São Miguel dos Milagres;
+Santana do Ipanema: o respectivo Município e os de Água Branca, Batalha, Belo Monte, Canapi, Carneiros, Delmiro Gouveia, Dois Riachos, Inhapi, Jacaré dos Homens, Jaramataia, Maravilha, Mata Grande, Monteirópolis, Olivença, Olho d'Água das Flores, Olho d'Água do Casado, Ouro Branco, Palestina, Pão de Açúcar, Piranhas, Poço das Trincheiras e São José da Tapera;
+São Luiz do Quitunde: o respectivo Município e os de Barra de Santo Antônio, Flexeiras e Passos de Camaragibe;
+São Miguel dos Campos: o respectivo Município e os de Anadia, Barra de São Miguel, Coruripe e Roteiro;
+União dos Palmares: o respectivo Município e os de Branquinha, Colônia Leopoldina, Ibateguara, Joaquim Gomes, Messias, Murici, Novo Lino, Santana do Mundaú e São José da Lage;
+Fica resguardado aos reclamantes o direito de optar pelo ajuizamento de suas reclamações em quaisquer das Juntas de Conciliação e Julgamento (1ª a 14ª) que continuam detendo a jurisdição plena em todo o Município do Recife, submetendo-se, contudo, ao critério normal de distribuição.
+Ficam assim definidas as áreas de jurisdição das Juntas de Conciliação e Julgamento, localizadas nas cidades abaixo, pertencentes à 7ª Região, no Estado do Ceará:
+Fortaleza: o respectivo Município e os de Aquiraz, Beberibe, Cascavel, Caucaia, Chorozinho, Euzébio, Guaiúba, Horizonte, Maracanaú, Maranguape, Pacajus, Pacatuba, Paracuru, Paraipaba, Pentecoste, Pindoretama, São Gonçalo do Amarante, São Luiz do Curu, Trairi e Umirim;
+Baturité: o respectivo Município e os de Acarapé, Araçoiaba, Aratuba, Barreira, Canindé, Capistrano, Caridade, Guaramiranga, Itapiúna, Itatira, Mulungu, Ocara, Pacoti, Palmácia, Paramoti e Redenção;
+Crateús: o respectivo Município e os de Boa Viagem, Graça, Hidrolândia, Independência, Ipaporanga, Ipu, Ipueiras, Monsenhor Tabosa, Novo Oriente, Nova Russas, Parambu, Pires Ferreira, Poranga, Santa Quitéria, Tamboril e Tauá;
+Crato: o respectivo Município e os de Altaneira, Antonina do Norte, Araripe, Assaré, Campos Sales, Farias Brito, Jardim, Nova Olinda, Potengi e Santana do Cariri;
+Iguatu: o respectivo Município e os de Acopiara, Arneiroz, Baixio, Cariús, Catarina, Cedro, Icó, Ipaumirim, Jucás, Lavras da Mangabeira, Mombaça, Orós, Piquet Carneiro, Quixeló, Saboeiro, Umari e Várzea Alegre;
+Juazeiro do Norte: o respectivo Município e os de Abaiara, Aurora, Barbalha, Barro, Brejo Santo, Caririaçu, Granjeiro, Jati, Mauriti, Milagres, Missão Velha, Penaforte e Porteiras;
+Limoeiro do Norte: o respectivo Município e os de Alto Santo, Aracati, Ererê, Iracema, Itaiçaba, Jaguaretama, Jaguaribara, Jaguaribe, Jaguaruana, Morada Nova, Palhano, Pereiro, Potiretama, Quixerê, Russas, São João do Jaguaribe e Tabuleiro do Norte;
+Quixadá: o respectivo Município e os de Banabuiú, Deputado Irapuan Pinheiro, Ibaretama, Ibicuitinga, Madalena, Milha, Pedra Branca, Quixeramobim, Senador Pompeu e Solonópole;
+Sobral: o respectivo Município e os de Acaraú, Alcântara, Amontada, Barroquinha, Bela Cruz, Camocim, Cariré, Carnaubal, Chaval, Coreaú, Croatá, Cruz, Forquilha, Frecheirinha, Granja, Groíras, Guaraciaba do Norte, Ibiapina, Irauçuba, Itapajé, Itapipoca, Itarema, Marco, Martinópole, Massapê, Meruoca, Miraima, Moraújo, Morrinhos, Mucambo, Pacujá, Reriutaba, Santana do Acaraú, São Benedito, Senador Sá, Tejuçuoca, Tianguá, Tururu, Ubajara, Uruburetama, Uruoca, Varjota e Viçosa do Ceará.
+Ficam assim definidas as áreas de jurisdição das Juntas de Conciliação e Julgamento, localizadas nas cidades abaixo, pertencentes à 8ª Região:
+no Estado do Pará:
+Belém: o respectivo Município e os de Cachoeira do Arari, Santa Cruz do Arari, Salvaterra e Soure;
+(Vetado)
+Almeirim: o respectivo Município, à exceção do distrito de Monte Dourado, e os de Gurupá, Prainha e Porto de Moz;
+Altamira: o respectivo Município e os de Brasil-Novo, Medicilândia, Senador José Porfírio, Uruará e Vitória do Xingu;
+Ananindeua: o respectivo Município e os de Benevides e Santa Bárbara do Pará;
+(Vetado)
+Breves: o respectivo Município e os de Anajás, Bagre, Curralinho, Melgaço, Oeiras do Pará, Portel e São Sebastião da Boa Vista;
+Capanema: o respectivo Município e os de Augusto Corrêa, Bonito, Bragança, Capitão Poço, Garrafão do Norte, Nova Esperança do Piriá, Nova Timboteua, Ourém, Peixe Boi, Primavera, Salinópolis, Santa Luzia do Pará, Santa Maria do Pará, Santarém Novo, São João de Pirabas, São Miguel do Guamá e Viseu;
+Castanhal: o respectivo Município e os de Caruçá, Igarapé-Açu, Inhangapi, Irituia, Magalhães Barata, Maracanã, Marapanim, São Domingos do Capim e São Francisco do Pará;
+Conceição do Araguaia: o respectivo Município e os de Rio Maria, Redenção, Santa Maria das Barreiras, Santana do Araguaia, São Félix do Xingu, Ourilândia do Norte, Tucumã e Xinguara;
+Itaituba: o respectivo Município e os de Aveiro, Jacareacanga, Rurópolis e Trairão;
+Marabá: o respectivo Município e os de Bom Jesus do Tocantins, Brejo Grande do Araguaia, Itupiranga, Jacundá, Rondon do Pará, São Geraldo do Araguaia e São João do Araguaia;
+Óbidos: o respectivo Município e os de Alenquer, Faro, Juruti, Oriximiná e Terra Santa;
+Paragominas: o respectivo Município e os de Aurora do Pará, Dom Eliseu, Mãe do Rio, Ipixuma do Pará e Ulianópolis;
+Parauapebas: o respectivo Município e o de Curionópolis;
+Santa Isabel do Pará: o respectivo Município e os de Bujaru, Colares, Concórdia do Pará, Santo Antônio do Tauá, São Caetano de Odivelas e Vigia;
+Santarém: o respectivo Município e o de Monte Alegre; XVIII Tucuruí: o respectivo Município e os de Baião, Breu Branco, Goianésia do Pará, Mocajuba, Novo Repartimento, Pacajá e Tailândia.
+no Estado do Amapá:
+Macapá: o respectivo Município e os de Ferreira Gomes, Mazagão, Santana, e, no Estado do Pará, os de Afuá e Chaves .
+Calçoene: o respectivo Município e os de Amapá, Oiapoque e Tartarugalzinho;
+Laranjal do Jari: o respectivo Município e, no Estado do Pará, o distrito de Monte Dourado, do Município de Almeirim.
+Ficam assim definidas as áreas de jurisdição das Juntas de Conciliação e Julgamento, localizadas nas cidades abaixo, pertencentes à 9ª Região, no Estado do Paraná:
+Curitiba: o respectivo Município e os de Adrianópolis, Agudos do Sul, Bocaiúva do Sul, Campina Grande do Sul, Mandirituba, Piraquara, Quatro Barras e Quitandinha;
+Apucarana: o respectivo Município e os de Bom Sucesso, Califórnia, Cambira, Jandaia do Sul, Kaloré, Marilândia do Sul, Marumbi, Rio Bom e São Pedro do Ivaí;
+Arapongas: o respectivo Município e os de Astorga, Munhoz de Melo e Sabáudia;
+Araucária: o respectivo Município e os de Balsa Nova, Campo Largo, Contenda e Lapa;
+Assis Chateaubriand: o respectivo Município e os de Formosa do Oeste, Francisco Alves, Jesuítas e Palotina;
+(Vetado)
+Campo Mourão: o respectivo Município e os de Araruna, Barbosa Ferraz, Boa Esperança, Campina da Lagoa, Corumbataí do Sul, Engenheiro Beltrão, Fênix, Goio-Erê, Iretama, Janiópolis, Juranda, Luiziana, Mamborê, Moreira Sales, Peabiru, Quinta do Sol, Roncador e Ubiratã;
+Cascavel: o respectivo Município e os de Boa Vista da Aparecida, Braganey, Cafelândia, Campo Bonito, Capitão Leônidas Marques, Catanduvas, Céu Azul, Corbélia, Ibema, Lindoeste, Nova Aurora, Santa Tereza do Oeste e Três Barras do Paraná;
+Castro: o respectivo Município e os de Piraí do Sul e Tibagi;
+Cianorte: o respectivo Município e os de Cidade Gaúcha, Guaporema, Indianópolis, Japurá, Jussara, Rondon, São Tomé, Tapejara, Terra Boa e Tuneiras do Oeste;
+Colombo: o respectivo Município e os de Almirante Tamandaré, Rio Branco do Sul e Cerro Azul;
+Cornélio Procópio: o respectivo Município e os de Açaí, Congoinhas, Leópolis, Nova América da Colina, Nova Fátima, Rancho Alegre, Santa Cecília do Pavão, Santa Mariana, Santo Antônio do Paraíso, São Jerônimo da Serra, São Sebastião da Amoreira, Sertaneja e Uraí;
+Foz do Iguaçu: o respectivo Município e os de Diamante d'Oeste, Metalândia, Medianeira, Missal, Santa Terezinha de Itaipu e São Miguel do Iguaçu;
+Francisco Beltrão: o respectivo Município e os de Ampére, Barracão, Capanema, Dois Vizinhos, Enéas Marques, Marmeleiro, Nova Prata do Iguaçu, Pérola do Oeste, Planalto, Pranchita, Realeza, Renascença, Salgado Filho, Salto do Lontra, Santa Isabel do Oeste e Santo Antônio do Sudoeste;
+Guarapuava: o respectivo Município e os de Pinhão e Turvo;
+Irati: o respectivo Município e os de Imbituva, Inácio Martins, Mallet, Prudentópolis, Rebouças, Rio Azul e Teixeira Soares;
+Ivaiporã: o respectivo Município e os de Borrazópolis, Cândido de Abreu, Faxinal, Godoy Moreira, Grandes Rios, Jardim Alegre, Lunardelli, Manoel Ribas, Nova Tebas, Pitanga, Rosário do Ivaí e São João do Ivaí;
+Jacarezinho: o respectivo Município e os de Cambará, Carlópolis, Guapirama, Joaquim Távora, Quatiguá, Ribeirão Claro e Santo Antônio da Platina;
+Jaguariaíva: o respectivo Município e os de Arapoti e Sengés;
+Laranjeiras do Sul: o respectivo Município e os de Altamira do Paraná, Cantagalo, Guaraniaçu, Quedas do Iguaçu e Palmital;
+Londrina: o respectivo Município e os de Alvorada do Sul, Bela Vista do Paraíso, Cambé, Ibiporã, Jataizinho, Primeiro de Maio e Sertanópolis;
+Marechal Cândido Rondon: o respectivo Município e os de Guaíra, Nova Santa Rosa e Terra Roxa;
+Maringá: o respectivo Município e os de Atalaia, Colorado, Doutor Camargo, Floraí, Floresta, Flórida, Iguaraçu, Itambé, Ivatuba, Lobato, Mandaguaçu, Mandaguari, Marialva, Ourizona, Paiçandu, Presidente Castelo Branco, Santa Fé, Sarandi e São Jorge do Ivaí;
+Paranaguá: o respectivo Município e os de Antonina, Guaraqueçaba, Guaratuba, Matinhos e Morretes;
+Paranavaí: o respectivo Município e os de Alto Paraná, Amaporã, Cruzeiro do Sul, Diamante do Norte, Guairaçá, Inajá, Itaúna do Sul, Jardim Olinda, Loandra, Marilena, Mirador, Nova Aliança do Ivaí, Nova Esperança, Nova Londrina, Paraíso do Norte, Paranacity, Paranapoema, Planaltina do Paraná, Porto Rico, Querência do Norte, Santa Cruz de Monte Castelo, Santa Isabel do Ivaí, Santo Antônio do Caiuá, São Carlos do Ivaí, São João do Caiuá, São Pedro do Paraná, Tamboara, Terra Rica e Uniflor;
+Pato Branco: o respectivo Município e os de Chopinzinho, Clevelândia, Coronel Vivida, Itapejara d'Oeste, Mangueirinha, Mariópolis, Palmas, São João, São Jorge d'Oeste, Sulina, Verê e Vitorino;
+Ponta Grossa: o respectivo Município e os de Ipiranga, Ivaí, Palmeira, Porto Amazonas e São João do Triunfo;
+Rolândia: o respectivo Município e os de Cafeara, Centenário do Sul, Florestópolis, Guaraci, Itaguajé, Jaguapitã, Lupionópolis, Miraselva, Nossa Senhora das Graças, Porecatu, Santa Inês e Santo Inácio;
+São José dos Pinhais: o respectivo Município e os de Agudos do Sul, Campo do Tenente, Mandirituba, Pien, Quitandinha, Rio Negro e Tijucas do Sul;
+Telêmaco Borba: o respectivo Município e os de Curiúva, Figueira, Ortigueira, Reserva e Sapopema;
+Toledo: o respectivo Município e os de Ouro Verde do Oeste, Santa Helena, São José das Palmeiras, Tupãssi e Vera Cruz do Oeste;
+Umuarama: o respectivo Município e os de Altônia, Alto Piquiri, Cruzeiro do Oeste, Douradina, Icaraíma, Iporã, Maria Helena, Mariluz, Nova Olímpia, Pérola, São Jorge do Patrocínio, Tapira e Xambrê;
+União da Vitória: o respectivo Município e os de Antônio Olinto, Bituruna, Cruz Machado, General Carneiro, Paula Freitas, Paulo Frontin, Porto Vitória e São Mateus do Sul;
+Venceslau Braz: o respectivo Município e os de Conselheiro Mairinck, Ibaiti, Jaboti, Japira, Pinhalão, Salto do Itararé, Santana do Itararé, São José da Boa Vista, Siqueira Campos e Tomasina.
+Ficam assim definidas as áreas de jurisdição das Juntas de Conciliação e Julgamento, localizadas nas cidades abaixo, pertencentes à 10ª Região da Justiça do Trabalho:
+no Distrito Federal:
+Brasília: toda a área territorial que compõe o Distrito Federal, excetuando-se as localidades constantes do inciso II desta alínea;
+Taguatinga: a respectiva cidade-satélite e as de Brazlândia e Ceilândia;
+no Estado de Mato Grosso:
+Cuiabá: o respectivo Município e os de Acorizal, Aripuanã, Barão de Melgaço, Castanheira, Chapada dos Guimarães, Juína, Jumena, Nova Brasilândia, Nossa Senhora do Livramento, Santo Antônio do Leverger e Várzea Grande;
+Alta Floresta: o respectivo Município e os de Apiaçás, Guarantã do Norte, Nova Canaã do Norte, Paranaíta, Peixoto de Azevedo e Terra Nova do Norte;
+Barra do Garças: o respectivo Município e os de Araguaína, Cocadinho, General Carneiro, Nova Xavantina, Novo São Joaquim e Torixoreu;
+Cáceres: o respectivo Município e os de Ana Bela, Araputanga, Jauru, Mirassol d'Oeste, Nova Figueirópolis, Pontes e Lacerda, Paconé, Quatro Marias, Rio Branco e Salto do Céu;
+Colider: o respectivo Município e os de Carmem, Cidade Industrial, Nova Canaã, Novo Mundo, Oscar Americano, Patrimônio, Plara-Açu, Santa Felicidade e Terra Nova;
+Diamantino: o respectivo Município e os de Alto Paraguai, Arenápolis, Jangada, Lucas do Rio Verde, Nobres, Nortelândia, Nova Muturu, Rosário Oeste, São José do Rio Claro e Tapurah;
+Rondonópolis: o respectivo Município e os de Alto Garças, Dom Aquino, Etiquira, Guiratinga, Jaciara, Juscimeira, Pedra Preta e Poxoréo;
+Sinop: o respectivo Município e os de Cláudia, Itaúba, Novo Horizonte do Norte, Porto dos Gaúchos, Sorriso e Vera;
+Tangará da Serra: o respectivo Município e os de Barra do Bugres, Campo Novo do Parecis, Denise e Nova Olímpia .
+no Estado de Mato Grosso do Sul:
+Campo Grande: o respectivo Município e os de Bandeirantes, Camapuã, Corguinho, Jaraguari, Ribas do Rio Pardo, Rochedo, São Gabriel do Oeste, Sidrolândia e Terenos;
+Amambaí: o respectivo Município e os de Coronel Sapucaia, Paranhos, Sete Quedas e Tacuru;
+Aquidauana: o respectivo Município e os de Anastácio, Bela Vista, Bodoquena, Bonito, Caracol, Guia Lopes da Laguna, Jardim, Miranda, Nioaque e Porto Murtinho;
+Corumbá: o respectivo Município e os de Ladário e Porto Esperança;
+Coxim: o respectivo Município e os de Pedro Gomes, Rio Negro e Rio Verde de Mato Grosso;
+(Vetado)
+Mundo Novo: o respectivo Município e os de Eldorado, Iguatemi, Japorã, Naviraí e Itaquiari;
+Nova Andradina: o respectivo Município e os de Amaurilândia, Angélica, Baitaporã, Bataguaçu, Ivinhema e Taguarussu;
+Paranaíba: o respectivo Município e os de Aparecida do Taboado, Cassilândia, Chapadão do Sul e Inocência;
+Ponta Porã: o respectivo Município e os de Antônio João e Aral Moreira; XI Três Lagoas: o respectivo Município e os de Água Clara, Brasilândia, Santa Rita do Pardo e Selvíria;
+no Estado de Tocantins:
+Palmas: o respectivo Município e os de Aparecida do Rio Negro, Barrolândia, Brejinho do Nazaré, Cristalândia, Fátima, Monte do Carmo, Nova Rosalândia, Pium, Porto Nacional, Santa Tereza do Norte e Tocantínia;
+Araguaína: o respectivo Município e os de Ananás, Arapoema, Babaçulândia, Colinas do Tocantins, Filadélfia, Itaporã do Tocantins, Presidente Kennedy e Xambioá;
+Gurupi: o respectivo Município e os de Aliança do Norte, Alvorada, Dueré, Figueirópolis, Formoso do Araguaia e Peixe;
+Miracema do Norte: o respectivo Município e os de Araguacema, Dois Irmãos, Guaraí, Miranorte, Novo Acordo, Paraíso do Tocantins e Pedro Afonso.
+Ficam assim definidas as áreas de jurisdição das Juntas de Conciliação e Julgamento, localizadas nas cidades abaixo, pertencentes à 11ª Região:
+no Estado do Amazonas:
+Manaus: o respectivo Município;
+Benjamin Constant: o respectivo Município;
+Coari: o respectivo Município e os de Codajás e Anori;
+Eirunepé: o respectivo Município;
+Humaitá: o respectivo Município e o de Apuí;
+Itacoatiara: o respectivo Município e os de Autazes, Itapiranga, Silves e Urucurituba;
+Lábrea: o respectivo Município;
+Manacapuru: o respectivo Município e os de Anamã, Anori, Caapiranga, Iranduba e Manaquiri;
+(Vetado)
+Parintins: o respectivo Município e os de Barreirinha, Maués, Nhamundá e Urucará;
+Presidente Figueiredo: o respectivo Município;
+Tabatinga: o respectivo Município e os de Atalaia do Norte e São Paulo de Olivença;
+Tefé: o respectivo Município e os de Alvarães e Uarini;
+no Estado de Roraima:
+Boa Vista: o respectivo Município e o de Caracaraí.
+Ficam assim definidas as áreas de jurisdição das Juntas de Conciliação e Julgamento localizadas nas cidades abaixo, pertencentes à 12ª Região, no Estado de Santa Catarina:
+Florianópolis: o respectivo Município;
+Araranguá: o respectivo Município e os de Jacinto Machado, Maracajá, Meleiro, Praia Grande, São João do Sul, Santa Rosa do Sul, Sombrio, Timbé do Sul e Turvo;
+Balneário Camboriú: o respectivo Município e os de Camboriú, Itapema e Porto Belo;
+Blumenau: o respectivo Município e os de Gaspar e Pomerode;
+Brusque: o respectivo Município e os de Botuverá, Canelinha, Guabiruba, Major Gercino, Nova Trento, São João Batista e Tijucas;
+Caçador: o respectivo Município e os de Lebon Régis, Rio das Antas e Timbó Grande;
+Canoinhas: o respectivo Município e os de Major Vieira e Três Barras;
+Chapecó: o respectivo Município e os de Águas de Chapecó, Caibi, Caxambu do Sul, Coronel Freitas, Modelo, Nova Erexim, Palmitos, Pinhalzinho, São Carlos, Saudades, Serra Alta e União do Oeste.
+Concórdia: o respectivo Município e os de Ipira, Ipumirim, Irani, Itá, Jaborá, Lindóia do Sul, Peritiba, Piratuba, Presidente Castelo Branco, Seara e Xavantina;
+Criciúma: o respectivo Município e os de Forquilhinha, Içara, Lauro Miller, Morro da Fumaça, Nova Veneza, Orleans, Siderópolis e Urussanga;
+Curitibanos: o respectivo Município e os de Correia Pinto, Ponte Alta, Santa Cecília e São José do Cerrito;
+Imbituba: o respectivo Município e os de Imaruí e Laguna;
+Indaial: o respectivo Município e os de Apiuna, Ascurra, Benedito Novo, Doutor Pedrinho, Rio dos Cedros, Rodeio e Timbó;
+Itajaí: o respectivo Município e os de Barra Velha, Ilhota, Luiz Alves, Navegantes, Penha e Piçarras;
+Jaraguá do Sul: o respectivo Município e os de Corupá, Guaramirim, Massaranduba e Schroeder;
+Joaçaba: o respectivo Município e os de Abdon Batista, Água Doce, Campos Novos, Capinzal, Catanduvas, Erval Velho, Herval d'Oeste, Ibicaré, Lacerdópolis, Ouro e Treze Tílias;
+Joinville: o respectivo Município e os de Araquari, Garuva, Itapoá e São Francisco do Sul;
+Lages: o respectivo Município e os de Anita Garibaldi, Bom Jardim da Serra, Bom Retiro, Campo Belo do Sul, Celso Ramos, Otacílio Costa, São Joaquim, Urubici e Urupema;
+Mafra: o respectivo Município e os de Itaiópolis, Monte Castelo e Papanduva;
+Porto União: o respectivo Município e os de Irineópolis e Matos Costa;
+Rio do Sul: o respectivo Município e os de Agrolândia, Agronômica, Alfredo Wagner, Atalanta, Aurora, Dona Emma, Ibirama, Imbuia, Ituporanga, José Boiteux Laurentino, Leoberto Leal, Lontras, Petrolândia, Pouso Redondo, Presidente Getúlio, Presidente Nereu, Rio do Campo, Rio do Oeste, Salete, Taió, Trombudo Central, Vidal Ramos, Vitor Meireles e Witmarsum;
+São Bento do Sul: o respectivo Município e os de Campo Alegre e Rio Negrinho;
+São José: o respectivo Município e os de Águas Mornas, Angelina, Anitápolis, Antônio Carlos, Biguaçu, Garopaba, Governador Celso Ramos, Palhoça, Paulo Lopes, Rancho Queimado, Santo Amaro da Imperatriz e São Bonifácio;
+São Miguel d'Oeste: o respectivo Município e os de Anchieta, Campo Erê, Cunha Porã, Descanso, Dionísio Cerqueira, Gauraciaba, Guarujá do Sul, Iporã do Oeste, Iraceminha, Itapiranga, Maravilha, Mondaí, Palma Sola, Romelândia, São José do Cedro e Tunápolis;
+Tubarão: o respectivo Município e os de Armazém, Braço do Norte, Grão Pará, Gravatal, Jaguaruna, Pedras Grandes, Rio Fortuna, Santa Rosa de Lima, São Ludgero, São Martinho e Treze de Maio;
+Videira: o respectivo Município e os de Arroio Trinta, Fraiburgo, Pinheiro Preto, Salto Veloso e Tangará;
+Xanxerê: o respectivo Município e os de Abelardo Luz, Faxinal dos Guedes, Galvão, Marema, Ponte Serrada, Quilombo, São Domingos, São Lourenço d'Oeste, Vargeão e Xaxim.
+Ficam assim definidas as áreas de jurisdição das Juntas de Conciliação e Julgamento, localizadas nas cidades abaixo, pertencentes à 13ª Região:
+no Estado da Paraíba:
+João Pessoa: o respectivo Município e os de Alhandra, Caaporã, Cabedelo, Caldas Brandão, Conde, Cruz do Espírito Santo, Gurinhém, Lucena, Pitimbu, Santa Rita, São Miguel do Taipu e Sapé;
+Areia: o respectivo Município e os de Arara, Alagoinha, Alagoa Grande, Alagoa Nova, Esperança, Mulungu, Pilões e Remígio;
+(Vetado)
+Cajazeiras: o respectivo Município e os de Bom Jesus, Bonito de Santa Fé, Cachoeira dos Índios, Monte Horebe, Santa Helena, São José de Piranhas, São José do Rio de Peixe e Triunfo;
+Campina Grande: o respectivo Município e os de Areal, Aroeiras, Barra de São Miguel, Boqueirão, Cabaceiras, Fagundes, Itatuba, Juarez Távora, Lagoa Seca, Maçaranduba, Montadas, Olivedos, Pocinhos, Puxinanã, Queimadas, São Sebastião da Lagoa da Roça, Serra Redonda, Soledade e Umbuzeiro;
+Catolé do Rocha: o respectivo Município e os de Belém do Brejo do Cruz, Bom Sucesso, Brejo Cruz, Brejo dos Santos, Jericó, Riacho dos Cavalos e São Bento;
+Gaurabira: o respectivo Município e os de Araçagi, Araruna, Bananeiras, Belém, Borborema, Cacimba de Dentro, Caiçara, Cuitegi, Dona Inês, Duas Estradas, Lagoa de Dentro, Mari, Piloezinhos, Pirpirituba, Serra da Raiz, Serraria, Solânea e Tacima;
+Itabaiana: o respectivo Município e os de Ingá, Juripiranga, Mogeiro, Natuba, Pedras de Fogo, Pilar e Salgado de São Félix;
+Itaporanga: o respectivo Município e os de Boa Ventura, Boqueirão dos Cochos, Conceição, Curral Velho, Diamante, Ibiara, Manaíra, Nova Olinda, Pedra Branca, Piancó, Princesa Isabel, Santana de Mangueira, Santa dos Garrotes, São José de Caiana, Serra Grande e Tavares;
+Manananguape: o respectivo Município e os de Baía da Traição, Itapororoca, Jacaraú, Mataraca e Rio Tinto;
+Monteiro: o respectivo Município e os de Camalaú, Congo, Ouro Velho, Prata, São João do Cariri, São João do Tigre, São Sebastião do Umbuzeiro, Serra Branca e Sumé;
+Patos: o respectivo Município e os de Água Branca, Cacimba de Areia, Catingueira, Condado, Destero de Malta, Emas, Imaculada, Juru, Mãe d'Água, Malta, Olho D'Água, Passagem, Quixaba, Santa Terezinha, São José do Bonfim, São José do Sabugi, São Mamede, Santa Luzia e Várzea;
+Picuí: o respectivo Município e os de Barra de Santa Rosa, Cubati, Cuité, Frei Martinho, Nova Floresta, Nova Palmeira, Pedra Lavrada e São Vicente do Seridó;
+Souza: o respectivo Município e os de Aguiar, Carrapateira, Coremas, Lagoa, Lastro, Nazarezinho, Paulista, Pombal, Santa Cruz, São José da Lagoa Tapada e Uiraúna;
+Taperoá: o respectivo Município e os de Desterro, Gurjão, Juazeirinho, Junco do Seridó, Livramento, Salgadinho, São José dos Cordeiros e Teixeira;
+no Estado do Rio Grande do Norte:
+Natal: o respectivo Município e os de Bom Jesus, Extremoz, Ielmo Marinho, Macaíba, Parnamirim, Pedra Preta, Riachuelo, São Gonçalo do Amarante, São Paulo do Potengi e São Pedro;
+Açu: o respectivo Município e os de Angicos, Augusto Severo, Carnaubais, Ipanguaçu, Janduis, Lajes, Parau, Santana do Matos, São Rafael e Upanema;
+Caicó: o respectivo Município e os de Cruzeta, Equador, Floranea, Ipueira, Jardim de Piranhas, Jardim do Seridó, Jucurutu, Ouro Branco, Parelhas, Santana do Seridó, São Fernando, São João do Sabugi, São José do Seridó, Serra Negra do Norte e Timbaúba dos Batistas;
+Ceará-Mirim: o respectivo Município e os de Bento Fernandes, Jardim dos Angicos, João Câmara, Maxaranguape, Parazinho, Pedra Grande, Poço Branco, Pureza, Taipu e Touros;
+Currais Novos: o respectivo Município e os de Acari, Barcelona, Caiçara do Rio dos Ventos, Campo Redondo, Carnaúba dos Dantas, Cerro Corá, Coronel Ezequiel, Jasanã, Lagoa de Velhos, Lagoa Nova, Lajes Pintadas, Santa Cruz, São Bento do Trairi, São Tomé, São Vicente, Sítio Novo, Tangará e Rui Barbosa;
+Goianinha: o respectivo Município e os de Arês, Baía Formosa, Brejinho, Canguaretama, Espírito Santo, Monte Alegre, Nísia Floresta, Passagem, Pedro Velho, São José do Mipibu, Senador Georgino Avelino, Timbau do Sul, Várzea, Vera Cruz e Vila Flor;
+Macau: o respectivo Município e os de Afonso Bezerra, Alto do Rodrigues, Galinhos, Guamaré, Jandaira, Pedro Avelino, Pendências e São Bento do Norte;
+Mossoró: o respectivo Município e os de Apodi, Areia Branca, Baraúna, Caraúbas, Felipe Guerra, Governador Dix-Sept Rosado, Grossos, Itaú, Olho d'Água dos Borges, Serra do Mel, Severiano Melo e Umarazal;
+Nova Cruz: o respectivo Município e os de Japi, Jaunário Cicco, Lagoa D'Anta, Lagoa de Pedras, Lagoa Salgada, Montanhas, Monte das Gameleiras, Passa e Fica, Presidente Juscelino, Santo Antonio, São José de Campestre, Senador Elói de Sousa, Serra de São Bento e Serrinha;
+Pau dos Ferros: o respectivo Município e os de Água Nova, Alexandria, Almino Afonso, Antonio Martins, Coronel João Pessoa, Doutor Severiano, Encanto, Francisco Dantas, Frutoso Gomes, João Dias, José da Penha, Lucrécia, Luís Gomes, Marcelino Vieira, Martins, Messias Targino, Paraná, Pilões, Portalegre, Rafael Fernandes, Rafael Godeiro, Riacho da Cruz, Riacho de Santana, Rodolfo Fernandes, São Francisco do Oeste, São Miguel, Taboleiro Grande, Tenente Ananias, Viçosa e Patu.
+Ficam assim definidas as áreas de jurisdição das Juntas de Conciliação e Julgamento, localizadas nas cidades abaixo, pertencentes à 14ª Região:
+no Estado de Rondônia:
+Porto Velho: o respectivo Município;
+Ariquemes: o respectivo Município;
+Cacoal: o respectivo Município;
+Colorado d'Oeste: o respectivo Município e o de Cerejeiras;
+Costa Marques: o respectivo Município;
+Guajará-Mirim: o respectivo Município;
+Jaru: o respectivo Município;
+Ji-Paraná: o respectivo Município;
+Ouro Preto d'Oeste: o respectivo Município;
+Pimenta Bueno: o respectivo Município e o de Espigão D'Oeste;
+Presidente Médici: o respectivo Município e o de Alvorada do Oeste;
+Rolim de Moura: o respectivo Município e os de Alta Floresta d'Oeste, Nova Brasilândia D'Oeste e Santa Luzia D 'Oeste;
+Vilhena: o respectivo Município;
+no Estado do Acre:
+Rio Branco: o respectivo Município e os de Plácido de Castro e Senador Guiomar;
+Brasiléia: o respectivo Município e o de Assis Brasil;
+Cruzeiro do Sul: o respectivo Município e o de Mâncio Lima;
+Feijó: o respectivo Município;
+Sena Madureira: o respectivo Município e o de Manoel Urbano;
+Tarauacá: o respectivo Município;
+Xapuri: o respectivo Município.
+Ficam assim definidas as áreas de jurisdição das Juntas de Conciliação e Julgamento, localizadas nas cidades abaixo, pertencentes à 15ª Região, no Estado de São Paulo, com sede na Cidade de Campinas:
+Campinas: o respectivo Município e o de Valinhos;
+Adamantina: o respectivo Município e os de Flora Rica, Flórida Paulista, Inúbia Paulista, Lucélia, Mariápolis, Osvaldo Cruz, Pacaembu, Sagres e Salmourão;
+Americana: o respectivo Município e os de Cosmópolis e Nova Odessa;
+Amparo: o respectivo Município e os de Águas de Lindóia, Jaguariúna, Lindóia, Monte Alegre do Sul, Morungaba, Pedreira, Serra Negra e Socorro;
+Andradina: o respectivo Município e os de Castilho, Guaraçaí, Itapura, Lavínia, Mirandópolis, Muritinga do Sul, Nova Independência, Pereira Barreto e Sud Menucci;
+Araçatuba: o respectivo Município e os de Bento de Abreu, Guararapes, Rubiácea e Valparaíso;
+Araraquara: o respectivo Município e os de Américo Brasiliense, Boa Esperança do Sul, Rincão, Santa Lúcia e Motuca;
+Araras: o respectivo Município e os de Leme e Santa Cruz da Conceição;
+Assis: o respectivo Município e os de Cândido Mota, Cruzália, Echaporã, Florinia, Maracaí, Palmital, Paraguaçu Paulista, Platina e Tarumã;
+Avaré: o respectivo Município e os de Águas de Santa Bárbara, Arandu, Cerqueira César, Iaras, Itai, Manduri, Óleo e Paranapanema;
+Barretos: o respectivo Município e os de Colina, Colômbia, Guaíra e Jaborandi;
+Batatais: o respectivo Município e os de Altinópolis, Brodósqui, Jardinópolis, Nuporanga, Orlândia, Sales Oliveira e Santo Antonio da Alegria;
+Bauru: o respectivo Município e os de Agudos, Arealva, Avaí, Cabrália Paulista, Duartina, Iacanga, Lucianópolis, Piratininga e Ubirajara;
+Bebedouro: o respectivo Município e os de Embaúba, Ibitiúva, Monte Azul Paulista, Pirangi, Pitangueiras, Terra Roxa e Viradouro;
+Birigui: o respectivo Município e os de Alto Alegre, Bilac, Braúna, Buritama, Clementina, Coroados, Gabriel Monteiro, Glicério, Luisiânia, Penápolis, Piacatu, Santópolis do Aguapeí e Turiúba;
+Botucatu: o respectivo Município e os de Anhembi, Bofete, Itatinga, Pardinho e São Manoel;
+Bragança Paulista: o respectivo Município e os de Atibaia, Bom Jesus dos Perdões, Joanópolis, Nazaré Paulista, Pedra Bela, Pinhalzinho e Piracaia;
+Cajuru: o respectivo Município e os de Cássia dos Coqueiros, Santa Rosa do Viterbo, e Serra Azul;
+Campo Limpo Paulista: o respectivo Município e o de Várzea Paulista;
+Capivari: o respectivo Município e os de Elias Fausto, Mombuca, Monte Mor, Rafard e Rio das Pedras;
+Caraguatatuba: o respectivo Município e os de Ilha Bela, São Sebastião e Ubatuba;
+Catanduva: o respectivo Município e os de Ariranha, Catiguá, Ibirá, Palmares Paulista, Paraíso, Pindorama, Santa Adélia e Tabapuã;
+Cruzeiro: o respectivo Município e os de Areias, Bananal, Lavrinhas, Queluz, São José do Barreiro e Silveiras;
+Dracena: o respectivo Município e os de Irapuru, Junqueirópolis, Monte Castelo, Nova Guataporanga, Ouro Verde, Panorama, Paulicéia, Santa Mercedes, São João do Pau d'Alho e Tupi Paulista;
+Fernandópolis: o respectivo Município e os de Dolcinópolis, Estrela D'Oeste, General Salgado, Guarani D'Oeste, Indiaporã, Macedônia, Meridiano, Mira Estrela, Pedranópolis, Populina, São João das Duas Pontes e Turmalina;
+Franca: o respectivo Município e os de Cristais Paulista, Itirapuã, Patrocínio Paulista, Pedregulho, Restinga, Ribeirão Corrente, Rifaina e São José da Bela Vista;
+Garça: o respectivo Município e os de Álvaro de Carvalho, Alvinlândia, Gália, Júlio Mesquita e Lupércio;
+Guaratinguetá: o respectivo Município e os de Aparecida, Cunha, Lagoinha e Roseira;
+Indaiatuba: o respectivo Município;
+Itapetininga: o respectivo Município e os de Angatuba, Guareí, São Miguel Arcanjo, Sarapuí e Tatuí;
+Itapeva: o respectivo Município e os de Apiaí, Barão de Antonina, Buri, Capão Bonito, Coronel Macedo, Guapiara, Iporanga, Itaberá, Itaporanga, Itararé, Ribeira, Ribeirão Branco, Riversul, Taguaí e Taquarituba;
+Itápolis: o respectivo Município e os de Borborema, Ibitinga, Itaju e Tabatinga;
+(Vetado)
+Itu: o respectivo Município e o de Cabreúva;
+Ituverava: o respectivo Município e os de Aramina, Buritizal, Guará, Igarapava, Ipuã, Jeriquara, Miguelópolis, Morro Agudo e São Joaquim da Barra;
+Jaboticabal: o respectivo Município e os de Cândido Rodrigues, Fernando Prestes, Guariba, Monte Alto, Pradópolis, Taiaçu, Taiúva, Taquaritinga e Vista Alegre do Alto;
+Jacareí: o respectivo Município e os de Igaratá e Santa Branca;
+Jales: o respectivo Município e os de Aparecida d'Oeste, Auriflama, Dirce Reis, Guzolândia, Marinópolis, Palmeira d'Oeste, Paranapuã, Rubinéia, Santa Albertina, Santa Clara d'Oeste, Santa Fé do Sul, Santa Rita d'Oeste, Santana da Ponte Pensa, São Francisco, Três Fronteiras e Urânia;
+Jaú: o respectivo Município e os de Bariri, Barra Bonita, Bocaina, Boracéia, Brotas, Dois Córregos, Igaraçu do Tietê, Itapuí, Mineiros do Tietê, Perdeneiras e Torrinha;
+José Bonifácio: o respectivo Município e os de Adolfo, Mendonça, Nipoã, Nova Aliança, Planalto e União Paulista;
+Jundiaí: o respectivo Município e os de Itupeva e Louveira;
+Lençóis Paulista: o respectivo Município e os de Areiópolis, Borebi e Macatuba;
+Limeira: o respectivo Município e os de Cordeirópolis e Iracemápolis;
+Lins: o respectivo Município e os de Avanhadava, Balbinos, Barbosa, Cafelândia, Getulina, Guaiçara, Guarantã, Pirajuí, Pongaí, Presidente Alves, Promissão, Reginópolis, Sabino e Uru;
+Lorena: o respectivo Município e os de Cachoeira Paulista e Piquete;
+Marília: o respectivo Município e os de Guaimbé, Lutécia, Ocauçu, Oriente, Oscar Bressane, Pompéia e Vera Cruz;
+Matão: o respectivo Município e os de Dobrada, Nova Europa e Santa Ernestina;
+Moji Guasu: o respectivo Município e o de Conchal;
+Moji Mirim: o respectivo Município e os de Artur Nogueira, Itapira e Santo Antonio de Posse;
+(Vetado)
+Olímpia: o respectivo Município e os de Altair, Cajobi, Guaraci e Severínea;
+Ourinhos: o respectivo Município e os de Bernardino de Campos, Campos Novos Paulista, Chavantes, Espírito Santo do Turvo, Fartura, Ibirarema, Ipauçu, Piraju, Ribeirão do Sul, Salto Grande, Santa Cruz do Rio Pardo, São Pedro do Turvo, Sarutaiá, Tejupá e Timburi;
+Paulínia: o respectivo Município e o de Sumaré;
+Piedade: o respectivo Município e os de Pilar do Sul, Salto de Pirapora e Tapiraí;
+Pindamonhangaba: o respectivo Município e os de Campos do Jordão, Santo Antonio do Pinhal e São Bento do Sapucaí;
+Piracicaba: o respectivo Município e os de Águas de São Pedro, Charqueada, Santa Maria da Serra e São Pedro;
+Porto Ferreira: o respectivo Município e os de Descalvado, Luís Antonio, Pirassununga, Santa Cruz das Palmeiras, Santa Rita do Passa Quadro e Tambaú;
+Presidente Prudente: o respectivo Município e os de Alfredo Marcondes, Alvares Machado, Anhumas, Caiabu, Estrela do Norte, Indiana, Martinópolis, Narandiba, Pirapozinho, Presidente Bernardes, Regente Feijó, Sandovalina, Santo Expedito, Taciba e Tarabaí;
+Presidente Venceslau: o respectivo Município e os de Caiuá, Euclides da Cunha Paulista, Marabá Paulista, Mirante do Paranapanema, Piquerobi, Presidente Epitácio, Rosana, Santo Anastácio e Teodoro Sampaio;
+Rancharia: o respectivo Município e os de Borá, Iepê, João Ramalho e Quatá;
+Registro: o respectivo Município e os de Barra do Turvo, Cananéia, Eldorado, Iguape, Jacupiranga, Juquiá, Pariquera-Açu e Sete Barras;
+Ribeirão Preto: o respectivo Município e os de Cravinhos, Guatapará, São Simão e Serrana;
+Rio Claro: o respectivo Município e os de Analândia, Corumbataí, Ipeúna, Itirapina e Santa Gertrudes;
+Salto: o respectivo Município;
+Santa Bárbara d'Oeste: o respectivo Município;
+São Carlos: o respectivo Município e os de Dourado, Ibaté e Ribeirão Bonito;
+São João da Boa Vista: o respectivo Município e os de Aguaí, Águas da Prata, Espírito Santo do Pinhal, Santo Antônio do Jardim e Vargem Grande do Sul;
+São José do Rio Pardo: o respectivo Município e os de Caconde, Casa Branca, Divinolândia, Itobi, Mococa, São Sebastião da Grama e Tapiratiba;
+São José do Rio Preto: o respectivo Município e os de Bady Bassitt, Cedral, Guapiaçu, Icém, Jaci, Mirassol, Neves Paulista, Nova Granada, Onda Verde, Orindiúva, Palestina, Paulo de Faria, Potirendaba e Uchôa;
+São José dos Campos: o respectivo Município e os de Caçapava, Jambeiro, Monteiro Lobato e Paraibuna;
+São Roque: o respectivo Município e o de Mairinque;
+Sertãozinho: o respectivo Município e os de Barrinha, Dumont e Pontal;
+Sorocaba: o respectivo Município e os de Araçoiaba da Serra, Capela do Alto, Iperó e Votorantim;
+Tanabi: o respectivo Município e os de Bálsamo, Nirassolândia, Monte Aprazível e Poloni;
+Taubaté: o respectivo Município e os de Natividade da Serra, Redenção da Serra, São Luís do Paratinga e Tremembé;
+Tietê: o respectivo Município e os de Boituva, Cesário Lange, Cerquilhas, Conchas, Laranjal Paulista, Pereiras, Porangaba e Porto Feliz;
+Tupã: o respectivo Município e os de Bastos, Herculândia, Iraci, Parapuã, Queirós, Quintana e Rinópolis;
+Votuporanga: o respectivo Município e os de Álvares Florence, Américo de Campos, Cardoso, Cosmorama, Floreal, Gastão Vidigal, Macaubal, Magda, Monções, Nhandeara, Nova Luzitânia, Pontes Gestal, Riolândia, Sebastianópolis do Sul e Valentim Gentil.
+Ficam assim definidas as áreas de jurisdição das Juntas de Conciliação e Julgamento, localizadas nas cidades abaixo, pertencentes à 16ª Região:
+no Estado do Maranhão:
+São Luís: o respectivo Município e os de Rosário, Santa Rita, São José de Ribamar e Paço do Lumiar;
+Açailândia: o respectivo Município;
+Bacabal: o respectivo Município e os de Coroatá, Igarapé Grande, Lago da Pedra, Lago do Junco, Lago Verde, Lima Campos, Olho.d'Água das Cunhãs, Paulo Ramos, Pedreiras, Poção de Pedras, São Luiz Gonzaga do Maranhão, São Mateus do Maranhão e Vitorino Freire;
+Balsas: o respectivo Município e os de Fortaleza dos Nogueiras, Coreto, Riachão, Sambaíba, São Félix de Balsas, São Raimundo das Mangabeiras e Tasso Fragoso;
+Barra do Corda: o respectivo Município e os de Dom Pedro, Gonçalves Dias, Grajaú, Joselândia, Mirador, Piratinópolis, Presidente Dutra, São Domingos do Maranhão e Tuntum;
+Caxias: o respectivo Município e os de Afonso Cunha, Aldeias Altas, Codó, Coelho Neto e Duque de Bacelar;
+Chapadinha: o respectivo Município e os de Anapurus, Brejo, Buriti de Inácio Vaz, Itapecuru, Magalhães de Almeida, Mata Roma, Nina Rodrigues, Santa Quitéria do Maranhão, São Bento do Rio Preto, São Bernardo, Urbano Santos e Vargem Grande;
+Imperatriz: o respectivo Município e os de Amarante do Maranhão, Estreito, João Lisboa, Montes Altos, Porto Franco e Sítio Novo;
+Pinheiros: o respectivo Município e os de Bequimão, Santa Helena, São João Batista, São Vicente Férrer e Peri-Mirim;
+Santa Inês: o respectivo Município e os de Arari Bom Jardim, Monção, Penalva, Pindaré-Mirim, Santa Luzia, Viana e Vitória do Mearim;
+no Estado do Piauí:
+Teresina: o respectivo Município e os de Altos, Campo Maior, Demerval Lobão, José de Freitas, Monsenhor Gil e União; e, no Estado do Maranhão, o de Timom;
+Parnaíba: o respectivo Município e os de Buriti dos Lopes e Luiz Correia;
+São Raimundo Nonato: o respectivo Município e os de Anísio de Abreu, Canto do Buriti Caracol, Curral Novo, Dirceu Arcoverde, São João do Piauí e Várzea Grande.
+Ficam assim definidas as áreas de jurisdição das Juntas de Conciliação e Julgamento, localizadas nas cidades abaixo, pertencentes à 17ª Região, no Estado do Espírito Santo:
+Vitória: o respectivo Município e os de Cariacica, Serra, Viana e Vila Velha;
+Afonso Cláudio: o respectivo Município e os de Conceição do Castelo, Domingos Martins, Itarana, Laranja da Terra, Santa Leopoldina, Santa Maria de Jetibá e Venda Nova do Imigrante;
+Alegre: o respectivo Município e os de Divino de São Lourenço, Dores do Rio Preto, Guaçuí, Ibatiba, Ibitirama, Irupi, Iúna, Jerônimo Monteiro, Muniz Freire e São José do Calçado;
+Aracruz: o respectivo Município e os de Fundão, Ibiraçu, João Neiva e Santa Teresa;
+Cachoeiro do Itapemirim: o respectivo Município e os de Atílio Vivacqua, Castelo, Itapemirim, Rio Novo do Sul e Vargem Alta;
+Colatina: o respectivo Município e os de Alto Rio Novo, Baixo Guandu, Itaguaçu, Marilândia, Pancas e São Domingos do Norte;
+Guarapari: o respectivo Município e os de Alfredo Chaves, Anchieta, Iconha e Piúma;
+Linhares: o respectivo Município e o de Rio Bananal;
+Mimoso do Sul: o respectivo Município e os de Apiacá, Bom Jesus do Norte, Muqui e Presidente Kennedy;
+Nova Venécia: o respectivo Município e os de Água Doce do Norte, Águia Branca, Barra de São Francisco, Ecoporanga, Mantenópolis, Mucurici, São Gabriel da Palha e Vila Pavão;
+São Mateus: o respectivo Município e os de Boa Esperança, Conceição da Barra, Jaguaré, Montanha, Pedro Canário e Pinheiros.
+Ficam assim definidas as áreas de jurisdição das Juntas de Conciliação e Julgamento, localizadas nas cidades abaixo, pertencentes à 18ª Região, no Estado de Goiás:
+Goiânia: o respectivo Município e os de Adelândia, Americano do Brasil, Anicuns, Araçu, Aragoiânia, Avelinópolis, Bela Vista de Goiás, Bonfinópolis, Brazabrantes, Campestre, Caturaí, Cezarina, Edéia, Edealina, Goianira, Guapó Indiara, Inhumas, Jandaia, Nerópolis, Nova Veneza, Palmeiras de Goiás, Paraúna, Santa Bárbara de Goiás, Santa Tereza, São Miguel do Passa Quatro, Santo Antônio, Trindade e Varjão;
+Anápolis: o respectivo Município e os de Abadiânia, Alexânia, Corumbá de Goiás, Demolândia, Goianápolis, Interlândia, Leopoldo de Bulhões, Ouro Verde, Petrolina de Goiás, Pirenópolis, Santa Rosa de Goiás e São Francisco;
+Aparecida de Goiânia: o respectivo Município e os de Cromínia; Hidrolândia, Mairipotaba, Nova Fátima, Piracanjuba e Professor Jamil;
+Caldas Novas: o respectivo Município e os de Água Limpa, Corumbaíba, Marzagão, Morrinhos, Pontalina e Rio Quente;
+Catalão: o respectivo Município e os de Anhangüera, Campo Alegre de Goiás, Cumari, Davinópolis, Goiandira, Nova Aurora, Ouvidor e Três Ranchos;
+Ceres: o respectivo Município e os de Barro Alto, Carmo do Rio Verde, Goianésia, Itapaci, Jaraguá, Morro Agudo de Goiás, Nova América, Nova Glória, Rialma, Rianópolis, Rubiataba, Santa Izabel e Uruana;
+Formosa: o respectivo Município e os de Alto Paraíso Cabeceiras, Flores de Goiás, Planaltina, Santa Rosa, São Gabriel de Goiás e São João d'Aliança;
+Goiás: o respectivo Município e os de Araguapaz, Aruanã, Córrego do Ouro, Faina, Heitoraí, Itaberaí, Itaguari, Itaguaru, Itapirapuã, Itapuranga, Itauçu, Jussara, Mossamedes, Novo Brasil, Novo Goiás, Sanclerlândia, Taquaral de Goiás e Uruíta;
+Iporá: o respectivo Município e os de Amorinópolis, Aragarças, Arenópolis, Bom Jardim de Goiás, Caiapônia, Diorama, Fazenda Nova, Israelândia, Jaupaci, Palestina e Piranhas;
+Itumbiara: o respectivo Município e os de Almerindonópolis, Aloândia, Bom Jesus de Goiás, Buriti Alegre, Cachoeira Dourada, Goiatuba, Anacelândia, Joviânia, Panamá e Vicentinópolis;
+Jataí: o respectivo Município e os de Aparecida do Rio Doce, Aporé, Cachoeira Alta, Caçu, Estância, Itajá, Itarumã, Iturumin, Naveslândia, Paranaiguara e São Simão;
+Luziânia: o respectivo Município e os de Cristalina, Santo Antônio do Descoberto, Silvânia e Vianópolis;
+Mineiros: o respectivo Município e os de Chapadão do Céu, Perolândia, Portelândia e Santa Rita do Araguaia;
+(Vetado)
+Rio Verde: o respectivo Município e os de Acreúna, Castelândia, Maurilândia, Montevidiu, Quirinópolis, Santa Helena de Goiás, Santo Antônio da Barra, Serranópolis e Turvilândia;
+São Luís de Montes Belos: o respectivo Município e os de Aurilândia, Cachoeira de Goiás, Choupana, Firminópolis, Ivolândia, Moiporá, Nazário, Palminópolis e Turvânia;
+Uruaçu: o respectivo Município e os de Campinaçu, Campinorte, Crixás, Estrela do Norte, Formoso, Hidrolina, Mara Rosa, Minaçu, Mutunópolis, Niquelândia, Novo Planalto, Pilar de Goiás, Porangatu, Santa Teresa e Santa Terezinha.
+A Junta de Conciliação e Julgamento de Itanhaém, com jurisdição no respectivo município e nos de Itariri, Maracatu, Moganga, Pedro de Toledo e Peruíbe, passa a integrar a 2ª Região da Justiça do Trabalho.
+As Juntas de Conciliação e Julgamento criadas por esta lei serão instaladas e os respectivos cargos providos, gradativamente, à medida em que ocorrer a disponibilidade de recursos financeiros.
+A competência territorial das Juntas de Conciliação e Julgamento atualmente existentes somente será alterada na data de instalação dos órgãos jurisdicionais criados por esta lei.
+A mesma regra de alteração de competência aplicar-se-á aos Juízes de Direito investidos na jurisdição trabalhista na forma dos arts. 668 e 669 da Consolidação das Leis do Trabalho (CLT), aprovada pelo Decreto-Lei n° 5.452, de 1° de maio de 1943.
+No caso de emancipação de distrito, fica mantida a jurisdição da mesma Junta de Conciliação e Julgamento sobre a área territorial do novo município.
+Ficam criados nos Quadros das Secretarias dos Tribunais Regionais do Trabalho, para exercício nas Juntas de Conciliação e Julgamento constantes desta lei, além dos cargos em comissão, os do Grupo Atividades de Apoio Judiciário e do Grupo Outras Atividades de Nível Médio de que tratam os Anexos I a XVIII desta lei.
+Aos cargos e aos empregos dos Quadros e Tabelas de Pessoal da Justiça do Trabalho, inclusive as especiais decorrentes do Decreto n° 77.242, de 1976, preenchidos antes da promulgação da Constituição Federal de 5 de outubro de 1988, aplica-se o disposto no art. 243 e seus parágrafos, da Lei n° 8.112, de 1990.
+(Vetado)
+No provimento dos cargos de Técnico Judiciário e Auxiliar Judiciário, poderão ser nomeados candidatos aprovados em concurso público para o cargo equivalente de Técnico em Atividades Judiciárias ou Auxiliar em Atividades Judiciárias, desde que ainda válido à data da nomeação.
+Não poderão ser nomeados ou designados para os cargos em comissão, criados nesta lei, parentes consangüíneos ou afins até o terceiro grau, de Juízes em atividade ou aposentados há menos de cinco anos, tanto do primeiro como do segundo grau de jurisdição.
+Na hipótese de criação de Tribunal Regional do Trabalho, antes de instaladas, na área desmembrada, as Juntas de Conciliação e Julgamento previstas nesta lei, os cargos de Juiz Presidente de Junta, de Juiz do Trabalho Substituto, de Juízes Classistas de Junta, bem como os cargos em comissão, os do Grupo Atividades de Apoio Judiciário e os do Grupo Outras Atividades de Nível Médio, passarão a integrar a nova Região, observada a seguinte lotação por Junta:
+2 (dois) cargos de Técnico Judiciário;
+2 (dois) cargos de Oficial de Justiça Avaliador;
+5 (cinco) cargos de Auxiliar Judiciário;
+2 (dois) cargos de Atendente Judiciário; e
+2 (dois) cargos de Agente de Segurança Judiciária.
+O preenchimento dos cargos de provimento efetivo previstos nesta lei far-se-á de acordo com as normas legais e regulamentares, observadas as disposições do art. 37, I e II, da Constituição Federal.
+As despesas decorrentes da execução da presente lei ocorrerão à conta dos recursos consignados ao Tribunal Superior do Trabalho e, quando liberados, serão destinados, de forma eqüitativa e proporcional, aos Tribunais Regionais, tomando-se por base o número de Juntas de Conciliação e Julgamento criadas em cada Região por esta lei.
+Os Tribunais Regionais do Trabalho, quando da liberação dos recursos, deverão instalar as Juntas comprovadamente prioritárias.
+Ficam criados na Justiça do Trabalho os cargos de Juiz do Trabalho Substituto a seguir especificados, observada a vinculação ao respectivo Tribunal Regional do Trabalho:
+Na Primeira Região (1ª), 24 (vinte e quatro) cargos.
+Na Segunda Região (2ª), 47 (quarenta e sete) cargos;
+Na Terceira Região (3ª), 35 (trinta e cinco) cargos;
+Na Quarta Região (4ª), 26 (vinte e seis) cargos;
+Na Quinta Região (5ª), 17 (dezessete) cargos;
+Na Sexta Região (6ª), 16 (dezesseis) cargos;
+Na Sétima Região (7ª), 1 (um) cargo;
+Na Oitava Região (8ª), 4 (quatro) cargos;
+Na Nona Região (9ª), 12 (doze) cargos;
+Na Décima Região (10ª), 9 (nove) cargos;
+Na Décima Primeira Região (11ª), 5 (cinco) cargos;
+Na Décima Segunda Região (12ª), 7 (sete) cargos;
+Na Décima Terceira Região (13ª), 1 (um) cargo;
+Na Décima Quarta Região (14ª), 3 (três) cargos;
+Na Décima Quinta Região (15ª), 27 (vinte e sete) cargos;
+Na Décima Sexta Região (16ª), 4 (quatro) cargos;
+Na Décima Sétima Região (17ª), 9 (nove) cargos; e
+Na Décima Oitava Região (18ª), 9 (nove) cargos.
+Os arts. 656, 879, 882 e 897 da Consolidação das Leis do Trabalho (CLT) (Decreto-Lei n° 5.452, de 1° de maio de 1943) passam a vigorar com a seguinte redação:
+O Juiz do Trabalho Substituto, sempre que não estiver substituindo o Juiz Presidente de Junta, poderá ser designado para atuar nas Juntas de Conciliação e Julgamento.
+Para o fim mencionado no caputdeste artigo, o território da Região poderá ser dividido em zonas, compreendendo a jurisdição de uma ou mais Juntas, a juízo do Tribunal Regional do Trabalho respectivo.
+A designação referida no caput deste artigo será de atribuição do Juiz Presidente do Tribunal Regional do Trabalho ou, não havendo disposição regimental específica, de quem este indicar.
+Os Juízes do Trabalho Substitutos, quando designados ou estiverem substituindo os Juízes Presidentes de Juntas, perceberão os vencimentos destes.
+O Juiz Presidente do Tribunal Regional do Trabalho ou, não havendo disposição regimental específica, que este indicar, fará a lotação e a movimentação dos Juízes Substitutos entre as diferentes zonas da Região na hipótese de terem sido criadas na forma do § 1° deste artigo.
+Na liquidação, não se poderá modificar ou inovar a sentença liquidanda, nem discutir matéria pertinente à causa principal.
+Elaborada a conta e tornada líquida, o Juiz poderá abrir às partes prazo sucessivo de 10 (dez) dias para impugnação fundamentada com a indicação dos itens e valores objeto da discordância, sob pena de preclusão.
+0 executado que não pagar a importância reclamada poderá garantir a execução mediante depósito da mesma, atualizada e acrescida das despesas processuais, ou nomeando bens à penhora, observada a ordem preferencial estabelecida no art. 655 do Código Processual Civil.
+Cabe agravo, no prazo de 8 (oito) dias:
+de petição, das decisões do Juiz ou Presidente, nas execuções;
+de instrumento, dos despachos que denegarem a interposição de recursos.
+O agravo de petição só será recebido quando o agravante delimitar, justificadamente, as matérias e os valores impugnados, permitida a execução imediata da parte remanescente até o final, nos próprios autos ou por carta de sentença.
+O agravo de instrumento interposto contra o despacho que não receber agravo de petição não suspende a execução da sentença.
+Na hipótese da alínea adeste artigo, o agravo será julgado pelo próprio Tribunal, presidido pela autoridade recorrida, salvo se tratar de decisão do Presidente da Junta ou do Juiz de Direito, quando o julgamento competirá a uma das Turmas do Tribunal Regional a que estiver subordinado o prolator da sentença, observado o disposto no art. 679 desta Consolidação, a quem este remeterá as peças necessárias para o exame da matéria controvertida, em autos apartados, ou nos próprios autos, se tiver determinada a extração de carta de sentença.
+Na hipótese da alínea b deste artigo, o agravo será julgado pelo Tribunal que seria competente para conhecer o recurso cuja interposição foi denegada.”
+Esta lei entra em vigor na data de sua publicação.
+Revogam-se as disposições em contrário. Rio de Janeiro, 11 de junho de 1992; 171° da Independência e 104° da República. FERNANDO COLLOR Célio Borja

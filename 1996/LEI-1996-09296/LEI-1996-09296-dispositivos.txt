@@ -1,0 +1,26 @@
+A interceptação de comunicações telefônicas, de qualquer natureza, para prova em investigação criminal e em instrução processual penal, observará o disposto nesta Lei e dependerá de ordem do juiz competente da ação principal, sob segredo de justiça.
+O disposto nesta Lei aplica-se à interceptação do fluxo de comunicações em sistemas de informática e telemática.
+Não será admitida a interceptação de comunicações telefônicas quando ocorrer qualquer das seguintes hipóteses:
+não houver indícios razoáveis da autoria ou participação em infração penal;
+a prova puder ser feita por outros meios disponíveis;
+o fato investigado constituir infração penal punida, no máximo, com pena de detenção.
+Em qualquer hipótese deve ser descrita com clareza a situação objeto da investigação, inclusive com a indicação e qualificação dos investigados, salvo impossibilidade manifesta, devidamente justificada.
+A interceptação das comunicações telefônicas poderá ser determinada pelo juiz, de ofício ou a requerimento:
+da autoridade policial, na investigação criminal;
+do representante do Ministério Público, na investigação criminal e na instrução processual penal.
+O pedido de interceptação de comunicação telefônica conterá a demonstração de que a sua realização é necessária à apuração de infração penal, com indicação dos meios a serem empregados.
+Excepcionalmente, o juiz poderá admitir que o pedido seja formulado verbalmente, desde que estejam presentes os pressupostos que autorizem a interceptação, caso em que a concessão será condicionada à sua redução a termo.
+O juiz, no prazo máximo de vinte e quatro horas, decidirá sobre o pedido.
+A decisão será fundamentada, sob pena de nulidade, indicando também a forma de execução da diligência, que não poderá exceder o prazo de quinze dias, renovável por igual tempo uma vez comprovada a indispensabilidade do meio de prova.
+Deferido o pedido, a autoridade policial conduzirá os procedimentos de interceptação, dando ciência ao Ministério Público, que poderá acompanhar a sua realização.
+No caso de a diligência possibilitar a gravação da comunicação interceptada, será determinada a sua transcrição.
+Cumprida a diligência, a autoridade policial encaminhará o resultado da interceptação ao juiz, acompanhado de auto circunstanciado, que deverá conter o resumo das operações realizadas.
+Recebidos esses elementos, o juiz determinará a providência do art. 8°, ciente o Ministério Público.
+Para os procedimentos de interceptação de que trata esta Lei, a autoridade policial poderá requisitar serviços e técnicos especializados às concessionárias de serviço público.
+A interceptação de comunicação telefônica, de qualquer natureza, ocorrerá em autos apartados, apensados aos autos do inquérito policial ou do processo criminal, preservando-se o sigilo das diligências, gravações e transcrições respectivas.
+A apensação somente poderá ser realizada imediatamente antes do relatório da autoridade, quando se tratar de inquérito policial (Código de Processo Penal, art. 10, § 1°) ou na conclusão do processo ao juiz para o despacho decorrente do disposto nos arts. 407, 502 ou 538 do Código de Processo Penal.
+A gravação que não interessar à prova será inutilizada por decisão judicial, durante o inquérito, a instrução processual ou após esta, em virtude de requerimento do Ministério Público ou da parte interessada.
+O incidente de inutilização será assistido pelo Ministério Público, sendo facultada a presença do acusado ou de seu representante legal.
+Constitui crime realizar interceptação de comunicações telefônicas, de informática ou telemática, ou quebrar segredo da Justiça, sem autorização judicial ou com objetivos não autorizados em lei. Pena: reclusão, de dois a quatro anos, e multa.
+Esta Lei entra em vigor na data de sua publicação.
+Revogam-se as disposições em contrário.

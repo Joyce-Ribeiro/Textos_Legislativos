@@ -1,0 +1,290 @@
+São estabelecidas, em cumprimento ao disposto no art. 165, § 2o, da Constituição, e na Lei Complementar no101, de 4 de maio de 2000, Lei de Responsabilidade Fiscal - LRF, as diretrizes orçamentárias da União para 2012, compreendendo:
+ as metas e prioridades da Administração Pública Federal; 
+a estrutura e organização dos orçamentos; 
+as diretrizes para a elaboração e execução dos orçamentos da União e suas alterações; 
+as disposições relativas à dívida pública federal; 
+as disposições relativas às despesas da União com pessoal e encargos sociais; 
+a política de aplicação dos recursos das agências financeiras oficiais de fomento; 
+as disposições sobre alterações na legislação e sua adequação orçamentária; 
+as disposições sobre a fiscalização pelo Poder Legislativo e sobre as obras e serviços com indícios de irregularidades graves; e
+ as disposições gerais.
+A elaboração e a aprovação do Projeto de Lei Orçamentária de 2012, bem como a execução da respectiva Lei, deverão ser compatíveis com a obtenção da meta de superávit primário, para o setor público consolidado não financeiro de R$ 139.822.000.000,00 (cento e trinta e nove bilhões, oitocentos e vinte e dois milhões de reais) , sendo R$ 96.973.000.000,00 (noventa e seis bilhões, novecentos e setenta e três milhões de reais) para os Orçamentos Fiscal e da Seguridade Social e R$ 0,00 (zero real) para o Programa de Dispêndios Globais, conforme demonstrado no Anexo de Metas Fiscais constante do Anexo III desta Lei.
+oAs empresas dos Grupos Petrobras e Eletrobras não serão consideradas na meta de resultado primário, de que trata o caput deste artigo, relativa ao Programa de Dispêndios Globais.
+oPoderá haver, durante a execução orçamentária de 2012, compensação entre as metas estabelecidas para os Orçamentos Fiscal e da Seguridade Social e para o Programa de Dispêndios Globais de que trata o art. 11, inciso VI, desta Lei.
+ (VETADO). 
+(VETADO).
+ (VETADO).
+ (VETADO).
+oA meta de superávit a que se refere o art. 2o desta Lei poderá ser reduzida até o montante de R$ 40.600.000.000,00 (quarenta bilhões e seiscentos milhões de reais) relativos ao Programa de Aceleração do Crescimento - PAC contido nos Orçamentos Fiscal e da Seguridade Social, cujas programações serão identificadas no Projeto e na Lei Orçamentária de 2012 com identificador de Resultado Primário previsto no art. 7o, § 4o, inciso III, alínea "b " , desta Lei.
+oO montante de que trata o caput deste artigo abrange, na execução da Lei Orçamentária de 2012, o valor dos respectivos restos a pagar.
+oA Lei Orçamentária de 2012 observará, como redutor da meta primária, o montante constante do respectivo projeto.
+ (VETADO).
+ (VETADO).
+Para efeito desta Lei, entende-se por:
+ programa, o instrumento de organização da ação governamental visando à concretização dos objetivos pretendidos, sendo mensurado por indicadores estabelecidos no plano plurianual; 
+atividade, um instrumento de programação para alcançar o objetivo de um programa, envolvendo um conjunto de operações que se realizam de modo contínuo e permanente, das quais resulta um produto necessário à manutenção da ação de governo; 
+projeto, um instrumento de programação para alcançar o objetivo de um programa, envolvendo um conjunto de operações, limitadas no tempo, das quais resulta um produto que concorre para a expansão ou aperfeiçoamento da ação de governo; 
+operação especial, as despesas que não contribuem para a manutenção, expansão ou aperfeiçoamento das ações do Governo Federal, das quais não resulta um produto e não gera contraprestação direta sob a forma de bens ou serviços; 
+subtítulo, o menor nível da categoria de programação, sendo utilizado, especialmente, para especificar a localização física da ação; 
+unidade orçamentária, o menor nível da classificação institucional; 
+órgão orçamentário, o maior nível da classificação institucional, que tem por finalidade agrupar unidades orçamentárias; 
+concedente, o órgão ou a entidade da Administração Pública Federal direta ou indireta responsável pela transferência de recursos financeiros, inclusive os decorrentes de descentralização de créditos orçamentários; e
+ convenente, o órgão ou a entidade da Administração Pública direta ou indireta dos governos federal, estaduais, municipais ou do Distrito Federal e as entidades privadas, com os quais a Administração Federal pactue a execução de ações com transferência de recursos financeiros.
+oAs categorias de programação de que trata esta Lei serão identificadas no Projeto de Lei Orçamentária de 2012 e na respectiva Lei, bem como nos créditos adicionais, por programas, projetos, atividades ou operações especiais e respectivos subtítulos, com indicação, quando for o caso, do produto, da unidade de medida e da meta física.
+oO produto das ações a que se refere o § 1o deste artigo deverão ser compatíveis com as categorias do Plano Plurianual 2012-2015.
+oFicam vedadas na especificação dos subtítulos:
+ alterações do produto e da finalidade da ação; e
+ referências a mais de uma localidade, área geográfica ou beneficiário, se determinados.
+oA meta física deve ser indicada em nível de subtítulo e agregada segundo o respectivo projeto, atividade ou operação especial.
+oCada ação orçamentária, entendida como sendo a atividade, o projeto ou a operação especial, deve identificar a função e a subfunção às quais se vincula.
+oNo Projeto de Lei Orçamentária de 2012, deve ser atribuído a cada subtítulo, para fins de processamento, um código sequencial, que não constará da respectiva Lei, devendo as modificações propostas nos termos do art. 166, § 5º, da Constituição, preservar os códigos sequenciais da proposta original.
+oAs atividades que possuem a mesma finalidade devem ser classificadas sob um único código, independentemente da unidade executora.
+oO projeto deve constar de uma única esfera orçamentária, sob um único programa.
+oA subfunção, nível de agregação imediatamente inferior à função, deverá evidenciar cada área da atuação governamental, mesmo que a atuação se dê mediante a transferência de recursos à entidade pública ou privada.
+oOs Orçamentos Fiscal e da Seguridade Social compreenderão o conjunto das receitas públicas, bem como das despesas dos Poderes e do Ministério Público da União - MPU, seus fundos, órgãos, autarquias, inclusive especiais, e fundações instituídas e mantidas pelo Poder Público, bem como das empresas públicas, sociedades de economia mista e demais entidades em que a União, direta ou indiretamente, detenha a maioria do capital social com direito a voto e que dela recebam recursos do Tesouro Nacional, devendo a correspondente execução orçamentária e financeira, da receita e da despesa, ser registrada na modalidade total no Sistema Integrado de Administração Financeira do Governo Federal - SIAFI.
+oExcluem-se do disposto neste artigo:
+ os fundos de incentivos fiscais, que figurarão exclusivamente como informações complementares ao Projeto de Lei Orçamentária de 2012; 
+os conselhos de fiscalização de profissão regulamentada, constituídos sob a forma de autarquia; e
+ as empresas públicas ou sociedades de economia mista que recebam recursos da União apenas em virtude de:
+ participação acionária; 
+fornecimento de bens ou prestação de serviços; 
+pagamento de empréstimos e financiamentos concedidos; e
+ transferência para aplicação em programas de financiamento, nos termos do disposto nos arts. 159, inciso I, alínea "c " , e 239, § 1º, da Constituição.
+oA empresa destinatária de recursos na forma prevista na alínea "a " do inciso III do § 1o deste artigo deve divulgar, mensalmente, pela internet , as informações relativas à execução das despesas do orçamento de investimento, discriminando os valores autorizados e os executados, mensal e anualmente.
+oAs entidades constituídas sob a forma de serviço social autônomo, destinatárias de contribuições dos empregadores, incidentes sobre a folha de salários deverão divulgar, quadrimestralmente, pela internet , dados e informações atualizados acerca dos valores recebidos à conta das contribuições constantes dos respectivos orçamentos, bem como das aplicações efetuadas, discriminadas por finalidade e região.
+oOs Orçamentos Fiscal, da Seguridade Social e de Investimento discriminarão a despesa por unidade orçamentária, com suas categorias de programação detalhadas no menor nível, com as respectivas dotações, especificando a esfera orçamentária, o grupo de natureza de despesa, o identificador de resultado primário, a modalidade de aplicação, o identificador de uso e a fonte de recursos.
+oA esfera orçamentária tem por finalidade identificar se o orçamento é Fiscal (F) , da Seguridade Social (S) ou de Investimento (I).
+ Quando a operação a que se refere o inciso VII do § 8o deste artigo for identificada apenas na execução orçamentária, antes da emissão da nota de empenho, a unidade orçamentária procederá à troca da modalidade de aplicação na forma prevista no art. 52, § 4o, desta Lei.
+ O Identificador de Uso - IU tem por finalidade indicar se os recursos compõem contrapartida nacional de empréstimos ou de doações, ou se são destinados a outras aplicações, constando da Lei Orçamentária de 2012 e dos créditos adicionais pelos seguintes dígitos, que antecederão o código das fontes de recursos: 
+recursos não destinados à contrapartida (IU 0); 
+contrapartida de empréstimos do Banco Internacional para a Reconstrução e o Desenvolvimento - BIRD (IU 1); 
+contrapartida de empréstimos do Banco Interamericano de Desenvolvimento - BID (IU 2); 
+contrapartida de empréstimos por desempenho ou com enfoque setorial amplo (IU 3); 
+contrapartida de outros empréstimos (IU 4); e
+ contrapartida de doações (IU 5).
+ As fontes de recursos que corresponderem às receitas provenientes de concessão, de permissão e de utilização de recursos hídricos de que trata o art. 22 da Lei no9.433, de 8 de janeiro de 1997, constarão na Lei Orçamentária de 2012 com código que as identifiquem, discriminando-se durante a execução, no mínimo, aquelas decorrentes da concessão ou permissão nas áreas de telecomunicações, transportes, petróleo e eletricidade.
+ As receitas serão escrituradas de forma que se identifique a arrecadação segundo as naturezas de receita, fontes de recursos e parcelas vinculadas à seguridade social.
+ A aplicação de recursos a que se refere o inciso III do § 7o deste artigo utilizará modalidades de aplicação específicas que identifiquem o uso dos recursos por parte de Estados, Municípios ou Consórcios Públicos.
+ É vedada a execução orçamentária de programação que utilize a designação "a definir " ou outra que não permita sua identificação precisa.
+oOs Grupos de Natureza de Despesa - GND constituem agregação de elementos de despesa de mesmas características quanto ao objeto de gasto, conforme a seguir discriminados:
+ pessoal e encargos sociais (GND 1); 
+juros e encargos da dívida (GND 2); 
+outras despesas correntes (GND 3); 
+investimentos (GND 4); 
+inversões financeiras, incluídas quaisquer despesas referentes à constituição ou aumento de capital de empresas (GND 5); e
+ amortização da dívida (GND 6).
+oA Reserva de Contingência, prevista no art. 13 desta Lei, será classificada no GND 9.
+oO identificador de Resultado Primário - RP tem como finalidade auxiliar a apuração do superávit primário previsto no art. 2o desta Lei, devendo constar no Projeto de Lei Orçamentária de 2012 e na respectiva Lei em todos os grupos de natureza de despesa, identificando, de acordo com a metodologia de cálculo das necessidades de financiamento, cujo demonstrativo constará em anexo à Lei Orçamentária de 2012, nos termos do Anexo I, inciso IX, desta Lei, se a despesa é:
+ financeira (RP 0); 
+primária obrigatória, quando constar da Seção I do Anexo IV desta Lei (RP 1); 
+primária discricionária, quando não constar da Seção I do Anexo IV desta Lei, desdobrada em programações:
+ não abrangidas pelas alíneas "b " e "c " deste inciso (RP 2); 
+abrangidas pelo PAC (RP 3); ou 
+(VETADO); 
+do Orçamento de Investimento das empresas estatais que não impacta o resultado primário (RP 4).
+oNenhuma ação conterá, simultaneamente, dotações destinadas a despesas financeiras e primárias, ressalvada a Reserva de Contingência.
+ (VETADO).
+oA Modalidade de Aplicação - MA destina-se a indicar se os recursos serão aplicados:
+ diretamente, pela unidade detentora do crédito orçamentário ou, em decorrência de descentralização de crédito orçamentário, por outro órgão ou entidade integrante dos Orçamentos Fiscal ou da Seguridade Social; 
+indiretamente, mediante transferência, por outras esferas de governo, seus órgãos, fundos ou entidades ou por entidades privadas, exceto o caso previsto no inciso III deste parágrafo; ou
+ indiretamente, mediante delegação, por outros entes da Federação ou consórcios públicos para a aplicação de recursos em ações de responsabilidade exclusiva da União que impliquem preservação ou acréscimo no valor de bens públicos federais.
+oA especificação da modalidade de que trata o § 7o deste artigo observará, no mínimo, o seguinte detalhamento: 
+transferência a administração estadual (MA 30); 
+transferência a administração municipal (MA 40); 
+transferência a entidade privada sem fins lucrativos (MA 50); 
+transferência a entidade privada com fins lucrativos (MA 60); 
+transferência a consórcio público (MA 71); 
+aplicação direta (MA 90); e
+ aplicação direta decorrente de operação entre órgãos, fundos e entidades integrantes dos Orçamentos Fiscal e da Seguridade Social (MA 91).
+oO empenho da despesa não poderá ser realizado com modalidade de aplicação "a definir " ( MA 99).
+ Quando a operação a que se refere o inciso VII do § 8o deste artigo for identificada apenas na execução orçamentária, antes da emissão da nota de empenho, a unidade orçamentária procederá à troca da modalidade de aplicação na forma prevista no art. 52, § 4o, desta Lei.
+ O Identificador de Uso - IU tem por finalidade indicar se os recursos compõem contrapartida nacional de empréstimos ou de doações, ou se são destinados a outras aplicações, constando da Lei Orçamentária de 2012 e dos créditos adicionais pelos seguintes dígitos, que antecederão o código das fontes de recursos: 
+recursos não destinados à contrapartida (IU 0); 
+contrapartida de empréstimos do Banco Internacional para a Reconstrução e o Desenvolvimento - BIRD (IU 1); 
+contrapartida de empréstimos do Banco Interamericano de Desenvolvimento - BID (IU 2); 
+contrapartida de empréstimos por desempenho ou com enfoque setorial amplo (IU 3); 
+contrapartida de outros empréstimos (IU 4); e
+ contrapartida de doações (IU 5).
+ As fontes de recursos que corresponderem às receitas provenientes de concessão, de permissão e de utilização de recursos hídricos de que trata o art. 22 da Lei no9.433, de 8 de janeiro de 1997, constarão na Lei Orçamentária de 2012 com código que as identifiquem, discriminando-se durante a execução, no mínimo, aquelas decorrentes da concessão ou permissão nas áreas de telecomunicações, transportes, petróleo e eletricidade.
+ As receitas serão escrituradas de forma que se identifique a arrecadação segundo as naturezas de receita, fontes de recursos e parcelas vinculadas à seguridade social.
+ A aplicação de recursos a que se refere o inciso III do § 7o deste artigo utilizará modalidades de aplicação específicas que identifiquem o uso dos recursos por parte de Estados, Municípios ou Consórcios Públicos.
+ É vedada a execução orçamentária de programação que utilize a designação "a definir " ou outra que não permita sua identificação precisa.
+oTodo e qualquer crédito orçamentário deve ser consignado, diretamente, independentemente do grupo de natureza de despesa em que for classificado, à unidade orçamentária à qual pertencem as ações correspondentes, vedando-se a consignação de crédito a título de transferência a unidades orçamentárias integrantes dos Orçamentos Fiscal e da Seguridade Social. 
+Não caracteriza infringência ao disposto no caput deste artigo, bem como à vedação contida no art. 167, inciso VI, da Constituição, a descentralização de créditos orçamentários para execução de ações pertencentes à unidade orçamentária descentralizadora.
+oAs operações entre órgãos, fundos e entidades previstas nos Orçamentos Fiscal e da Seguridade Social, ressalvado o disposto no § 1o deste artigo, serão executadas, obrigatoriamente, por meio de empenho, liquidação e pagamento, nos termos da Lei no4.320, de 17 de março de 1964, utilizando-se a modalidade de aplicação a que se refere o art. 7o, § 8o, inciso VII, desta Lei.
+oO Projeto de Lei Orçamentária de 2012 que o Poder Executivo encaminhará ao Congresso Nacional e a respectiva Lei serão constituídos de:
+ texto da lei; 
+quadros orçamentários consolidados, incluindo os complementos referenciados no art. 22, inciso III, da Lei nº 4.320, de 17 de março de 1964, conforme Anexo I desta Lei; 
+anexo dos Orçamentos Fiscal e da Seguridade Social, contendo:
+ receitas, discriminadas por natureza, identificando as fontes de recursos correspondentes a cada cota-parte de natureza de receita, o orçamento a que pertence e a sua natureza financeira (F) ou primária (P) , observado o disposto no art. 6º da Lei nº 4.320, de 17 março de 1964; e
+ despesas, discriminadas na forma prevista no art. 7o e nos demais dispositivos pertinentes desta Lei; 
+discriminação da legislação da receita e da despesa, referente aos Orçamentos Fiscal e da Seguridade Social; e
+ anexo do Orçamento de Investimento a que se refere o art. 165, § 5o, inciso II, da Constituição, na forma definida nesta Lei.
+oOs quadros orçamentários consolidados e as informações complementares exigidos por esta Lei identificarão, logo abaixo do respectivo título, o dispositivo legal a que se referem.
+oO Projeto de Lei Orçamentária de 2012 e a respectiva Lei conterão anexo específico com a relação dos subtítulos relativos a obras e serviços com indícios de irregularidades graves, cujas execuções observarão o disposto no Capítulo VIII desta Lei.
+oOs anexos da despesa prevista no inciso III, alínea "b " , do caput deste artigo deverão conter, no Projeto de Lei Orçamentária de 2012, quadros-síntese por órgão e unidade orçamentária, discriminando os valores por função, subfunção, grupo de natureza de despesa e fonte de recursos:
+ constantes da Lei Orçamentária de 2010 e dos créditos adicionais; 
+empenhados no exercício de 2010; 
+constantes do Projeto de Lei Orçamentária de 2011; 
+constantes da Lei Orçamentária de 2011; e
+ propostos para o exercício de 2012.
+oNa Lei Orçamentária de 2012, serão excluídos os valores a que se refere o inciso I do § 3o deste artigo e incluídos os valores aprovados para 2012.
+oOs anexos do Projeto de Lei Orçamentária de 2012 e de seu Autógrafo, assim como da respectiva Lei, terão a mesma formatação dos anexos da Lei Orçamentária de 2011, exceto quanto às alterações previstas nesta Lei.
+oO quadro orçamentário consolidado de que trata o inciso XIII do Anexo I desta Lei poderá ser alterado por portaria da Secretaria de Orçamento Federal do Ministério do Planejamento, Orçamento e Gestão - SOF/MP, devendo ser mantido atualizado na internet.
+oO Orçamento de Investimento das empresas estatais deverá contemplar as informações previstas nos incisos I, III, IV e V do § 3o e no § 4o deste artigo, por função e subfunção.
+ O Poder Executivo encaminhará ao Congresso Nacional até 15 (quinze) dias após o envio do Projeto de Lei Orçamentária anual, inclusive em meio eletrônico, demonstrativos, elaborados a preços correntes, contendo as informações complementares relacionadas no Anexo II desta Lei.
+ A Mensagem que encaminhar o Projeto de Lei Orçamentária de 2012 conterá:
+ resumo da política econômica do País, análise da conjuntura econômica e atualização das informações de que trata o § 4o do art. 4o da LRF, com indicação do cenário macroeconômico para 2012, e suas implicações sobre a Proposta Orçamentária de 2012; 
+resumo das políticas setoriais do Governo; 
+avaliação das necessidades de financiamento do Governo Central relativas aos Orçamentos Fiscal e da Seguridade Social, explicitando receitas e despesas e os resultados primário e nominal implícitos no Projeto de Lei Orçamentária de 2012, na Lei Orçamentária de 2011 e em sua reprogramação e os realizados em 2010, de modo a evidenciar:
+ a metodologia de cálculo de todos os itens computados na avaliação das necessidades de financiamento; e
+ os parâmetros utilizados, informando, separadamente, as variáveis macroeconômicas de que trata o Anexo de Metas Fiscais referido no art. 4o, § 2o, inciso II, da LRF, verificadas em 2010 e suas projeções para 2011 e 2012; 
+indicação do órgão que apurará os resultados primário e nominal, para fins de avaliação do cumprimento das metas; 
+justificativa da estimativa e da fixação, respectivamente, dos principais agregados da receita e da despesa; e
+ demonstrativo sintético, por empresa, do Programa de Dispêndios Globais, informando as fontes de financiamento, com o detalhamento mínimo igual ao estabelecido no art. 51, § 3o, desta Lei, bem como a previsão da sua respectiva aplicação, por grupo de natureza de despesa, e o resultado primário dessas empresas com a metodologia de apuração do resultado.
+ O Projeto e a Lei Orçamentária de 2012 discriminarão, em categorias de programação específicas, as dotações destinadas:
+ às ações descentralizadas de saúde e assistência social para cada Estado e respectivos Municípios e para o Distrito Federal; 
+às ações de alimentação escolar para cada Estado e respectivos Municípios e para o Distrito Federal; 
+ao pagamento de benefícios do Regime Geral de Previdência Social - RGPS; 
+às despesas com previdência complementar; 
+ao pagamento de benefícios assistenciais custeados pelo Fundo Nacional de Assistência Social - FNAS; 
+às despesas com auxílio-alimentação ou refeição, assistência pré-escolar, assistência médica e odontológica, nesta incluídos os exames periódicos, e auxílio-transporte, inclusive das entidades da Administração indireta que recebam recursos à conta dos Orçamentos Fiscal e da Seguridade Social; 
+à concessão de subvenções econômicas e subsídios, que deverão identificar a legislação que autorizou o benefício; 
+à participação em constituição ou aumento de capital de empresas; 
+ao atendimento das operações realizadas no âmbito do Programa de Apoio à Reestruturação e ao Ajuste Fiscal dos Estados e dos Municípios, bem como daquelas relativas à redução da presença do setor público nas atividades bancária e financeira, autorizadas até 5 de maio de 2000; 
+ao pagamento de precatórios judiciários; 
+ao atendimento de débitos judiciais periódicos vincendos, que constarão da programação das unidades orçamentárias responsáveis pelos débitos; 
+ao cumprimento de débitos judiciais transitados em julgado considerados de pequeno valor, incluídos os decorrentes dos Juizados Especiais Federais; 
+ao pagamento de assistência jurídica a pessoas carentes, nos termos do art. 12, § 1o, da Lei no10.259, de 12 de julho de 2001, do art. 3o da Lei no1.060, de 5 de fevereiro de 1950, e do art. 5o, inciso LXXIV, da Constituição; 
+às despesas com publicidade institucional e com publicidade de utilidade pública, inclusive quando for produzida ou veiculada por órgão ou entidade integrante da Administração Pública Federal; 
+à complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB, nos termos da legislação vigente; 
+ao atendimento de despesas de pessoal e encargos sociais decorrentes da concessão de qualquer vantagem ou aumento de remuneração, inclusive resultante de alteração de estrutura de carreiras não autorizada até 31 de agosto de 2011, e do provimento de cargos, empregos e funções, observado o disposto no art. 75, inciso I, desta Lei, que, no caso do Poder Executivo, constará do orçamento do Ministério do Planejamento, Orçamento e Gestão; 
+ao auxílio financeiro aos Estados, Distrito Federal e Municípios para fomento das exportações; 
+às transferências aos Estados, Distrito Federal e Municípios para compensação das perdas de arrecadação decorrentes da desoneração das exportações, nos termos do art. 91 do Ato das Disposições Constitucionais Transitórias - ADCT; 
+às contribuições e anuidades a organismos e entidades internacionais, que deverão identificar nominalmente cada beneficiário; 
+às contribuições e anuidades a organismos nacionais, que deverão identificar nominalmente cada beneficiário; 
+ao cumprimento de sentenças judiciais transitadas em julgado de empresas estatais dependentes; 
+à realização de eleições, referendos e plebiscitos pela Justiça Eleitoral; 
+às despesas destinadas ao desenvolvimento de atividades de coleta e processamento de material reciclável exercidas pelas entidades previstas no art. 33, inciso VII, desta Lei; 
+à doação de recursos financeiros a países estrangeiros e organizações internacionais nominalmente identificados; 
+ao pagamento de despesas decorrentes de compromissos firmados por meio de contrato de gestão entre órgãos e entidades da Administração Pública Federal e as organizações sociais, nos termos da Lei no9.637, de 15 de maio de 1998, com a identificação nominal de cada organização social beneficiada; e
+ (VETADO).
+oO disposto no inciso VI deste artigo aplica-se, igualmente, aos órgãos e entidades que prestem, total ou parcialmente, os referidos benefícios a seus militares e servidores públicos civis, e respectivos dependentes, por intermédio de serviços próprios.
+oA inclusão de recursos no Projeto e na Lei Orçamentária de 2012 para atender às despesas de que trata o inciso VI deste artigo fica condicionada à informação do número efetivo de beneficiários nas respectivas metas, existentes em março de 2011, acrescido do número previsto de ingresso de beneficiários no restante do exercício, que, no âmbito do Poder Executivo, deve corresponder aos dados constantes do Sistema Integrado de Administração de Recursos Humanos -SIAPE. 
+A inclusão de recursos nos créditos adicionais destinados ao atendimento de despesas de que trata o inciso VI deste artigo, decorrentes de ingressos de novos servidores, empregados e dependentes, fica condicionada à informação do número de beneficiários nas respectivas metas.
+oNas contribuições e anuidades referidas no inciso XIX, as dotações orçamentárias deverão ser destinadas exclusivamente ao repasse de recursos com a finalidade de cobertura dos orçamentos gerais dos respectivos organismos e entidades internacionais, admitido o pagamento de taxas bancárias relativas a esses repasses.
+ (VETADO).
+ (VETADO).
+ A Reserva de Contingência, observado o inciso III do art. 5o da LRF, será constituída, exclusivamente, de recursos do Orçamento Fiscal, equivalendo no Projeto e na Lei Orçamentária de 2012 a, no mínimo, 2% (dois por cento) e 1% (um por cento) da receita corrente líquida, respectivamente, sendo pelo menos metade da Reserva, no projeto de lei, considerada como despesa primária para efeito de apuração do resultado fiscal.
+oNão será considerada, para os efeitos do caput deste artigo, a eventual reserva:
+ à conta de receitas próprias e vinculadas; 
+para atender programação ou necessidade específica; e
+ (VETADO); 
+(VETADO).
+ (VETADO).
+ (VETADO).
+ (VETADO).
+ (VETADO).
+oAs dotações propostas no Projeto de Lei Orçamentária de 2012, à conta de recursos a que se refere a alínea "c " do inciso II do art. 49 da Lei no9.478, de 6 de agosto de 1997, e do art. 27 da Lei no2.004, de 3 de outubro de 1953, com redação dada pela Lei no7.990, de 28 de dezembro de 1989, com o propósito de fiscalização e proteção das áreas produtoras de petróleo e gás natural, corresponderão, pelo menos, ao montante autorizado na Lei Orçamentária de 2011, podendo o excedente constituir reserva de contingência a que se refere este artigo.
+ Os órgãos dos Poderes Legislativo e Judiciário e do MPU encaminharão à SOF/MP, por meio do Sistema Integrado de Planejamento e Orçamento - SIOP, até 15 de agosto de 2011, suas respectivas propostas orçamentárias, para fins de consolidação do Projeto de Lei Orçamentária de 2012, observadas as disposições desta Lei.
+oAs propostas orçamentárias dos órgãos do Poder Judiciário e do MPU, encaminhadas nos termos do caput deste artigo, deverão ser objeto de parecer do Conselho Nacional de Justiça e do Conselho Nacional do Ministério Público, de que tratam os arts. 103-B e 130-A da Constituição, respectivamente, a ser encaminhado à Comissão Mista a que se refere o art. 166, § 1o, da Constituição - CMO, até 30 de setembro de 2011, com cópia para a SOF/MP.
+oNão se aplica o disposto no § 1o deste artigo ao Supremo Tribunal Federal, ao Conselho Nacional de Justiça, ao Ministério Público Federal e ao Conselho Nacional do Ministério Público.
+ O Poder Executivo enviará ao Congresso Nacional o Projeto de Lei Orçamentária de 2012 com sua despesa regionalizada e, nas informações disponibilizadas em meio magnético de processamento eletrônico, apresentará detalhamento das dotações por elemento de despesa.
+ Até 24 (vinte e quatro) horas após o encaminhamento à sanção presidencial do autógrafo do Projeto de Lei Orçamentária de 2012, o Poder Legislativo enviará ao Poder Executivo, em meio magnético de processamento eletrônico, os dados e informações relativos ao autógrafo, indicando:
+ em relação a cada categoria de programação e grupo de natureza de despesa do projeto original, o total dos acréscimos e o total dos decréscimos, por fonte de recursos, realizados pelo Congresso Nacional; e
+ as novas categorias de programação e, em relação a estas, os detalhamentos fixados no art. 7o desta Lei, as fontes de recursos e as denominações atribuídas.
+A elaboração e a aprovação dos Projetos da Lei Orçamentária de 2012 e de créditos adicionais, bem como a execução das respectivas leis, deverão ser realizadas de acordo com o princípio da publicidade, promovendo-se a transparência da gestão fiscal e permitindo-se o amplo acesso da sociedade a todas as informações relativas a cada uma dessas etapas.
+oSerão divulgados na internet :
+ pelo Poder Executivo:
+ as estimativas das receitas de que trata o art. 12, § 3o, da LRF; 
+o Projeto de Lei Orçamentária de 2012, inclusive em versão simplificada, seus anexos e as informações complementares; 
+a Lei Orçamentária de 2012 e seus anexos; 
+os créditos adicionais e seus anexos; 
+a execução orçamentária e financeira, inclusive de restos a pagar, com o detalhamento das ações e respectivos subtítulos, identificando a programação classificada com identificador de resultado primário 3 (RP 3) , por unidade da Federação, de forma regionalizada, por órgão, unidade orçamentária, função e subfunção, mensal e acumulada; 
+dados gerenciais referentes à execução do Plano Plurianual, por programa e meta; 
+até o 20o (vigésimo) dia de cada mês, relatório comparando a arrecadação mensal, realizada até o mês anterior, das receitas administradas ou acompanhadas pela Secretaria da Receita Federal do Brasil, líquida de restituições e incentivos fiscais, com as respectivas estimativas mensais constantes dos demonstrativos de que trata o inciso XII do Anexo II desta Lei, bem como com eventuais reestimativas realizadas por força de lei; 
+até o 25o (vigésimo quinto) dia de cada mês, relatório comparando a receita realizada, mensal e acumulada, com a prevista na Lei Orçamentária de 2012 e no cronograma de arrecadação, discriminando as parcelas primária e financeira; 
+até o 60o (sexagésimo) dia após a publicação da Lei Orçamentária de 2012, cadastro de ações contendo, no mínimo, o código, a descrição e a finalidade de cada uma das ações constantes dos Orçamentos Fiscal e da Seguridade Social; 
+até o 30o (trigésimo) dia após o encerramento de cada bimestre, demonstrativos relativos a empréstimos e financiamentos, inclusive a fundo perdido, consolidados por agência de fomento, elaborados de acordo com as informações e critérios constantes do § 3o do art. 86 desta Lei; 
+até 15 de setembro, relatório anual, referente ao exercício anterior, de impacto dos programas voltados ao combate das desigualdades nas dimensões de gênero, raça, etnia, geracional, regional e de pessoas com deficiência; 
+até o 60o (sexagésimo) dia após cada semestre, relatório de avaliação das ações do PAC e respectivas metas consolidadas, bem como dos resultados de implementação e execução orçamentária, financeira, inclusive de restos a pagar, e, sempre que possível, o estágio das ações monitoradas, discriminando os valores acumulados até o exercício anterior e os do exercício em curso; 
+demonstrativo, atualizado mensalmente, de contratos, convênios, contratos de repasse ou termos de parceria referentes a projetos, discriminando as classificações funcional e por programas, a unidade orçamentária, a contratada ou o convenente, o objeto e os prazos de execução, os valores e as datas das liberações de recursos efetuadas e a efetuar; 
+posição atualizada mensalmente dos limites para empenho e movimentação financeira por órgão do Poder Executivo; 
+demonstrativo, atualizado mensalmente, das ações e respectivas despesas voltadas para a realização da Copa do Mundo de Futebol de 2014; 
+demonstrativo mensal indicando a arrecadação, no mês e acumulada no exercício, separadamente, relativa a depósitos judiciais e a parcelamentos amparados por programas de recuperação fiscal da Secretaria da Receita Federal do Brasil; os montantes dessa arrecadação classificados por tributo; os valores, por tributo partilhado, entregues a Estados e Municípios, relativamente a parcelas não classificadas; e os valores, por tributo partilhado, entregues a Estados e Municípios em caráter definitivo; 
+demonstrativo bimestral das transferências voluntárias realizadas, por ente da Federação beneficiado; 
+demonstrativo, atualizado trimestralmente, das ações e respectivas despesas voltadas para a realização das Olimpíadas e Paraolimpíadas de 2016; 
+(VETADO); e
+ (VETADO); 
+pela CMO, a relação atualizada dos contratos e convênios nos quais tenham sido identificados indícios de irregularidades graves, o parecer preliminar, as emendas e respectivos pareceres, os relatórios setoriais e final e o parecer da CMO, com seus anexos, relativos ao Projeto de Lei Orçamentária de 2012; 
+pelos Poderes e pelo MPU, no sítio de cada unidade jurisdicionada ao Tribunal de Contas da União - TCU, o Relatório de Gestão, o Relatório e o Certificado de Auditoria, o Parecer do órgão de controle interno e o pronunciamento do Ministro de Estado supervisor, ou da autoridade de nível hierárquico equivalente responsável pelas contas, integrantes das respectivas tomadas ou prestações de contas, em até 30 (trinta) dias após seu envio ao Tribunal; e
+ pelos órgãos dos Poderes e do MPU dentro de 60 (sessenta) dias após o final de cada quadrimestre, relatórios simplificados da gestão orçamentária, com o acompanhamento e a avaliação dos principais programas de governo, por área temática ou órgão, no âmbito dos Orçamentos Fiscal e da Seguridade Social, contendo a execução orçamentária e financeira, inclusive de restos a pagar, bem como os produtos ou resultados obtidos.
+oA CMO terá acesso a todos os dados da Proposta Orçamentária de 2012, inclusive por meio do SIOP.
+oPara fins de atendimento do disposto na alínea "i " do inciso I do § 1o deste artigo, a CMO deverá enviar ao Poder Executivo, até 45 (quarenta e cinco) dias após a publicação da Lei Orçamentária de 2012, as informações relativas às ações que tenham sido incluídas por emenda parlamentar.
+oO não encaminhamento das informações de que trata o § 3o deste artigo implicará a divulgação somente do cadastro das ações constantes do Projeto de Lei Orçamentária de 2012.
+oO cadastro de ações de que tratam a alínea "i " do inciso I do § 1o e o § 4o deste artigo, será atualizado, quando necessário, desde que o código, a descrição e a finalidade da ação se mantenham de acordo com a lei orçamentária anual.
+oOs Poderes e o MPU poderão realizar audiências públicas com a finalidade de estimular a participação popular no debate e aprimoramento do projeto de lei orçamentária.
+oA elaboração e a execução dos Orçamentos Fiscal e da Seguridade Social deverão obedecer à diretriz de redução das desigualdades regionais, de gênero, raça e etnia.
+ Os Poderes Legislativo e Judiciário e o MPU terão, como parâmetro para as despesas classificadas nos GNDs 3 - Outras Despesas Correntes, 4 - Investimentos e 5 - Inversões Financeiras, para fins de elaboração de suas respectivas propostas orçamentárias para 2012, o conjunto das dotações fixadas na Lei Orçamentária de 2011, com as alterações decorrentes dos créditos suplementares e especiais, aprovados até 30 de junho de 2011, exceto aqueles abertos à conta de superávit financeiro por ato próprio.
+oSerão excluídas do conjunto das dotações a que se refere o caput deste artigo aquelas destinadas:
+ à construção e à aquisição de imóveis, desde que não tenham sido provenientes de cancelamentos de dotações de outras despesas correntes dos Poderes e Órgão referidos no caput deste artigo; 
+à implantação de varas, inclusive do trabalho e da Justiça do Distrito Federal e Territórios, e juizados especiais federais; 
+à implantação das ações previstas na Lei de Organização Judiciária do Distrito Federal e Territórios; 
+ao planejamento e execução de programas de modernização no âmbito do Poder Legislativo financiados com recursos de operações de crédito externas, e respectivas contrapartidas; 
+à prestação de assistência judiciária a pessoas carentes, nos termos da legislação própria; 
+à promoção da prestação jurisdicional itinerante federal e trabalhista; e
+ à realização de eleições pela Justiça Eleitoral.
+oAos valores estabelecidos de acordo com o caput deste artigo e o § 1o serão acrescidas as dotações destinadas às despesas:
+ da mesma espécie das mencionadas no § 1o deste artigo e pertinentes ao exercício de 2012, exceto as de que trata o inciso I do referido parágrafo; 
+de manutenção de novas instalações em imóveis cuja aquisição ou conclusão esteja prevista para os exercícios de 2011 e 2012, inclusive em imóveis cedidos por outros entes da Federação; 
+decorrentes da implantação e funcionamento de novas varas e juizados especiais federais, criados pelas Leis no10.259, de 12 de julho de 2001, e no12.011, de 4 de agosto de 2009, e de Procuradorias da República e Ofícios do Ministério Público do Trabalho, criados pela Lei no10.771, de 21 de novembro de 2003; e
+ com os benefícios assistenciais decorrentes da criação e reestruturação de cargos e funções previstas em leis específicas.
+oA compensação de que trata o art. 17, § 2o, da LRF, quando da criação ou aumento de despesas obrigatórias de caráter continuado, no âmbito dos Poderes Legislativo e Judiciário e do MPU, poderá ser realizada a partir do aproveitamento da margem de expansão prevista no art. 4o, § 2o, inciso V, da mesma Lei Complementar, desde que observados:
+ o limite das respectivas dotações constantes da Lei Orçamentária de 2012 e de créditos adicionais; 
+os limites estabelecidos nos arts. 20 e 22, parágrafo único, da citada Lei Complementar; e
+ o anexo previsto no art. 78 desta Lei.
+oOs parâmetros de que trata o caput deste artigo serão informados aos órgãos dos Poderes Legislativo e Judiciário e ao MPU até 4 de julho de 2011.
+ Além de observar as demais diretrizes estabelecidas nesta Lei, a alocação dos recursos na Lei Orçamentária de 2012 e em créditos adicionais, bem como a respectiva execução, deverão propiciar o controle dos valores transferidos e dos custos das ações e a avaliação dos resultados dos programas de governo.
+oAs normas e instruções necessárias à coordenação e integração das informações referentes ao sistema de custos da Administração Pública Federal serão expedidas pelo órgão central do Sistema de Contabilidade Federal.
+oO montante das dotações orçamentárias das agências reguladoras levará em conta a fixação e o cumprimento de metas finalísticas de desempenho, constantes de planos ou programas definidos em lei, que estejam relacionadas à qualidade da regulação, bem como à melhoria dos instrumentos de transparência decisória.
+oOs órgãos e entidades integrantes dos Orçamentos Fiscal, da Seguridade Social e de Investimento deverão disponibilizar no Sistema Integrado de Administração de Serviços Gerais - SIASG e no Sistema de Gestão de Convênios e Contratos de Repasse - SICONV, no que couber, informações referentes aos contratos e aos convênios ou instrumentos congêneres firmados, com a identificação das respectivas categorias de programação e fontes de recursos quando se tratar de convênios ou instrumentos congêneres, observadas as normas estabelecidas pelo Poder Executivo.
+oAs normas de que trata o § 3o deste artigo deverão prever a possibilidade de os órgãos e entidades manterem sistemas próprios de gestão de contratos e convênios ou instrumentos congêneres, desde que condicionada à transferência eletrônica de dados para o SIASG e o SICONV.
+oOs projetos técnicos cadastrados no âmbito do SICONV, aptos para execução e não conveniados, integrarão um banco de projetos, mantido no Portal de Convênios, no qual poderão ser disponibilizados projetos básicos e de engenharia pré-formatados para adesão.
+oNo âmbito dos programas orçamentários, poderão ser incluídas ações destinadas à realização de estudos e elaboração de projetos técnicos.
+ Não poderão ser destinados recursos para atender a despesas com:
+ início de construção, ampliação, reforma voluptuária, aquisição, novas locações ou arrendamentos de imóveis residenciais funcionais; 
+aquisição, locação ou arrendamento de mobiliário e equipamento para unidades residenciais funcionais; 
+aquisição de automóveis de representação; 
+celebração, renovação e prorrogação de contratos de locação e arrendamento de quaisquer veículos para representação pessoal; 
+ações de caráter sigiloso; 
+ações que não sejam de competência da União, nos termos da Constituição; 
+clubes e associações de agentes públicos, ou quaisquer outras entidades congêneres; 
+pagamento, a qualquer título, a agente público da ativa por serviços prestados, inclusive consultoria, assistência técnica ou assemelhados, à conta de quaisquer fontes de recursos; 
+compra de títulos públicos por parte de entidades da Administração Federal indireta; 
+pagamento de diárias e passagens a agente público da ativa por intermédio de convênios ou instrumentos congêneres firmados com entidades de direito privado ou com órgãos ou entidades de direito público; 
+concessão, ainda que indireta, de qualquer benefício, vantagem ou parcela de natureza indenizatória a agentes públicos com a finalidade de atender despesas relacionadas a moradia, hospedagem, transporte ou atendimento de despesas com finalidade similar, seja sob a forma de auxílio, ajuda de custo ou qualquer outra denominação; 
+pagamento, a qualquer título, a empresas privadas que tenham em seu quadro societário servidor público da ativa, ou empregado de empresa pública ou de sociedade de economia mista, por serviços prestados, inclusive consultoria, assistência técnica ou assemelhados; e
+ transferência de recursos a entidades privadas destinados à realização de eventos, no âmbito dos Ministérios do Turismo e da Cultura.
+oDesde que o gasto seja discriminado em categoria de programação ou em natureza de despesa específica, excluem-se das vedações previstas:
+ nos incisos I e II do caput deste artigo, as destinações para:
+ unidades equipadas, essenciais à ação das organizações militares; 
+representações diplomáticas no exterior; 
+residências funcionais, em Brasília, dos Ministros de Estado, do Supremo Tribunal Federal e dos Tribunais Superiores e dos membros do Poder Legislativo; e
+ residências funcionais, em faixa de fronteira, para magistrados da Justiça Federal, quando necessárias à sua segurança no exercício de atividades diretamente relacionadas com o combate ao tráfico e ao contrabando.
+ no inciso III do caput deste artigo, as aquisições para uso: 
+do Presidente, Vice-Presidente e ex-Presidentes da República; 
+dos Membros das Mesas Diretoras da Câmara dos Deputados e do Senado Federal; 
+dos Ministros do Supremo Tribunal Federal, dos Tribunais Superiores e dos Presidentes dos Tribunais Regionais e do Tribunal de Justiça do Distrito Federal e dos Territórios; 
+dos Ministros de Estado; 
+do Procurador-Geral da República; 
+dos Comandantes da Marinha, do Exército e da Aeronáutica; 
+do Cerimonial do serviço diplomático; e
+ das representações diplomáticas no exterior, com recursos oriundos da renda consular; 
+no inciso V do caput deste artigo, quando as ações forem realizadas por órgãos ou entidades cuja legislação que as criou estabeleça, entre suas competências, o desenvolvimento de atividades relativas à segurança da sociedade e do Estado e que tenham como precondição o sigilo; 
+no inciso VI do caput deste artigo, as despesas relativas:
+ ao processo de descentralização dos sistemas de transporte ferroviário de passageiros, urbanos e suburbanos, até o limite dos recursos aprovados pelo Conselho Diretor do Processo de Transferência dos respectivos sistemas; 
+ao transporte metroviário de passageiros; 
+à construção de vias e obras rodoviárias estaduais destinadas à integração de modais de transporte; 
+à malha rodoviária federal, cujo domínio seja descentralizado aos Estados e ao Distrito Federal; 
+às ações de segurança pública nos termos do caput do art. 144 da Constituição; e
+ à assistência técnica e cooperação financeira, mediante a utilização de recursos oriundos de operações de crédito externas:

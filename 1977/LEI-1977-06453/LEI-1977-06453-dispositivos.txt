@@ -1,0 +1,59 @@
+Para os efeitos desta Lei considera-se: 
+“operador”, a pessoa jurídica devidamente autorizada para operar instalação nuclear; 
+“combustível nuclear”, o material capaz de produzir energia, mediante processo auto-sustentado de fissão nuclear; 
+“produtos ou rejeitos radioativos”, os materiais radioativos obtidos durante o processo de produção ou de utilização de combustíveis nucleares, ou cuja radioatividade se tenha originado da exposição às irradiações inerentes a tal processo, salvo os radioisótopos que tenham alcançado o estágio final de elaboração e já se possam utilizar para fins científicos, médicos, agrícolas, comerciais ou industriais; 
+“material nuclear”, o combustível nuclear e os produtos ou rejeitos radioativos; 
+“reator nuclear”, qualquer estrutura que contenha combustível nuclear, disposto de tal maneira que, dentro dela, possa ocorrer processo auto-sustentado de fissão nuclear, sem necessidade de fonte adicional de neutrons; 
+“instalação nuclear”: 
+o reator nuclear, salvo o utilizado como fonte de energia em meio de transporte, tanto para sua propulsão como para outros fins; 
+a fábrica que utilize combustível nuclear para a produção de materiais nucleares ou na qual se proceda a tratamento de materiais nucleares, incluídas as instalações de reprocessamento de combustível nuclear irradiado; 
+o local de armazenamento de materiais nucleares, exceto aquele ocasionalmente usado durante seu transporte; 
+“dano nuclear”, o dano pessoal ou material produzido como resultado direto ou indireto das propriedades radioativas, da sua combinação com as propriedades tóxicas ou com outras características dos materiais nucleares, que se encontrem em instalação nuclear, ou dela procedentes ou a ela enviados; 
+“acidente nuclear”, o fato ou sucessão de fatos da mesma origem, que cause dano nuclear; 
+“radiação ionizante”, a emissão de partículas alfa, beta, neutrons, ions acelerados ou raios X ou gama, capazes de provocar a formação de ions no tecido humano. 
+Várias instalações nucleares situadas no mesmo local e que tenham um único operador poderão ser consideradas, pela Comissão Nacional de Energia Nuclear, como uma só instalação nuclear. 
+Será também considerado dano nuclear o resultante de acidente nuclear combinado com outras causas, quando não se puderem distinguir os danos não nucleares. 
+Será exclusiva do operador da instalação nuclear, nos termos desta Lei, independentemente da existência de culpa, a responsabilidade civil pela reparação de dano nuclear causado por acidente nuclear: 
+ocorrido na instalação nuclear;  Il - provocado por material nuclear procedente de instalação nuclear, quando o acidente ocorrer: 
+antes que o operador da instalação nuclear a que se destina tenha assumido, por contrato escrito, a responsabilidade por acidentes nucleares causados pelo material; 
+na falta de contrato, antes que o operador da outra instalação nuclear haja assumido efetivamente o encargo do material; 
+provocado por material nuclear enviado à instalação nuclear, quando o acidente ocorrer: 
+depois que a responsabilidade por acidente provocado pelo material lhe houver sido transferida, por contrato escrito, pelo operador da outra instalação nuclear; 
+na falta de contrato, depois que o operador da instalação nuclear houver assumido efetivamente o encargo do material a ele enviado. 
+Quando responsáveis mais de um operador, respondem eles solidariamente, se impossível apurar-se a parte dos danos atribuível a cada um, observado o disposto nos artigos 9º a 13. 
+Uma vez provado haver o dano resultado exclusivamente de culpa da vítima, o operador será exonerado, apenas em relação a ela, da obrigação de indenizar. 
+O operador somente tem direito de regresso contra quem admitiu, por contrato escrito, o exercício desse direito, ou contra a pessoa física que, dolosamente, deu causa ao acidente. 
+O operador não responde pela reparação do dano resultante de acidente nuclear causado diretamente por conflito armado, hostilidades, guerra civil, insurreição ou excepcional fato da natureza. 
+A responsabilidade do operador pela reparação do dano nuclear é limitada, em cada acidente, ao valor correspondente a um milhão e quinhentas mil Obrigações Reajustáveis do Tesouro Nacional. 
+O limite fixado neste artigo não compreende os juros de mora, os honorários de advogado e as custas judiciais. 
+Se a indenização relativa a danos causados por determinado acidente nuclear exceder ao limite fixado no artigo anterior, proceder-se-á ao rateio entre os credores, na proporção de seus direitos. 
+No rateio, os débitos referentes a danos pessoais serão executados separada e preferentemente aos relativos a danos materiais. Após seu pagamento, ratear-se-á o saldo existente entre os credores por danos materiais. 
+Aplica-se o disposto neste artigo quando a União, organização internacional ou qualquer entidade fornecer recursos financeiros para ajudar a reparação dos danos nucleares e a soma desses recursos com a importância fixada no artigo anterior for insuficiente ao pagamento total da indenização devida. 
+As ações em que se pleiteiem indenizações por danos causados por determinado acidente nuclear deverão ser processadas e julgadas pelo mesmo Juízo Federal, fixando-se a prevenção jurisdicional segundo as disposições do Código de Processo Civil. Também competirá ao Juízo prevento a instauração, ex-officio, do procedimento do rateio previsto no artigo anterior. 
+O direito de pleitear indenização com o fundamento nesta Lei prescreve em 10 (dez) anos, contados da data do acidente nuclear. 
+Se o acidente for causado por material subtraído, perdido ou abandonado, o prazo prescricional contar-se-á do acidente, mas não excederá a 20 (vinte) anos contados da data da subtração, perda ou abandono. 
+O operador da instalação nuclear é obrigado a manter seguro ou outra garantia financeira que cubra a sua responsabilidade pelas indenizações por danos nucleares. 
+A natureza da garantia e a fixação de seu valor serão determinadas, em cada caso, pela Comissão Nacional de Energia Nuclear, no ato da licença de construção ou da autorização para a operação. 
+Ocorrendo alteração na instalação, poderão ser modificados a natureza e o valor da garantia. 
+Para a determinação da natureza e do valor da garantia, levar-se-ão em conta o tipo, a capacidade, a finalidade, a localização de cada instalação, bem como os demais fatores previsíveis. 
+O não cumprimento, por parte do operador, da obrigação prevista neste artigo acarretará a cassação da autorização. 
+A Comissão Nacional de Energia Nuclear poderá dispensar o operador, da obrigação a que se refere o caput deste artigo, em razão dos reduzidos riscos decorrentes de determinados materiais ou instalações nucleares. 
+A União garantira, até o limite fixado no artigo 9º, o pagamento das indenizações por danos nucleares de responsabilidade do operador, fornecendo os recursos complementares necessários, quando insuficientes os provenientes do seguro ou de outra garantia. 
+No caso de acidente provocado por material nuclear ilicitamente possuído ou utilizado e não relacionado a qualquer operador, os danos serão suportados pela União, até o limite fixado no artigo 9º, ressalvado o direito de regresso contra a pessoa que lhes deu causa. 
+Não se aplica a presente Lei às hipóteses de dano causado por emissão de radiação ionizante quando o fato não constituir acidente nuclear. 
+As indenizações pelos danos causados aos que trabalham com material nuclear ou em instalação nuclear serão reguladas pela legislação especial sobre acidentes do trabalho. 
+O disposto nesta Lei não se aplica às indenizações relativas a danos nucleares sofridos: 
+pela própria instalação nuclear; 
+pelos bens que se encontrem na área da instalação, destinados ao seu uso; 
+pelo meio de transporte no qual, ao produzir-se o acidente nuclear, estava o material que o ocasionou. 
+Constituem crimes na exploração e utilização de energia nuclear os descritos neste Capítulo, além dos tipificados na legislação sobre segurança nacional e nas demais leis. 
+Produzir, processar, fornecer ou usar material nuclear sem a necessária autorização ou para fim diverso do permitido em lei.  Pena: reclusão, de quatro a dez anos. 
+Permitir o responsável pela instalação nuclear sua operação sem a necessária autorização.  Pena: reclusão, de dois a seis anos. 
+Possuir, adquirir, transferir, transportar, guardar ou trazer consigo material nuclear, sem a necessária autorização.  Pena: reclusão, de dois a seis anos. 
+Transmitir ilicitamente informações sigilosas, concernentes à energia nuclear.  Pena: reclusão, de quatro a oito anos. 
+Extrair, beneficiar ou comerciar ilegalmente minério nuclear.  Pena: reclusão, de dois a seis anos. 
+Exportar ou importar, sem a necessária licença, material nuclear, minérios nucleares e seus concentrados, minérios de interesse para a energia nuclear e minérios e concentrados que contenham elementos nucleares.  Pena: reclusão, de dois a oito anos. 
+Deixar de observar as normas de segurança ou de proteção relativas à instalação nuclear ou ao uso, transporte, posse e guarda de material nuclear, expondo a perigo a vida, a integridade física ou o patrimônio de outrem.  Pena: reclusão, de dois a oito anos. 
+Impedir ou dificultar o funcionamento de instalação nuclear ou o transporte de material nuclear.  Pena: reclusão, de quatro a dez anos. 
+Esta Lei entrará em vigor na data de sua publicação. 
+Revogam-se as disposições em contrário. 

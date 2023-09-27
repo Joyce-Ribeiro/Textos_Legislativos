@@ -1,0 +1,154 @@
+Esta lei estabelece normas de segurança e mecanismos de fiscalização no uso das técnicas de engenharia genética na construção, cultivo, manipulação, transporte, comercialização, consumo, liberação e descarte de organismo geneticamente modificado (OGM), visando a proteger a vida e a saúde do homem, dos animais e das plantas, bem como o meio ambiente.
+As atividades e projetos, inclusive os de ensino, pesquisa científica, desenvolvimento tecnológico e de produção industrial que envolvam OGM no território brasileiro, ficam restritos ao âmbito de entidades de direito público ou privado, que serão tidas como responsáveis pela obediência aos preceitos desta lei e de sua regulamentação, bem como pelos eventuais efeitos ou conseqüências advindas de seu descumprimento.
+Para os fins desta lei consideram-se atividades e projetos no âmbito de entidades como sendo aqueles conduzidos em instalações próprias ou os desenvolvidos alhures sob a sua responsabilidade técnica ou científica.
+As atividades e projetos de que trata este artigo são vedados a pessoas físicas enquanto agentes autônomos independentes, mesmo que mantenham vínculo empregatício ou qualquer outro com pessoas jurídicas.
+As organizações públicas e privadas, nacionais, estrangeiras ou internacionais, financiadoras ou patrocinadoras de atividades ou de projetos referidos neste artigo, deverão certificar-se da idoneidade técnico-científica e da plena adesão dos entes financiados, patrocinados, conveniados ou contratados às normas e mecanismos de salvaguarda previstos nesta lei, para o que deverão exigir a apresentação do Certificado de Qualidade em Biossegurança de que trata o art. 6º, inciso XIX, sob pena de se tornarem co-responsáveis pelos eventuais efeitos advindos de seu descumprimento.
+Para os efeitos desta lei, define-se:
+organismo - toda entidade biológica capaz de reproduzir e/ou de transferir material genético, incluindo vírus, prions e outras classes que venham a ser conhecidas;
+ácido desoxirribonucléico (ADN), ácido ribonucléico (ARN) - material genético que contém informações determinantes dos caracteres hereditários transmissíveis à descendência;
+moléculas de ADN/ARN recombinante - aquelas manipuladas fora das células vivas, mediante a modificação de segmentos de ADN/ARN natural ou sintético que possam multiplicar-se em uma célula viva, ou ainda, as moléculas de ADN/ARN resultantes dessa multiplicação. Consideram-se, ainda, os segmentos de ADN/ARN sintéticos equivalentes aos de ADN/ARN natural;
+Organismo Geneticamente Modificado (OGM) - organismo cujo material genético (ADN/ARN) tenha sido modificado por qualquer técnica de engenharia genética;
+Engenharia genética - atividade de manipulação de moléculas ADN/ARN recombinante.
+Não são considerados como OGM aqueles resultantes de técnicas que impliquem a introdução direta, num organismo, de material hereditário, desde que não envolvam a utilização de moléculas de ADN/ARN recombinante ou OGM, tais como: fecundação in vitro, conjugação, transdução, transformação, indução poliplóide e qualquer outro processo natural.
+Esta lei não se aplica quando a modificação genética for obtida através das seguintes técnicas, desde que não impliquem a utilização de OGM como receptor ou doador:
+mutagênese;
+formação e utilização de células somáticas de hibridoma animal;
+fusão celular, inclusive a de protoplasma, de células vegetais, que possa ser produzida mediante métodos tradicionais de cultivo;
+autoclonagem de organismos não-patogênicos que se processe de maneira natural.
+(Vetado.)
+(Vetado.)
+Caberá, dentre outras atribuições, aos órgãos de fiscalização do Ministério da Saúde, do Ministério da Agricultura, do Abastecimento e da Reforma Agrária e do Ministério do Meio Ambiente e da Amazônia Legal, dentro do campo de suas competências, observado o parecer técnico conclusivo da CTNBio e os mecanismos estabelecidos na regulamentação desta lei:
+(Vetado.)
+a fiscalização e a monitorização de todas as atividades e projetos relacionados a OGM do Grupo II;
+a emissão do registro de produtos contendo OGM ou derivados de OGM a serem comercializados para uso humano, animal ou em plantas, ou para a liberação no meio ambiente;
+a expedição de autorização para o funcionamento de laboratório, instituição ou empresa que desenvolverá atividades relacionadas a OGM;
+a emissão de autorização para a entrada no País de qualquer produto contendo OGM ou derivado de OGM;
+manter cadastro de todas as instituições e profissionais que realizem atividades e projetos relacionados a OGM no território nacional;
+encaminhar à CTNBio, para emissão de parecer técnico, todos os processos relativos a projetos e atividades que envolvam OGM;
+encaminhar para publicação no Diário Oficial da União resultado dos processos que lhe forem submetidos a julgamento, bem como a conclusão do parecer técnico;
+aplicar as penalidades de que trata esta lei nos arts. 11 e 12.
+É vedado, nas atividades relacionadas a OGM:
+qualquer manipulação genética de organismos vivos ou o manejo  in vitro de ADN/ARN natural ou recombinante, realizados em desacordo com as normas previstas nesta lei;
+a manipulação genética de células germinais humanas;
+a intervenção em material genético humano in vivo, exceto para o tratamento de defeitos genéticos, respeitando-se princípios éticos, tais como o princípio de autonomia e o princípio de beneficência, e com a aprovação prévia da CTNBio;
+a produção, armazenamento ou manipulação de embriões humanos destinados a servir como material biológico disponível;
+a intervenção in vivo em material genético de animais, excetuados os casos em que tais intervenções se constituam em avanços significativos na pesquisa científica e no desenvolvimento tecnológico, respeitando-se princípios éticos, tais como o princípio da responsabilidade e o princípio da prudência, e com aprovação prévia da CTNBio;
+a liberação ou o descarte no meio ambiente de OGM em desacordo com as normas estabelecidas pela CTNBio e constantes na regulamentação desta lei.
+Os produtos contendo OGM, destinados à comercialização ou industrialização, provenientes de outros países, só poderão ser introduzidos no Brasil após o parecer prévio conclusivo da CTNBio e a autorização do órgão de fiscalização competente, levando-se em consideração pareceres técnicos de outros países, quando disponíveis.
+Os produtos contendo OGM, pertencentes ao Grupo II conforme definido no Anexo I desta lei, só poderão ser introduzidos no Brasil após o parecer prévio conclusivo da CTNBio e a autorização do órgão de fiscalização competente.
+(Vetado.)
+Toda entidade que utilizar técnicas e métodos de engenharia genética deverá criar uma Comissão Interna de Biossegurança (CIBio), além de indicar um técnico principal responsável por cada projeto específico.
+Compete à Comissão Interna de Biossegurança (CIBio) no âmbito de sua instituição:
+manter informados os trabalhadores, qualquer pessoa e a coletividade, quando suscetíveis de serem afetados pela atividade, sobre todas as questões relacionadas com a saúde e a segurança, bem como sobre os procedimentos em caso de acidentes;
+estabelecer programas preventivos e de inspeção para garantir o funcionamento das instalações sob sua responsabilidade, dentro dos padrões e normas de biossegurança, definidos pela CTNBio na regulamentação desta lei;
+encaminhar à CTNBio os documentos cuja relação será estabelecida na regulamentação desta lei, visando a sua análise e a autorização do órgão competente quando for o caso;
+manter registro do acompanhamento individual de cada atividade ou projeto em desenvolvimento envolvendo OGM;
+notificar à CTNBio, às autoridades de Saúde Pública e às entidades de trabalhadores, o resultado de avaliações de risco a que estão submetidas as pessoas expostas, bem como qualquer acidente ou incidente que possa provocar a disseminação de agente biológico;
+investigar a ocorrência de acidentes e as enfermidades possivelmente relacionadas a OGM, notificando suas conclusões e providências à CTNBio.
+Constitui infração, para os efeitos desta lei, toda ação ou omissão que importe na inobservância de preceitos nela estabelecidos, com exceção dos §§ 1º e 2º e dos incisos de II a VI do art. 8º, ou na desobediência às determinações de caráter normativo dos órgãos ou das autoridades administrativas competentes.
+Fica a CTNBio autorizada a definir valores de multas a partir de 16.110,80 Ufir, a serem aplicadas pelos órgãos de fiscalização referidos no art. 7º, proporcionalmente ao dano direto ou indireto, nas seguintes infrações:
+não obedecer às normas e aos padrões de biossegurança vigentes;
+implementar projeto sem providenciar o prévio cadastramento da entidade dedicada à pesquisa e manipulação de OGM, e de seu responsável técnico, bem como da CTNBio;
+liberar no meio ambiente qualquer OGM sem aguardar sua prévia aprovação, mediante publicação no Diário Oficial da União;
+operar os laboratórios que manipulam OGM sem observar as normas de biossegurança estabelecidas na regulamentação desta lei;
+não investigar, ou fazê-lo de forma incompleta, os acidentes ocorridos no curso de pesquisas e projetos na área de engenharia genética, ou não enviar relatório respectivo à autoridade competente no prazo máximo de 5 (cinco) dias a contar da data de transcorrido o evento;
+implementar projeto sem manter registro de seu acompanhamento individual;
+deixar de notificar, ou fazê-lo de forma não imediata, à CTNBio e às autoridades da Saúde Pública, sobre acidente que possa provocar a disseminação de OGM;
+não adotar os meios necessários à plena informação da CTNBio, das autoridades da Saúde Pública, da coletividade, e dos demais empregados da instituição ou empresa, sobre os riscos a que estão submetidos, bem como os procedimentos a serem tomados, no caso de acidentes;
+qualquer manipulação genética de organismo vivo ou manejo  in vitro de ADN/ARN natural ou recombinante, realizados em desacordo com as normas previstas nesta lei e na sua regulamentação.
+No caso de reincidência, a multa será aplicada em dobro.
+No caso de infração continuada, caracterizada pela permanência da ação ou omissão inicialmente punida, será a respectiva penalidade aplicada diariamente até cessar sua causa, sem prejuízo da autoridade competente, podendo paralisar a atividade imediatamente e/ou interditar o laboratório ou a instituição ou empresa responsável.
+Constituem crimes:
+a manipulação genética de células germinais humanas;
+a intervenção em material genético humano in vivo, exceto para o tratamento de defeitos genéticos, respeitando-se princípios éticos tais como o princípio de autonomia e o princípio de beneficência, e com a aprovação prévia da CTNBio;
+detenção de três meses a um ano.
+Se resultar em:
+incapacidade para as ocupações habituais por mais de trinta dias;
+perigo de vida;
+debilidade permanente de membro, sentido ou função;
+aceleração de parto;
+reclusão de um a cinco anos.
+Se resultar em:
+lesões corporais leves;
+perigo de vida;
+debilidade permanente de membro, sentido ou função;
+aceleração de parto;
+dano à propriedade alheia;
+dano ao meio ambiente;
+reclusão de dois a cinco anos.
+Se resultar em:
+incapacidade permanente para o trabalho;
+enfermidade incurável;
+perda ou inutilização de membro, sentido ou função;
+deformidade permanente;
+aborto;
+reclusão de dois a oito anos.
+Se resultar em:
+incapacidade permanente para o trabalho;
+enfermidade incurável;
+perda ou inutilização de membro, sentido ou função;
+deformidade permanente;
+aborto;
+inutilização da propriedade alheia;
+dano grave ao meio ambiente;
+reclusão de dois a oito anos;
+Se resultar em morte;
+reclusão de seis a vinte anos.
+a produção, armazenamento ou manipulação de embriões humanos destinados a servirem como material biológico disponível;
+reclusão de seis a vinte anos.
+a intervenção in vivo em material genético de animais, excetuados os casos em que tais intervenções se constituam em avanços significativos na pesquisa científica e no desenvolvimento tecnológico, respeitando-se princípios éticos, tais como o princípio da responsabilidade e o princípio da prudência, e com aprovação prévia da CTNBio;
+detenção de três meses a um ano;
+a liberação ou o descarte no meio ambiente de OGM em desacordo com as normas estabelecidas pela CTNBio e constantes na regulamentação desta lei.
+reclusão de um a três anos;
+Se resultar em morte;
+reclusão de seis a vinte anos.
+Se resultar em:
+incapacidade para as ocupações habituais por mais de trinta dias;
+perigo de vida;
+debilidade permanente de membro, sentido ou função;
+aceleração de parto;
+reclusão de um a cinco anos.
+Se resultar em:
+lesões corporais leves;
+perigo de vida;
+debilidade permanente de membro, sentido ou função;
+aceleração de parto;
+dano à propriedade alheia;
+dano ao meio ambiente;
+reclusão de dois a cinco anos.
+Se resultar em:
+incapacidade permanente para o trabalho;
+enfermidade incurável;
+perda ou inutilização de membro, sentido ou função;
+deformidade permanente;
+aborto;
+reclusão de dois a oito anos.
+Se resultar em:
+incapacidade permanente para o trabalho;
+enfermidade incurável;
+perda ou inutilização de membro, sentido ou função;
+deformidade permanente;
+aborto;
+inutilização da propriedade alheia;
+dano grave ao meio ambiente;
+reclusão de dois a oito anos;
+Se resultar em morte;
+reclusão de seis a vinte anos.
+a produção, armazenamento ou manipulação de embriões humanos destinados a servirem como material biológico disponível;
+reclusão de seis a vinte anos.
+a intervenção in vivo em material genético de animais, excetuados os casos em que tais intervenções se constituam em avanços significativos na pesquisa científica e no desenvolvimento tecnológico, respeitando-se princípios éticos, tais como o princípio da responsabilidade e o princípio da prudência, e com aprovação prévia da CTNBio;
+detenção de três meses a um ano;
+a liberação ou o descarte no meio ambiente de OGM em desacordo com as normas estabelecidas pela CTNBio e constantes na regulamentação desta lei.
+reclusão de um a três anos;
+Se resultar em morte;
+reclusão de seis a vinte anos.
+Se a liberação, o descarte no meio ambiente ou a introdução no meio de OGM for culposo:
+reclusão de um a dois anos.
+Se a liberação, o descarte no meio ambiente ou a introdução no País de OGM for culposa, a pena será aumentada de um terço se o crime resultar de inobservância de regra técnica de profissão.
+O Ministério Público da União e dos Estados terá legitimidade para propor ação de responsabilidade civil e criminal por danos causados ao homem, aos animais, às plantas e ao meio ambiente, em face do descumprimento desta lei.
+Sem obstar a aplicação das penas previstas nesta lei, é o autor obrigado, independente da existência de culpa, a indenizar ou reparar os danos causados ao meio ambiente e a terceiros, afetados por sua atividade.
+Esta lei será regulamentada no prazo de 90 (noventa) dias a contar da data de sua publicação.
+As entidades que estiverem desenvolvendo atividades reguladas por esta lei na data de sua publicação, deverão adequar-se às suas disposições no prazo de cento e vinte dias, contados da publicação do decreto que a regulamentar, bem como apresentar relatório circunstanciado dos produtos existentes, pesquisas ou projetos em andamento envolvendo OGM.
+Verificada a existência de riscos graves para a saúde do homem ou dos animais, para as plantas ou para o meio ambiente, a CTNBio determinará a paralisação imediata da atividade.
+Esta lei entra em vigor na data de sua publicação.
+Revogam-se as disposições em contrário.

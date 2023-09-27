@@ -1,0 +1,609 @@
+São estabelecidas, em cumprimento ao disposto no art. 165, § 2, da Constituição, as diretrizes orçamentárias da União para 2003, compreendendo: 
+as prioridades e metas da Administração Pública Federal; 
+a estrutura e organização dos orçamentos; 
+as diretrizes para a elaboração e execução dos orçamentos da União e suas alterações; 
+as disposições relativas à dívida pública federal; 
+as disposições relativas às despesas da União com pessoal e encargos sociais; 
+a política de aplicação dos recursos das agências financeiras oficiais de fomento; 
+as disposições sobre alterações na legislação tributária da União; e 
+as disposições gerais. 
+Em consonância com o art. 165, § 2º, da Constituição, as metas e as prioridades para o exercício financeiro de 2003 são as especificadas no Anexo de Metas e Prioridades, que integra esta Lei e que constarão do projeto de lei orçamentária, as quais terão precedência na alocação de recursos na lei orçamentária de 2003 e na sua execução, não se constituindo, todavia, em limite à programação das despesas, devendo observar os seguintes objetivos: 
+consolidar a estabilidade econômica; 
+garantir o crescimento econômico com desenvolvimento social; 
+combater a pobreza, por meio da inserção social; 
+consolidar a democracia e a defesa dos direitos humanos; 
+reduzir as desigualdades inter-regionais; 
+fortalecer a segurança pública nos Estados e Municípios. 
+Fica vedada a adoção, pelo Poder Executivo, durante a execução orçamentária, de categorias de prioridades que não estejam contempladas no Anexo referido no caput deste artigo, salvo deliberação em contrário da Comissão Mista de que trata o art. 166, § 1º, da Constituição, na audiência pública prevista no art. 9º, § 4º, da Lei Complementar nº 101, de 4 de maio de 2000, em que o Órgão Central do Sistema de Planejamento e de Orçamento Federal justificará a necessidade e os critérios adotados na definição das novas prioridades. 
+O Poder Executivo justificará, na Mensagem que encaminhar o projeto de lei orçamentária, o atendimento parcial das metas e prioridades ou a inclusão de outras prioridades, em detrimento das constantes do Anexo a que se refere o caput deste artigo. 
+Na destinação dos recursos relativos a programas sociais no projeto de lei orçamentária: 
+será conferida prioridade às áreas de menor Índice de Desenvolvimento Humano, podendo ser desagregadas por distrito ou setor censitário; 
+serão adotados critérios que levem em conta o fator representativo da multiplicação do inverso da renda per capita pela população da unidade da Federação. 
+Para efeito desta Lei, entende-se por: 
+programa, o instrumento de organização da ação governamental visando à concretização dos objetivos pretendidos, sendo mensurado por indicadores estabelecidos no plano plurianual; 
+atividade, um instrumento de programação para alcançar o objetivo de um programa, envolvendo um conjunto de operações que se realizam de modo contínuo e permanente, das quais resulta um produto necessário à manutenção da ação de governo; 
+projeto, um instrumento de programação para alcançar o objetivo de um programa, envolvendo um conjunto de operações, limitadas no tempo, das quais resulta um produto que concorre para a expansão ou aperfeiçoamento da ação de governo; e 
+operação especial, as despesas que não contribuem para a manutenção, expansão ou aperfeiçoamento das ações de governo, das quais não resulta um produto, e não gera contraprestação direta sob a forma de bens ou serviços. 
+Cada programa identificará as ações necessárias para atingir os seus objetivos, sob a forma de atividades, projetos ou operações especiais, especificando os respectivos valores e metas, bem como as unidades orçamentárias responsáveis pela realização da ação. 
+As atividades, projetos e operações especiais serão desdobrados em subtítulos, detalhados por grupo de natureza de despesa, que representa o menor nível da categoria de programação, sendo o subtítulo, especialmente, para especificar sua localização física, não podendo haver alteração da finalidade. 
+Cada atividade, projeto e operação especial identificará a função e a subfunção às quais se vinculam. 
+As categorias de programação de que trata esta Lei serão identificadas no projeto de lei orçamentária por programas, atividades, projetos ou operações especiais, respectivos subtítulos, e grupo de natureza de despesa, com indicação de suas metas físicas. 
+As metas físicas serão indicadas em nível de subtítulo e agregadas segundo os respectivos projetos, atividades ou operações especiais e constarão do demonstrativo a que se refere o art. 10, § 1, XIV, desta Lei. 
+Os orçamentos fiscal e da seguridade social compreenderão a programação dos Poderes da União, seus fundos, órgãos, autarquias, inclusive especiais, exceto as relativas aos conselhos de fiscalização de profissões regulamentadas, e fundações instituídas e mantidas pelo Poder Público, bem como das empresas públicas, sociedades de economia mista e demais entidades em que a União, direta ou indiretamente, detenha a maioria do capital social com direito a voto e que dela recebam recursos do Tesouro Nacional, devendo a correspondente execução orçamentária e financeira ser registrada na modalidade total no Sistema Integrado de Administração Financeira do Governo Federal - Siafi. 
+Excluem-se do disposto neste artigo as empresas que recebam recursos da União apenas sob a forma de: 
+participação acionária; 
+pagamento pelo fornecimento de bens e pela prestação de serviços; 
+pagamento de empréstimos e financiamentos concedidos; e 
+transferências para aplicação em programas de financiamento, nos termos do disposto nos arts. 159, I, c, e 239, § 1º, da Constituição. 
+Os fundos de incentivos fiscais não integrarão a lei orçamentária, figurando, exclusivamente, como demonstrativo das informações complementares ao projeto de lei, em conformidade com o disposto no art. 165, § 6, da Constituição. 
+O demonstrativo de que trata o § 2º deste artigo será elaborado pelo Ministério da Fazenda em conjunto com o Ministério do Planejamento, Orçamento e Gestão, a partir de informações sobre isenções, anistias, remissões, subsídios e benefícios de natureza financeira, tributária e creditícia prestadas pelos órgãos envolvidos. 
+O Governo Federal viabilizará, para todo cidadão, consultas gerenciais aos dados da execução orçamentária e financeira do Siafi por meio da Internet. 
+Os orçamentos fiscal e da seguridade social discriminarão a despesa por unidade orçamentária, detalhada por categoria de programação em seu menor nível, com suas respectivas dotações, especificando a esfera orçamentária, a modalidade de aplicação, a fonte de recursos, o identificador de uso, o identificador de resultado primário, e os grupos de natureza de despesa conforme a seguir discriminados: 
+pessoal e encargos sociais - 1; 
+juros e encargos da dívida - 2; 
+outras despesas correntes - 3; 
+investimentos - 4; 
+inversões financeiras, incluídas quaisquer despesas referentes à constituição ou aumento de capital de empresas - 5; e 
+amortização da dívida - 6. 
+A Reserva de Contingência, prevista no art. 12, será identificada pelo dígito 9 (nove) no que se refere ao grupo de natureza da despesa. 
+As unidades orçamentárias serão agrupadas em órgãos orçamentários, entendidos como sendo os de maior nível da classificação institucional. 
+A modalidade de aplicação destina-se a indicar se os recursos serão aplicados: 
+mediante transferência financeira a outras esferas de governo, órgãos ou entidades, inclusive a decorrente de descentralização orçamentária; ou 
+diretamente pela unidade detentora do crédito orçamentário, por outro órgão ou entidade no âmbito do mesmo nível de governo. 
+A especificação da modalidade de que trata este artigo será efetuada pelo Órgão Central do Sistema de Planejamento e de Orçamento Federal observando-se, no mínimo, o seguinte detalhamento: 
+governo estadual - 30; 
+administração municipal - 40; 
+entidade privada sem fins lucrativos - 50; 
+aplicação direta - 90; ou 
+a ser definida - 99. 
+É vedada a execução orçamentária com a modalidade de aplicação "a ser definida - 99". 
+O identificador de uso destina-se a indicar se os recursos compõem contrapartida nacional de empréstimos ou de doações, ou destinam-se a outras aplicações, constando da lei orçamentária e de seus créditos adicionais pelos seguintes dígitos, que antecederão o código das fontes de recursos: 
+recursos não destinados à contrapartida - 0; 
+contrapartida de empréstimos do Banco Internacional para Reconstrução e Desenvolvimento - Bird - 1; 
+contrapartida de empréstimos do Banco Interamericano de Desenvolvimento - BID - 2; ou 
+outras contrapartidas - 3. 
+O identificador de resultado primário, de caráter indicativo, tem como finalidade auxiliar a apuração do resultado primário previsto no art. 15 desta Lei, devendo constar no projeto de lei orçamentária em todas as categorias de programação da despesa, identificando de acordo com a metodologia de cálculo das necessidades de financiamento, cujo demonstrativo constará em Anexo à lei orçamentária, nos termos do art. 10, § 1º, XIII, desta Lei, se a despesa é de natureza: 
+financeira - 0; 
+primária obrigatória, quando conste do quadro previsto no art. 100 desta Lei - 1; ou 
+primária discricionária, entendidas aquelas não constantes do Anexo previsto no art. 100 desta Lei - 2. 
+As fontes de recursos que corresponderem às receitas provenientes de concessão, permissão e ressarcimento pela fiscalização de bens e serviços públicos constarão na lei orçamentária com código próprio que as identifiquem conforme a origem da receita, discriminando-se, no mínimo, aquelas decorrentes do ressarcimento pela fiscalização de bens e serviços públicos e concessão ou permissão nas áreas de telecomunicações, transportes, petróleo e eletricidade. 
+Cada projeto constará somente de uma esfera orçamentária e de um programa. 
+As atividades com a mesma finalidade de outras já existentes deverão observar o mesmo código, independentemente da unidade executora. 
+No projeto de lei orçamentária será atribuído a cada subtítulo, para fins de processamento, um código seqüencial que não constará da lei orçamentária. 
+As modificações propostas nos termos do art. 166, § 5º, da Constituição, deverão preservar os códigos seqüenciais da proposta original. 
+A alocação dos créditos orçamentários será feita diretamente à unidade orçamentária responsável pela execução das ações correspondentes, ficando proibida a consignação de recursos a título de transferência para unidades integrantes dos orçamentos fiscal e da seguridade social. 
+A vedação contida no art. 167, VI, da Constituição, não impede a descentralização de créditos orçamentários para execução de ações de responsabilidade da unidade descentralizadora. 
+O projeto de lei orçamentária que o Poder Executivo encaminhará ao Congresso Nacional e a respectiva lei serão constituídos de: 
+texto da lei; 
+quadros orçamentários consolidados; 
+anexo da receita dos orçamentos fiscal e da seguridade social de acordo com a classificação constante do Anexo III da Lei nº 4.320, de 17 de março de 1964, identificando a fonte de recurso correspondente a cada natureza de receita, o orçamento a que pertencem e a natureza financeira (F) ou primária (P); 
+discriminação da legislação da receita e da despesa, referente aos orçamentos fiscal e da seguridade social; 
+anexo da despesa dos orçamentos fiscal e da seguridade social, discriminada na forma prevista no art. 5, caput, e nos demais dispositivos pertinentes desta Lei; e 
+anexo do orçamento de investimento a que se refere o art. 165, § 5º, II, da Constituição, na forma definida nesta Lei. 
+Os quadros orçamentários a que se refere o inciso II deste artigo, incluindo os complementos referenciados no art. 22, III, da Lei nº 4.320, de 1964, são os seguintes: 
+receita e despesa, dos orçamentos fiscal e da seguridade social, isolada e conjuntamente, segundo categorias econômicas, conforme o Anexo I da Lei nº 4.320, de 1964; 
+evolução da receita do Tesouro Nacional, segundo as categorias econômicas e seu desdobramento em fontes, discriminando cada imposto e contribuição de que trata o art. 195 da Constituição; 
+resumo das receitas dos orçamentos fiscal e da seguridade social, isolada e conjuntamente, por categorias econômicas e origem dos recursos; 
+recursos do Tesouro Nacional diretamente arrecadados, nos orçamentos fiscal e da seguridade social, por órgão; 
+recursos diretamente arrecadados, de todas as fontes, por órgão e unidade orçamentária; 
+evolução da despesa do Tesouro Nacional, segundo as categorias econômicas e grupos de natureza de despesa; 
+resumo das despesas dos orçamentos fiscal e da seguridade social, isolada e conjuntamente, por categorias econômicas, grupos de natureza de despesa e origem dos recursos; 
+despesas dos orçamentos fiscal e da seguridade social, isolada e conjuntamente, segundo Poder e órgão, por fontes de recursos e grupos de natureza de despesa; 
+despesas dos orçamentos fiscal e da seguridade social, isolada e conjuntamente, segundo a função, subfunção e programa; 
+fontes de recursos por grupos de natureza de despesa; 
+programação referente à manutenção e ao desenvolvimento do ensino, nos termos do art. 212 da Constituição, em nível de órgão, detalhando fontes e valores por categoria de programação; 
+recursos destinados à irrigação, nos termos do art. 42 do Ato das Disposições Constitucionais Transitórias, por região; 
+demonstrativo dos resultados, primário e nominal do governo central, implícitos na lei orçamentária, evidenciando-se receitas e despesas primárias e financeiras, de acordo com a metodologia apresentada, identificando a evolução dos principais itens, comparativamente aos últimos três exercícios; 
+despesas dos orçamentos fiscal e da seguridade social, segundo os programas de governo, com os seus objetivos e indicadores, detalhados por atividades, projetos e operações especiais, com a identificação das metas, se for o caso, e unidades orçamentárias executoras; 
+resumo das fontes de financiamento e da despesa do orçamento de investimento, segundo órgão, função, subfunção e programa; 
+evolução, nos últimos três exercícios, do orçamento da seguridade social, discriminadas as despesas por programa e as receitas por fonte de recursos. 
+Observado o disposto no art. 86 desta Lei, o projeto de lei e a lei orçamentária conterão anexo específico com a relação dos subtítulos relativos a obras e serviços com indícios de irregularidades graves, com base nas informações encaminhadas pelo Tribunal de Contas da União. 
+Os quadros síntese dos órgãos e unidades orçamentárias constantes do Anexo da programação da despesa prevista no inciso V deste artigo deverão conter, no projeto de lei orçamentária, além do valor proposto para 2003, o executado em 2000 e 2001 e o constante do projeto de lei orçamentária para 2002. 
+A mensagem que encaminhar o projeto de lei orçamentária conterá: 
+análise da conjuntura econômica do País, atualizando as informações de que trata o § 4º do art. 4º da Lei Complementar nº 101, de 2000, com indicação do cenário macroeconômico para 2003, e suas implicações sobre a proposta orçamentária; 
+resumo da política econômica e social do Governo; 
+avaliação das necessidades de financiamento do governo central, explicitando receitas e despesas, bem como indicando os resultados primário e nominal implícitos no projeto de lei orçamentária para 2003, a lei orçamentária e a reprogramação para 2002 e o realizado em 2001, evidenciando: 
+metodologia de cálculo de todos os itens computados nas necessidades de financiamento; e 
+os parâmetros utilizados, informando, separadamente, as variáveis macroeconômicas de que trata o Anexo de Metas Fiscais referido no art. 4º, § 2º, II, da Lei Complementar nº 101, de 2000, em 2001 e suas projeções para 2002 e 2003; 
+indicação do órgão que apurará os resultados primário e nominal, para fins de avaliação do cumprimento das metas; 
+justificativa da estimativa e da fixação, respectivamente, dos principais agregados da receita e da despesa; e 
+demonstrativo sintético, por empresa, do Programa de Dispêndios Globais, informando a origem dos recursos, com o detalhamento mínimo igual ao estabelecido no art. 59, § 3º, desta Lei, bem como a previsão da sua respectiva aplicação, por grupo de natureza de despesa, e o resultado primário dessas empresas com a metodologia de apuração do resultado. 
+O Poder Executivo encaminhará ao Congresso Nacional até 15 (quinze) dias após o envio do projeto de lei orçamentária, inclusive em meio eletrônico, demonstrativos, elaborados a preços correntes, contendo as informações complementares relacionadas no correspondente Anexo a esta Lei. 
+O Poder Executivo enviará ao Congresso Nacional os projetos de lei orçamentária e de créditos adicionais, em meio eletrônico, com sua despesa regionalizada e discriminada, no caso do projeto de lei orçamentária, por elemento de despesa. 
+O Congresso Nacional encaminhará ao Poder Executivo os autógrafos dos projetos de lei orçamentária e de créditos adicionais também em meio eletrônico. 
+Os projetos referidos nos §§ 4º e 5º serão, reciprocamente, disponibilizados, na forma acordada entre os órgãos técnicos dos Poderes Legislativo e Executivo. 
+Os demonstrativos e informações complementares exigidos por esta Lei identificarão, logo abaixo do respectivo título, o dispositivo e o enunciado do texto legal a que se referem. 
+No demonstrativo de que trata o inciso I do § 1º deste artigo serão discriminadas, separadamente, as estimativas relativas às contribuições dos empregadores para a seguridade social, incidentes sobre a folha de salários, o faturamento, os lucros e a contribuição dos trabalhadores, estabelecidas, respectivamente, nos incisos I e II do art. 195 da Constituição. 
+O projeto de lei orçamentária deverá conter cálculo atualizado da estimativa da margem de expansão das despesas obrigatórias de caráter continuado, explicitando a parcela da margem apropriada no projeto com as expansões de gastos obrigatórios, demonstrando a compatibilidade com os Anexos previstos nos arts. 77 e 100 desta Lei, e a parcela destinada às despesas discricionárias. 
+Observado o disposto no art. 86 desta Lei, o projeto de lei e a lei orçamentária conterão anexo específico com a relação dos subtítulos relativos a obras e serviços com indícios de irregularidades graves, com base nas informações encaminhadas pelo Tribunal de Contas da União. 
+Os quadros síntese dos órgãos e unidades orçamentárias constantes do Anexo da programação da despesa prevista no inciso V deste artigo deverão conter, no projeto de lei orçamentária, além do valor proposto para 2003, o executado em 2000 e 2001 e o constante do projeto de lei orçamentária para 2002. 
+A lei orçamentária discriminará em categorias de programação específicas as dotações destinadas: 
+às ações descentralizadas de saúde e assistência social para cada Estado e respectivos Municípios e para o Distrito Federal; 
+às ações de alimentação escolar para cada Estado e respectivos Municípios e para o Distrito Federal; 
+ao pagamento de benefícios do regime geral da previdência, para cada categoria de benefício; 
+às despesas com previdência complementar; 
+aos benefícios mensais às pessoas portadoras de deficiência e aos idosos, em cumprimento ao disposto no art. 203, inciso V, da Constituição; 
+às despesas com auxílio-alimentação ou refeição, assistência pré-escolar e assistência médica e odontológica no âmbito dos Poderes Legislativo, Executivo e Judiciário e do Ministério Público da União, inclusive das entidades da administração indireta que recebam recursos à conta dos orçamentos fiscal e da seguridade social; 
+à concessão de subvenções econômicas e subsídios; 
+à participação em constituição ou aumento de capital de empresas; 
+ao atendimento das operações realizadas no âmbito do Programa de Apoio à Reestruturação e ao Ajuste Fiscal da renegociação da dívida dos Estados e dos Municípios, bem como daquelas relativas à redução da presença do setor público nas atividades bancária e financeira, autorizadas até 5 de maio de 2000; 
+ao pagamento de precatórios judiciários, que constarão das unidades orçamentárias responsáveis pelos débitos; 
+ao cumprimento de sentenças judiciais transitadas em julgado consideradas de pequeno valor, incluídas as decorrentes dos Juizados Especiais Federais, que constarão da programação de trabalho dos respectivos tribunais, aplicando-se, no caso de insuficiência orçamentária, o disposto no art. 17 da Lei nº 10.259, de 12 de julho de 2001; 
+às despesas com publicidade, propaganda e divulgação oficial; e 
+à complementação da União ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - Fundef, nos termos do art. 6º, §§ 1º e 2º, da Lei nº 9.424, de 24 de dezembro de 1996. 
+O disposto no inciso VI deste artigo aplica-se, igualmente, aos órgãos e entidades que prestem, total ou parcialmente, os referidos benefícios a seus servidores e dependentes, por intermédio de serviços próprios. 
+A inclusão de recursos na lei orçamentária e em seus créditos adicionais para atender às despesas de que trata o inciso VI deste artigo fica condicionada à informação do número de beneficiados nas respectivas metas. 
+Não se aplica o disposto no inciso XI, às sentenças consideradas de pequeno valor que tratem de benefícios previdenciários, as quais constarão de categoria de programação específica no Fundo do Regime Geral da Previdência Social. 
+Na elaboração da proposta orçamentária, a Justiça do Distrito Federal e dos Territórios dará prioridade à implantação e descentralização dos Juizados Especiais. 
+(VETADO) 
+Para efeito do disposto no art. 10, os Poderes Legislativo, Judiciário e o Ministério Público da União encaminharão ao Órgão Central do Sistema de Planejamento e de Orçamento Federal, por meio do Sistema Integrado de Dados Orçamentários - Sidor, até 10 de agosto, suas respectivas propostas orçamentárias, para fins de consolidação do projeto de lei orçamentária, observadas as disposições desta Lei. 
+A elaboração do projeto, a aprovação e a execução da lei orçamentária de 2003 deverão ser realizadas de modo a evidenciar a transparência da gestão fiscal, observando-se o princípio da publicidade e permitindo-se o amplo acesso da sociedade a todas as informações relativas a cada uma dessas etapas. 
+Serão divulgados na internet, ao menos: 
+pelo Poder Executivo: 
+as estimativas das receitas de que trata o art. 12, § 3º, da Lei Complementar nº 101, de 2000; 
+a proposta de lei orçamentária, inclusive em versão simplificada, seus anexos, a programação constante do detalhamento das ações e as informações complementares; 
+a lei orçamentária anual; 
+a execução orçamentária com o detalhamento das ações por unidade da Federação, de forma regionalizada, por função, subfunção e programa, mensalmente e de forma acumulada; 
+até o 20º (vigésimo) dia de cada mês, relatório comparando a arrecadação mensal realizada até o mês anterior das receitas federais administradas ou acompanhadas pela Secretaria da Receita Federal, líquida de restituições e incentivos fiscais, e as administradas pelo Instituto Nacional do Seguro Social, com as respectivas estimativas mensais constantes dos demonstrativos encaminhados juntamente com a proposta de lei orçamentária, nos termos do item VII, "i", do anexo previsto no art. 10, § 3º, bem como de eventuais reestimativas por força de lei. 
+até o 25º (vigésimo quinto) dia de cada mês, relatório comparando a receita realizada com a prevista na lei orçamentária e no cronograma de arrecadação, mês a mês e acumulada, discriminando a parcela primária e financeira; 
+pelo Congresso Nacional, a relação das obras com indícios de irregularidades graves, o parecer preliminar, os relatórios setoriais e final e o parecer da Comissão, com seus anexos. 
+A Comissão Mista Permanente prevista no art. 166, § 1º, da Constituição, terá acesso a todos os dados utilizados na elaboração da proposta orçamentária, inclusive por meio do Sidor. 
+A elaboração do projeto, a aprovação e a execução da lei orçamentária de 2003 deverão levar em conta a obtenção de superávit primário, conforme discriminado no Anexo de Metas Fiscais. 
+Na elaboração, aprovação e execução dos orçamentos poderá haver compensação entre as metas estabelecidas para os orçamentos fiscal e da seguridade social e para o Programa de Dispêndios Globais de que trata o art. 10, § 2º, VI, desta Lei. 
+Para fins da realização da audiência pública prevista no art. 9º, § 4º, da Lei Complementar nº 101, de 2000, o Poder Executivo encaminhará ao Congresso Nacional, no prazo de até 3 (três) dias antes da referida audiência, relatórios de avaliação do cumprimento da meta de superávit primário, bem assim das justificações de eventuais desvios, com indicação das medidas corretivas adotadas. 
+Os Poderes Legislativo e Judiciário e o Ministério Público da União terão como limites de outras despesas correntes e de capital em 2003, para efeito de elaboração de suas respectivas propostas orçamentárias, o conjunto das dotações fixadas na lei orçamentária de 2002, com as alterações decorrentes dos créditos suplementares e especiais, aprovados até 30 de junho de 2002. 
+No cálculo dos limites a que se refere o caput deste artigo, serão excluídas as dotações destinadas ao pagamento de precatórios, construção ou aquisição de imóveis, bem como à realização do processo eleitoral de 2002. 
+Aos limites estabelecidos de acordo com o caput e o § 1º deste artigo, serão acrescidas as seguintes despesas: 
+da mesma espécie das mencionadas no referido parágrafo e pertinentes ao exercício de 2003; 
+de manutenção de novas instalações em imóveis cuja aquisição ou conclusão estejam previstas para os exercícios de 2002 e 2003; 
+(VETADO) 
+(VETADO) 
+A compensação de que trata o art. 17, § 2º, da Lei Complementar nº 101, de 2000, quando da criação ou aumento de despesas obrigatórias de caráter continuado, no âmbito dos Poderes Legislativo e Judiciário e do Ministério Público da União, poderá ser realizada a partir do aproveitamento da margem de expansão prevista no art. 4º, § 2º, V, da mesma Lei Complementar, desde que observados: 
+o limite das respectivas dotações constantes da lei orçamentária e seus créditos adicionais; 
+os limites estabelecidos nos arts. 20, 22, parágrafo único, e 71 da citada Lei Complementar; e 
+os Anexos previstos nos arts. 77 e 100 desta Lei. 
+Os órgãos setoriais do Sistema de Planejamento e de Orçamento Federal encaminharão à Comissão de que trata o art. 166, § 1º, da Constituição, no mesmo prazo fixado no § 3º do art. 10, demonstrativo com a relação das obras que constaram da proposta orçamentária e cuja dotação ultrapasse R$ 2.000.000,00 (dois milhões de reais), contendo: 
+especificação do objeto ou etapa da obra, identificando o respectivo subtítulo orçamentário; 
+estágio em que se encontra; 
+cronograma físico-financeiro para sua conclusão; 
+etapas a serem executadas com as dotações consignadas no projeto de lei orçamentária, incluindo a estimativa para os exercícios de 2003 a 2004; e 
+demonstração do cumprimento do art. 92 desta Lei. 
+A falta de encaminhamento das informações previstas no caput deste artigo excluirá a obra do rol de ações do Anexo de Metas e Prioridades. 
+No caso do orçamento de investimento das empresas estatais, os demonstrativos conterão apenas as obras cuja dotação represente mais de 5% (cinco por cento) do total de investimentos da entidade no exercício. 
+Os órgãos e entidades integrantes dos orçamentos da União deverão disponibilizar no Sistema Integrado de Administração de Serviços Gerais - Siasg informações referentes aos contratos e convênios firmados, para fins de adequar os relacionamentos com os respectivos programas de trabalho. 
+Os órgãos e entidades que decidirem manter sistemas próprios de controle de contratos e convênios deverão providenciar a transferência eletrônica de dados para o Siasg, mantendo-os atualizados mensalmente. 
+O concedente, nos termos do art. 40, I, deverá manter atualizados no Siasg os dados referentes à execução física e financeira dos contratos correspondentes aos convênios que celebrar. 
+Os órgãos setoriais do Sistema de Planejamento e de Orçamento Federal disponibilizarão, para a Comissão Mista de que trata o art. 166, § 1, da Constituição, e para a Secretaria de Orçamento Federal, até 15 (quinze) dias após a remessa do projeto de lei orçamentária ao Congresso Nacional, em meio magnético, a identificação dos subtítulos correspondentes aos contratos relativos às obras fiscalizadas pelo Tribunal de Contas da União. 
+Para o cumprimento do disposto no caput, o Tribunal de Contas da União disponibilizará para os órgãos referidos no caput deste artigo, até 1º de agosto, a relação das obras, de acordo com a lei orçamentária para 2002, e seus contratos fiscalizados. 
+A falta de identificação de que trata o caput deste artigo implicará na consideração de que todos os contratos e subtítulos que possam ser relacionados aos mesmos sejam havidos como irregulares, nos termos do art. 86 desta Lei. 
+O projeto de lei orçamentária poderá conter programação condicionada à aprovação de proposta de inclusão de programa no Plano Plurianual 2000-2003 que tenham sido objeto de projetos de lei específicos. 
+Além de observar as demais diretrizes estabelecidas nesta Lei, a alocação dos recursos na lei orçamentária e em seus créditos adicionais será feita de forma a propiciar o controle dos custos das ações e a avaliação dos resultados dos programas de governo e seus respectivos custos. 
+Adicionalmente à avaliação de que trata o art. 6º da Lei nº 9.989, de 21 de julho de 2000, deverá ser procedida a avaliação específica de programas selecionados segundo critérios estabelecidos pelo Poder Executivo, ou indicados pela Comissão Mista a que se refere o art. 166, § 1º, da Constituição. 
+O Poder Executivo desenvolverá sistema de custos, para fins de atendimento do disposto no caput deste artigo, observado o § 3º do art. 50 da Lei Complementar nº 101, de 2000. 
+A execução da lei orçamentária e seus créditos adicionais obedecerá os princípios constitucionais da impessoalidade e moralidade na Administração Pública, não podendo ser utilizada com o objetivo de influir, direta ou indiretamente, na apreciação de proposições legislativas em tramitação no Congresso Nacional. 
+A execução financeira da programação de trabalho da lei orçamentária decorrente de emendas parlamentares que objetivem atender ações municipais, no âmbito de cada programa, ressalvados os impedimentos de ordem legal, técnica ou operacional, devidamente justificados, e observados ainda os limites orçamentários e financeiros à programação, dever-se-á orientar no sentido de conferir tratamento isonômico. 
+A lei orçamentária de 2003 somente incluirá dotações para o pagamento de precatórios cujos processos contenham certidão de trânsito em julgado da decisão exeqüenda e pelo menos um dos seguintes documentos: 
+certidão de trânsito em julgado dos embargos à execução; 
+certidão de que não tenham sido opostos embargos ou qualquer impugnação aos respectivos cálculos. 
+A inclusão de dotações na lei orçamentária de 2003 para o pagamento de precatórios parcelados, tendo em vista o disposto no art. 78 do ADCT, far-se-á de acordo com os seguintes critérios: 
+os créditos individualizados por beneficiário, cujo valor for superior a 60 (sessenta) salários-mínimos, serão objeto de parcelamento em até 10 (dez) parcelas iguais, anuais e sucessivas, estabelecendo-se que o valor de cada parcela não poderá ser inferior a esse valor, excetuando-se o resíduo, se houver; 
+os precatórios originários de desapropriação de imóvel residencial do credor, desde que comprovadamente único à época da imissão na posse, cujos valores individualizados ultrapassem o limite disposto no inciso I, serão divididos em duas parcelas, iguais e sucessivas, estabelecendo-se que o valor de cada parcela não poderá ser inferior a 60 (sessenta) salários-mínimos, excetuando-se o resíduo, se houver; 
+será incluída a parcela a ser paga em 2003, decorrente do valor parcelado dos precatórios nos exercícios de 2000, 2001, 2002 e 2003; e 
+os juros legais, à taxa de 6% (seis por cento) ao ano, serão acrescidos aos precatórios objeto de parcelamento, a partir da 2ª parcela, tendo como termo inicial o mês de janeiro do ano em que é devida a 2ª parcela. 
+O Poder Judiciário, sem prejuízo do envio das relações de dados cadastrais dos precatórios aos órgãos ou entidades devedores, encaminhará à Comissão Mista de que trata o art. 166, § 1°, da Constituição, ao Órgão Central do Sistema de Planejamento e de Orçamento Federal e aos órgãos e entidades devedores, a relação dos débitos constantes de precatórios judiciários a serem incluídos na proposta orçamentária de 2003, conforme determina o art. 100, § 1, da Constituição, discriminada por órgão da administração direta, autarquias e fundações, e por grupo de natureza de despesas, conforme detalhamento constante do art. 5º desta Lei, especificando: 
+número da ação originária; 
+data do ajuizamento da ação originária, quando ingressada após 31 de dezembro de 1999; 
+número do precatório; 
+tipo de causa julgada; 
+data da autuação do precatório; 
+nome do beneficiário; 
+valor do precatório a ser pago; 
+data do trânsito em julgado; e 
+número da Vara ou Comarca de origem. 
+As informações previstas no caput deste artigo serão encaminhadas até 15 de julho de 2002 ou 10 (dez) dias úteis após a publicação desta Lei, prevalecendo o que ocorrer por último, na forma de banco de dados, por intermédio dos seus respectivos órgãos centrais de planejamento e orçamento, ou equivalentes. 
+Os órgãos e entidades devedores, referidos no caput deste artigo, comunicarão ao Órgão Central de Planejamento e de Orçamento Federal, no prazo máximo de 5 (cinco) dias contado do recebimento da relação dos débitos, eventuais divergências verificadas entre a relação e os processos que originaram os precatórios recebidos. 
+Além das informações contidas nos incisos do caput deste artigo, o Poder Judiciário encaminhará à Comissão Mista de que trata o art. 166, § 1º, da Constituição, ao Órgão Central de Planejamento e de Orçamento Federal e aos órgãos e entidades devedores, os valores individualizados, por nome do autor/beneficiário do crédito e sua inscrição no Cadastro Nacional de Pessoas Físicas (CPF) ou Cadastro Nacional de Pessoas Jurídicas (CNPJ) do Ministério da Fazenda, particularizando, as sentenças judiciais originárias de desapropriação de imóvel residencial do credor, desde que comprovadamente único à época da imissão na posse, caso disponíveis as informações nos autos. 
+A atualização monetária dos precatórios, determinada no § 1º do art. 100 da Constituição e das parcelas resultantes da aplicação do art. 78 do ADCT, observará, no exercício de 2003, inclusive em relação às causas trabalhistas, a variação do Índice de Preços ao Consumidor Amplo - Especial - Nacional (IPCA-E), divulgado pelo Instituto Brasileiro de Geografia e Estatística. 
+Até 30 (trinta) dias após a publicação da lei orçamentária anual e de seus créditos adicionais, as unidades orçamentárias, discriminarão, no Siafi, a relação dos precatórios incluídos em suas respectivas dotações orçamentárias, especificando a ordem cronológica dos pagamentos e os respectivos valores a serem pagos. 
+As unidades orçamentárias do Poder Judiciário deverão discriminar, na relação prevista no caput, para cada precatório, o órgão da Administração Direta que originou o débito. 
+As unidades orçamentárias do Poder Judiciário deverão discriminar no Siafi, em até 60 (sessenta) dias contados do trânsito em julgado da decisão judicial que fixou a respectiva obrigação de pequeno valor, a relação dessas requisições, discriminando, inclusive, o órgão da Administração Direta ou entidade que originou o débito. 
+Para fins de acompanhamento, controle e centralização, os órgãos da Administração Pública Federal direta e indireta submeterão os processos referentes ao pagamento de precatórios à apreciação da Advocacia-Geral da União, antes do atendimento da requisição judicial, observadas as normas e orientações a serem baixadas por aquela unidade. 
+Sem prejuízo do disposto no caput deste artigo, o Advogado-Geral da União poderá incumbir os órgãos jurídicos das autarquias e fundações públicas, que lhe são vinculados, do exame dos processos pertinentes aos precatórios devidos por essas entidades. 
+As dotações orçamentárias das autarquias e das fundações públicas, destinadas ao pagamento de débitos oriundos de decisões judiciais transitadas em julgado, aprovadas na lei orçamentária anual e em créditos adicionais, inclusive as relativas a benefícios previdenciários de pequeno valor de que trata o § 3º do art. 11, deverão ser integralmente descentralizadas aos Tribunais que proferirem as decisões exeqüendas, por intermédio do Siafi, no prazo de 15 (quinze) dias após a publicação da lei orçamentária e dos créditos adicionais. 
+Caso o valor descentralizado seja insuficiente para o pagamento integral do débito, a autarquia ou fundação devedora, mediante solicitação do Tribunal competente, deverá providenciar a complementação da dotação descentralizada. 
+As liberações dos recursos financeiros, correspondentes às dotações orçamentárias descentralizadas na forma deste artigo, deverão ser realizadas diretamente para o órgão setorial de programação financeira das Unidades Orçamentárias responsáveis pelo pagamento do débito, de acordo com as regras de liberação para os órgãos do Poder Judiciário previstas nesta lei e na programação financeira estabelecida na forma do art. 8º da Lei Complementar nº 101, de 2000. 
+Não poderão ser destinados recursos para atender a despesas com: 
+início de construção, ampliação, reforma voluptuária ou útil, aquisição, novas locações ou arrendamentos de imóveis residenciais; 
+aquisição de mobiliário e equipamento para unidades residenciais de representação funcional; 
+aquisições de automóveis de representação, ressalvadas aquelas referentes a automóveis de uso: 
+do Presidente, Vice-Presidente e ex-Presidentes da República; 
+dos Presidentes da Câmara dos Deputados, do Senado Federal e dos Membros das Mesas Diretoras da Câmara dos Deputados e do Senado Federal; 
+Presidentes dos Tribunais Superiores; 
+dos Ministros de Estado e do Supremo Tribunal Federal; 
+do Procurador-Geral da República; e 
+dos Comandantes da Marinha, do Exército e da Aeronáutica; 
+celebração, renovação e prorrogação de contratos de locação e arrendamento de quaisquer veículos para representação pessoal; 
+ações de caráter sigiloso, salvo quando realizadas por órgãos ou entidades cuja legislação que as criou estabeleça, entre suas competências, o desenvolvimento de atividades relativas à segurança da sociedade e do Estado e que tenham como pré-condição o sigilo, constando os valores correspondentes de categorias de programação específicas; 
+ações que não sejam de competência exclusiva da União, comuns à União, aos Estados, ao Distrito Federal e aos Municípios, ou com ações em que a Constituição não estabeleça a obrigação da União em cooperar técnica e financeiramente, ressalvadas aquelas relativas ao processo de descentralização dos sistemas de transporte ferroviário de passageiros urbanos e suburbanos, até o limite dos recursos aprovados pelo Conselho Diretor do Processo de Transferência dos respectivos sistemas; 
+clubes e associações de servidores ou quaisquer outras entidades congêneres, excetuadas creches e escolas para o atendimento pré-escolar; 
+pagamento, a qualquer título, a servidor da administração pública ou empregado de empresa pública ou de sociedade de economia mista, por serviços de consultoria ou assistência técnica, inclusive custeados com recursos provenientes de convênios, acordos, ajustes ou instrumentos congêneres, firmados com órgãos ou entidades de direito público ou privado, nacionais ou internacionais; e 
+compra de títulos públicos por parte de órgãos da administração indireta federal, exceto para atividades legalmente atribuídas ao órgão. 
+Desde que as despesas sejam especificamente identificadas na lei orçamentária, excluem-se da vedação prevista: 
+nos incisos I e II do caput deste artigo, as destinações para: 
+unidades equipadas, essenciais à ação das organizações militares; 
+unidades necessárias à instalação de novas representações diplomáticas no exterior; 
+representações diplomáticas no exterior; 
+residências funcionais dos Ministros de Estado e dos membros do Poder Legislativo em Brasília; e 
+as despesas dessa natureza, que sejam relativas às sedes oficiais das representações diplomáticas no exterior e que sejam cobertas com recursos provenientes da renda consular; 
+no inciso III do caput deste artigo, as aquisições com recursos oriundos da renda consular para atender às representações diplomáticas no exterior; 
+no inciso VI do caput deste artigo, as despesas para atender à assistência técnica aos Tribunais de Contas estaduais com vistas ao cumprimento das atribuições estipuladas na Lei Complementar nº 101, de 2000, e às ações de segurança pública nos termos do caput do art. 144 da Constituição. 
+Os serviços de consultoria somente serão contratados para execução de atividades que comprovadamente não possam ser desempenhadas por servidores ou empregados da administração federal, publicando-se no Diário Oficial da União, além do extrato do contrato, a justificativa e a autorização da contratação, no qual constará, necessariamente, quantitativo médio de consultores, custo total dos serviços, especificação dos serviços e prazo de conclusão. 
+Ressalvam-se do disposto no inciso VI deste artigo as ações relativas a transporte metroviário de passageiros. 
+É vedada a destinação de recursos a título de subvenções sociais, ressalvadas aquelas destinadas a entidades privadas sem fins lucrativos, de atividades de natureza continuada, que preencham uma das seguintes condições: 
+sejam de atendimento direto ao público, de forma gratuita, nas áreas de assistência social, saúde ou educação, e estejam registradas no Conselho Nacional de Assistência Social - CNAS; 
+sejam vinculadas a organismos internacionais de natureza filantrópica, institucional ou assistencial; 
+atendam ao disposto no art. 204 da Constituição, no art. 61 do ADCT, bem como na Lei nº 8.742, de 7 de dezembro de 1993; ou 
+sejam vinculadas a missão diplomática ou repartição consular brasileira no exterior e tenham por objetivo a divulgação da cultura brasileira e do idioma português falado no Brasil. 
+(VETADO) 
+É vedada a destinação de recursos a título de "auxílios", previstos no art. 12, § 6º, da Lei nº 4.320, de 1964, para entidades privadas, ressalvadas as sem fins lucrativos e desde que sejam: 
+de atendimento direto e gratuito ao público e voltadas para o ensino especial, ou representativas da comunidade escolar das escolas públicas estaduais e municipais do ensino fundamental ou, ainda, unidades mantidas pela Campanha Nacional de Escolas da Comunidade - CNEC; 
+cadastradas junto ao Ministério do Meio Ambiente, para recebimento de recursos oriundos de programas ambientais, doados por organismos internacionais ou agências governamentais estrangeiras; 
+voltadas para as ações de saúde e de atendimento direto e gratuito ao público, prestadas pelas Santas Casas de Misericórdia e por outras entidades sem fins lucrativos, e que estejam registradas no Conselho Nacional de Assistência Social - CNAS; 
+signatárias de contrato de gestão com a administração pública federal, não qualificadas como organizações sociais nos termos da Lei nº 9.637, de 15 de maio de 1998; 
+consórcios intermunicipais de saúde, constituídos exclusivamente por entes públicos, legalmente instituídos e signatários de contrato de gestão com a administração pública federal, e que participem da execução de programas nacionais de saúde; ou 
+qualificadas como Organização da Sociedade Civil de Interesse Público, de acordo com a Lei nº 9.790, de 23 de março de 1999; 
+qualificadas como instituições de apoio ao desenvolvimento da pesquisa científica e tecnológica com contrato de gestão firmados com órgãos públicos. 
+A execução das despesas de que tratam os arts. 30 e 31 desta Lei atenderá, ainda, o disposto no art. 26 da Lei Complementar nº 101, de 2000, ressalvado o disposto no parágrafo único do art. 30. 
+(VETADO) 
+Sem prejuízo das disposições contidas nos arts. 30, 31 e 32, a alocação de recursos em entidades privadas sem fins lucrativos dependerá ainda de: 
+publicação, pelo Poder Executivo, de normas a serem observadas na concessão de subvenções sociais, auxílios e contribuições, prevendo-se cláusula de reversão no caso de desvio de finalidade; 
+destinação dos recursos de capital exclusivamente para a ampliação, aquisição de equipamentos e sua instalação e de material permanente, exceto no caso do inciso IV do art. 31; 
+identificação do beneficiário e do valor transferido no respectivo convênio ou congênere; 
+declaração de funcionamento regular da entidade beneficiária nos últimos 5 (cinco) anos, emitida no exercício de 2003 por 3 (três) autoridades locais e comprovante de regularidade do mandato de sua diretoria. 
+É vedada, quando em desconformidade com o disposto na Lei Complementar nº 108, de 29 de maio de 2001, e na Lei Complementar nº 109, de 29 de maio de 2001, a destinação de recursos dos orçamentos fiscal e da seguridade social, inclusive de receitas diretamente arrecadadas por órgãos e entidades da administração pública federal para entidade de previdência complementar ou congênere. 
+Somente poderão ser incluídas no projeto de lei orçamentária dotações relativas às operações de crédito contratadas ou cujas cartas-consulta tenham sido autorizadas pelo Ministério do Planejamento, Orçamento e Gestão, até 30 de junho de 2002. 
+Excetua-se do disposto neste artigo a emissão de títulos da dívida pública federal e as operações a serem contratadas junto aos organismos multilaterais de crédito destinadas a apoiar programas de ajustes setoriais. 
+No prazo de 60 (sessenta) dias após a publicação da lei orçamentária, o Poder Executivo encaminhará ao Congresso Nacional a relação das operações de crédito nela incluídas, pendentes de contratação, especificando a finalidade, o valor da operação, a respectiva programação custeada com essa receita e, quando possível, o agente financeiro. 
+Os recursos para compor a contrapartida nacional de empréstimos internos e externos e para o pagamento de sinal, amortização, juros e outros encargos, observados os cronogramas financeiros das respectivas operações, não poderão ter destinação diversa das referidas finalidades, exceto se comprovado documentalmente erro de origem técnica ou legal na alocação desses recursos ou por meio da abertura de créditos adicionais com autorização específica. 
+Além da observância das prioridades e metas fixadas nos termos do art. 2º desta Lei, a lei orçamentária e seus créditos adicionais, observado o disposto no art. 45 da Lei Complementar nº 101, de 2000, somente incluirão projetos ou subtítulos de projetos novos se: 
+tiverem sido adequadamente contemplados todos os projetos e respectivos subtítulos em andamento; e 
+os recursos alocados viabilizarem a conclusão de uma etapa ou a obtenção de uma unidade completa, considerando-se as contrapartidas de que trata o art. 41, § 1º, desta Lei. 
+Para fins de aplicação do disposto neste artigo, não serão considerados projetos com títulos genéricos que tenham constado de leis orçamentárias anteriores. 
+Serão entendidos como projetos ou subtítulos de projetos em andamento aqueles, constantes ou não da proposta, cuja execução financeira, até 30 de junho de 2002, ultrapassar 20% (vinte por cento) do seu custo total estimado, conforme indicado no demonstrativo previsto no item XVII do Anexo da Relação das Informações Complementares ao Projeto de Lei Orçamentária de 2003 desta Lei. 
+Os investimentos programados no orçamento fiscal para construção e pavimentação de rodovias não poderão exceder a 20% (vinte por cento) do total destinado a rodovias federais. 
+Não se incluem no limite fixado no caput deste artigo os investimentos em rodovias para eliminação de pontos críticos e adequação de capacidade das vias. 
+São vedados quaisquer procedimentos pelos ordenadores de despesa que viabilizem a execução de despesas sem comprovada e suficiente disponibilidade de dotação orçamentária. 
+A contabilidade registrará os atos e fatos relativos à gestão orçamentário-financeira efetivamente ocorridos, sem prejuízo das responsabilidades e providências derivadas da inobservância do caput deste artigo. 
+É vedada a realização de atos de gestão orçamentária, financeira e patrimonial no âmbito do Siafi após o último dia útil do exercício, exceto para fins de apuração do resultado, os quais deverão ocorrer até o 30º (trigésimo) dia de seu encerramento. 
+Os Restos a Pagar não processados, relativos a despesas discricionárias e não financeiras, inscritos no exercício de 2003 não excederão a 50% (cinqüenta por cento) do valor inscrito no exercício de 2002. 
+Para os efeitos desta Lei, entende-se por: 
+concedente: o órgão ou a entidade da administração pública direta ou indireta, responsável pela transferência de recursos financeiros ou descentralização de créditos orçamentários destinados a transferência voluntária; e 
+convenente: o órgão ou a entidade da administração pública direta ou indireta, dos governos estaduais, municipais, do Distrito Federal, com o qual a administração federal pactue a execução de programa, projeto, atividade ou evento de duração certa com recursos provenientes de transferência voluntária. 
+Observada a Lei Complementar nº 101, de 2000, as transferências voluntárias dependerão da comprovação, por parte do convenente, no ato da assinatura do instrumento de transferência, de que existe previsão de contrapartida na lei orçamentária do Estado, Distrito Federal ou Município. 
+A contrapartida será estabelecida em termos percentuais do valor do repasse previsto no instrumento de transferência voluntária de modo compatível com a capacidade financeira da respectiva unidade beneficiada, tendo como limite mínimo e máximo: 
+no caso dos Municípios: 
+3 (três) e 8 (oito) por cento, para Municípios com até 25.000 (vinte e cinco mil) habitantes; 
+5 (cinco) e 10 (dez) por cento, para os demais Municípios localizados nas áreas da Agência de Desenvolvimento do Nordeste - Adene e da Agência de Desenvolvimento da Amazônia - ADA e na Região Centro-Oeste; 
+20 (vinte) e 40 (quarenta) por cento, para os demais; 
+no caso dos Estados e do Distrito Federal: 
+10 (dez) e 20 (vinte) por cento, se localizados nas áreas da Adene e da ADA e no Centro-Oeste; e 
+20 (vinte) e 40 (quarenta) por cento, para os demais. 
+Os limites mínimos de contrapartida fixados no § 1, I e II, deste artigo, poderão ser reduzidos por ato do titular do órgão concedente, quando os recursos transferidos pela União: 
+forem oriundos de doações de organismos internacionais ou de governos estrangeiros e de programas de conversão da dívida externa doada para fins ambientais, sociais, culturais e de segurança pública; 
+beneficiarem os Municípios, incluídos nos bolsões de pobreza, identificados como áreas prioritárias no ¿Comunidade Solidária¿, no Programa "Comunidade Ativa" e na Lei Complementar nº 94, de 19 de fevereiro de 1998; 
+destinarem-se: 
+a Municípios que se encontrem em situação de calamidade pública formalmente reconhecida, durante o período que esta subsistir; 
+ao atendimento dos programas de educação fundamental; ou 
+à complementação, além das obrigações constitucionais, das ações relacionadas à organização e manutenção da polícia civil, da polícia militar e do corpo de bombeiros militar do Distrito Federal. 
+Os limites máximos de contrapartida, fixados no § 1º, I e II, deste artigo, poderão ser ampliados para atender a condições estabelecidas em contratos de financiamento ou acordos internacionais. 
+Caberá ao órgão concedente: 
+verificar a implementação das condições previstas neste artigo, bem como observar o disposto no caput do art. 35 da Lei nº 10.180, de 6 de fevereiro de 2001, exigindo, ainda, do Estado, Distrito Federal ou Município, que ateste o cumprimento dessas disposições, inclusive por intermédio dos balanços contábeis de 2002 e dos exercícios anteriores, da lei orçamentária para 2003 e correspondentes documentos comprobatórios; e 
+acompanhar a execução das atividades, projetos ou operações especiais, e respectivos subtítulos, desenvolvidos com os recursos transferidos. 
+A comprovação da entrega dos documentos exigidos dos Estados, Distrito Federal e Municípios pelos órgãos concedentes, para a celebração de transferência voluntária, poderá ser feita por meio de extrato emitido pelo subsistema Cadastro Único de Convênios - CAUC, instituído pela Instrução Normativa MF/STN nº 01, de 2001. 
+(VETADO) 
+O convenente será comunicado pelo órgão concedente da ocorrência de fato que motive a suspensão ou o impedimento de liberação de recursos a título de transferências voluntárias. 
+(VETADO) 
+O órgão concedente manterá na internet relação atualizada dos entes que apresentem motivo de suspensão ou impedimento de transferências voluntárias. 
+Nenhuma liberação de recursos transferidos nos termos deste artigo poderá ser efetuada sem o prévio registro no Subsistema de Convênio do Siafi. 
+Não se consideram como transferências voluntárias as descentralizações de recursos a Estados, Distrito Federal e Municípios que se destinem à realização de ações cuja competência seja exclusiva da União, ou tenham sido delegadas com ônus aos referidos entes da Federação. 
+Os órgãos concedentes deverão: 
+divulgar, pela internet, no prazo de 30 (trinta) dias após a sanção da lei orçamentária o conjunto de exigências e procedimentos, inclusive formulários, necessários à realização das transferências; 
+adotar procedimentos simplificados e padronizados no âmbito da administração pública federal, de forma a facilitar o acesso direto dos interessados. 
+Os órgãos ou entidades concedentes deverão disponibilizar na internet informações contendo, no mínimo, data da assinatura dos instrumentos de transferência voluntária, nome do convenente, objeto do contrato, valor liberado e classificação funcional, programática e econômica do respectivo crédito. 
+Para efeito do § 3º do art. 25 da Lei Complementar nº 101, de 2000, não serão suspensas as transferências voluntárias relativas a ações de educação, saúde e assistência social quando Estados, Distrito Federal ou Municípios: 
+incidirem nas hipóteses previstas nos arts. 11, parágrafo único; 23, § 3º, I; 31, § 2º; 33, § 3º; 51, § 2º; 52, § 2º; e 55, § 3º; da Lei Complementar nº 101, de 2000; 
+tiverem formalizado os procedimentos legais, administrativos e judiciais exigíveis para fins do atendimento do art. 25, IV, "a", da Lei Complementar nº 101, de 2000. 
+Ficam dispensadas das exigências previstas nos arts. 42, 43 e 44 desta Lei as transferências relativas às ações "Dinheiro Direto na Escola", "Alimentação Escolar" e "Alfabetização Solidária para Jovens e Adultos", todas sob a responsabilidade do Ministério da Educação. 
+A execução orçamentária e financeira, no exercício de 2003, das transferências voluntárias de recursos da União, cujos créditos orçamentários não identifiquem nominalmente a localidade beneficiada, inclusive aquelas destinadas genericamente a Estado, fica condicionada à prévia publicação, em órgão oficial de imprensa, dos critérios de distribuição dos recursos. 
+As transferências previstas neste artigo poderão ser feitas por intermédio de instituições e agências financeiras oficiais, que atuarão como mandatárias da União para execução e fiscalização, devendo o empenho ocorrer até a data da assinatura do respectivo acordo, convênio, ajuste ou instrumento congênere, e os demais registros próprios no Siafi, nas datas da ocorrência dos fatos correspondentes. 
+A proposta orçamentária para o exercício de 2003 observará, quando da alocação dos recursos, os critérios a seguir discriminados: 
+a destinação de recursos para as ações de alimentação escolar obedecerá ao princípio da descentralização e a distribuição será proporcional ao número de alunos matriculados nas redes públicas de ensino localizadas em cada Município, no ano anterior; 
+atendimento ao disposto no caput do art. 34 da Lei nº 10.308, de 20 de novembro de 2001. 
+Os empréstimos, financiamentos e refinanciamentos, com recursos dos orçamentos fiscal e da seguridade social, observarão o disposto no art. 27 da Lei Complementar nº 101, de 2000. 
+Na hipótese de operações com custo de captação não identificado, os encargos financeiros não poderão ser inferiores à Taxa Referencial pro-rata tempore. 
+Serão de responsabilidade do mutuário, além dos encargos financeiros, eventuais comissões, taxas e outras despesas congêneres cobradas pelo agente financeiro, exceto as despesas de remuneração previstas no contrato entre este e a União, para as operações de alongamento originárias do crédito rural, de que trata a Lei nº 9.138, de 29 de novembro de 1995, com recursos das Operações Oficiais de Crédito sob supervisão do Ministério da Fazenda. 
+Nos orçamentos fiscal e da seguridade social, as categorias de programação correspondentes a empréstimos, financiamentos e refinanciamentos indicarão a lei que definiu encargo inferior ao custo de captação. 
+Acompanhará o projeto e a lei orçamentária demonstrativo do montante do subsídio decorrente de operações e prorrogações realizadas no exercício com recursos dos orçamentos fiscal e da seguridade social, desdobrando-o, se for o caso, pelos exercícios durante os quais transcorrer a operação. 
+As prorrogações e composições de dívidas decorrentes de empréstimos, financiamentos e refinanciamentos concedidos com recursos dos orçamentos fiscal e da seguridade social somente poderão ocorrer se vierem a ser expressamente autorizadas por lei específica. 
+A destinação de recursos para equalização de encargos financeiros ou de preços, pagamento de bonificações a produtores e vendedores e ajuda financeira, a qualquer título, a empresa com fins lucrativos ou a pessoas físicas, observará o disposto no art. 26 da Lei Complementar nº 101, de 2000. 
+Será mencionada na respectiva categoria de programação a legislação que autorizou o benefício. 
+A programação a cargo da unidade orçamentária Operações Oficiais de Crédito - Recursos sob Supervisão do Ministério da Fazenda - conterá, exclusivamente, as dotações destinadas a atender a despesas com: 
+pagamento de amortizações, juros e outros encargos da dívida externa garantida pela União, nos termos do Decreto nº 94.444, de 1987, e da dívida interna adquirida e refinanciada ao amparo da Lei nº 8.727, de 5 de novembro de 1993; 
+financiamento de programas de custeio e investimento agropecuário e de investimento agroindustrial; 
+financiamento para a comercialização de produtos agropecuários, inclusive os agroecológicos, nos termos do art. 4º do Decreto-Lei nº 79, de 19 de dezembro de 1966, financiamento de estoques previstos no art. 31 da Lei nº 8.171, de 17 de janeiro de 1991, e, também, financiamento para aquisição de produtos agropecuários de que trata o art. 5º, § 5º, IV, da Lei nº 9.138, de 1995; 
+financiamento de exportações, desde que tais operações estejam abrangidas pelo Programa de Financiamento às Exportações - Proex; 
+equalização de preços de comercialização de produtos agropecuários e equalização de taxas de juros e outros encargos financeiros em operações de crédito rural e nas exportações abrangidas pelo Proex, previstos em lei específica; 
+financiamento no âmbito do Programa de Revitalização de Cooperativas Agropecuárias - Recoop; 
+contratos já celebrados relativos: 
+ao Programa de Apoio à Reestruturação e ao Ajuste Fiscal dos Estados e dos Municípios; e 
+à redução da presença do setor público nas atividades bancária e financeira; 
+refinanciamentos de dívidas rurais; 
+concessão de subsídios no âmbito do Programa de Subsídio à Habitação de Interesse Social; e 
+pagamento de comissão remuneratória ao agente financeiro das operações de alongamento originárias do crédito rural, de que trata a Lei nº 9.138, de 1995, com recursos das Operações Oficiais de Crédito sob supervisão do Ministério da Fazenda. 
+As despesas de que trata este artigo serão financiadas com recursos provenientes de: 
+operações de crédito externas; 
+emissão de títulos públicos federais, desde que autorizada em lei específica, destinados: 
+ao pagamento integral da equalização de taxas de juros dos financiamentos às exportações de bens e serviços nacionais e dos financiamentos à produção de bens destinados à exportação, nos termos do Proex; 
+ao financiamento de operações contratadas no âmbito do Recoop; 
+a refinanciamentos de dívidas rurais; e 
+ao Programa de Subsídio à Habitação de Interesse Social; 
+retorno de empréstimos, financiamentos e refinanciamentos concedidos, a qualquer tempo, nas modalidades que, a partir de 1988, passaram a integrar as Operações Oficiais de Crédito - Recursos sob Supervisão do Ministério da Fazenda, observando-se: 
+que o retorno do refinanciamento da dívida externa do setor público, reestruturada nos termos das resoluções do Senado Federal, será aplicado, exclusivamente, no pagamento de amortizações, juros e outros encargos dos títulos do Tesouro Nacional emitidos para aquela finalidade; 
+que o retorno dos créditos refinanciados ao amparo da Lei nº 8.727, de 5 de novembro de 1993, destinar-se-á, exclusivamente, ao pagamento de amortizações, juros e outros encargos da dívida assumida pela União, nos termos da referida Lei; e 
+a destinação dos demais retornos definida em lei específica; 
+prêmio relativo à venda, pelo Governo Federal, de contratos de opção de venda de produtos agropecuários. 
+Os financiamentos de programas de custeio e investimentos agropecuários serão destinados, exclusivamente, aos mini e pequenos produtores rurais e suas cooperativas e associações, ressalvados aqueles financiados com recursos externos. 
+Poderão ser financiados também com recursos não previstos no § 1º deste artigo, obedecidos os limites e condições estabelecidos em lei: 
+os empréstimos e financiamentos decorrentes de programas de custeio e investimentos agropecuários destinados aos mini e pequenos produtores rurais e suas cooperativas e associações e à formação de estoques reguladores e estratégicos, determinados pelo Conselho Monetário Nacional; 
+as despesas com equalização de preços na comercialização de produtos agropecuários e com equalizações de taxas de juros e outros encargos em operações de crédito rural; e 
+os contratos já celebrados relativos: 
+ao Programa de Apoio à Reestruturação e ao Ajuste Fiscal dos Estados e dos Municípios; 
+à redução da presença do setor público nas atividades bancária e financeira; 
+os empréstimos e as despesas com equalização de taxas de juros dos financiamentos às exportações de bens e serviços nacionais, nos termos do Proex; e 
+as despesas com o pagamento de comissão remuneratória ao agente financeiro das operações de alongamento originárias do crédito rural, de que trata a Lei nº 9.138, de 1995, com recursos das Operações Oficiais de Crédito sob supervisão do Ministério da Fazenda. 
+O orçamento da seguridade social compreenderá as dotações destinadas a atender às ações de saúde, previdência e assistência social, obedecerá ao disposto nos arts. 167, XI, 194, 195, 196, 199, 200, 201, 203, 204, e 212, § 4º, da Constituição, e contará, dentre outros, com recursos provenientes: 
+das contribuições sociais previstas na Constituição, exceto a de que trata o art. 212, § 5º, e as destinadas por lei às despesas do orçamento fiscal; 
+da contribuição para o plano de seguridade social do servidor, que será utilizada para despesas com encargos previdenciários da União; 
+do orçamento fiscal; e 
+das demais receitas diretamente arrecadadas pelos órgãos, fundos e entidades, cujas despesas integram, exclusivamente, este orçamento. 
+A destinação de recursos para atender a despesas com ações e serviços públicos de saúde e de assistência social obedecerá ao princípio da descentralização. 
+Os recursos provenientes das contribuições sociais de que trata o art. 195, I, "a", e II, no projeto e na lei orçamentária, não se sujeitarão a desvinculação e terão a destinação prevista no art. 167, XI, da Constituição. 
+As receitas de que trata o inciso IV deverão ser classificadas de acordo com as normas vigentes, independentemente de estarem custeando despesas da seguridade social. 
+Todas as receitas, inclusive as financeiras, do Fundo de Amparo ao Trabalhador - FAT - deverão constar na Proposta e na Lei Orçamentária. 
+(VETADO) 
+A proposta orçamentária incluirá os recursos necessários ao atendimento: 
+do reajuste dos benefícios da seguridade social de forma a possibilitar o atendimento do disposto no art. 7, IV, da Constituição; e 
+da aplicação mínima em ações e serviços públicos de saúde, em cumprimento ao disposto na Emenda Constitucional nº 29, de 2000. 
+Os recursos necessários ao atendimento do aumento real do salário mínimo, caso as dotações da lei orçamentária sejam insuficientes, serão objeto de crédito suplementar a ser aberto no exercício de 2003, observado o disposto nos arts. 17 e 24 da Lei Complementar nº 101, de 2000. 
+Para efeito do inciso II do caput, considera-se como ações e serviços públicos de saúde a totalidade da dotação do Ministério da Saúde, deduzidos os encargos previdenciários da União, os serviços da dívida e a parcela das despesas do Ministério financiada com recursos do Fundo de Combate e Erradicação da Pobreza. 
+(VETADO) 
+Para a transferência de recursos do Sistema Único de Saúde - SUS, efetivada mediante convênios ou similares, será exigida contrapartida dos Estados, do Distrito Federal e dos Municípios, de acordo com os limites estabelecidos no art. 41 desta Lei, ressalvado o disposto na alínea "a" do inciso III do § 2, do referido artigo, cujo limite mínimo é de 10% (dez por cento). 
+O orçamento de investimento, previsto no art. 165, § 5º, II, da Constituição, será apresentado, para cada empresa em que a União, direta ou indiretamente, detenha a maioria do capital social com direito a voto, observado o disposto no § 5º deste artigo. 
+Para efeito de compatibilidade da programação orçamentária, a que se refere este artigo, com a Lei nº 6.404, de 15 de dezembro de 1976, serão consideradas investimentos as despesas com aquisição do ativo imobilizado, excetuadas as relativas à aquisição de bens para arrendamento mercantil. 
+A despesa será discriminada nos termos do art. 5º desta Lei, segundo a classificação funcional, expressa por categoria de programação em seu menor nível, inclusive com as fontes previstas no § 3º deste artigo. 
+O detalhamento das fontes de financiamento do investimento de cada entidade referida neste artigo será feito de forma a evidenciar os recursos: 
+gerados pela empresa; 
+decorrentes de participação acionária da União, diretamente ou por intermédio de empresa controladora; 
+oriundos de transferências da União, sob outras formas que não as compreendidas no inciso II deste parágrafo; 
+oriundos de empréstimos da empresa controladora; 
+oriundos da empresa controladora, não compreendidos naqueles referidos nos incisos II e IV deste parágrafo; 
+decorrentes de participação acionária de outras entidades controladas, direta ou indiretamente, pela União; 
+oriundos de operações de crédito externas; 
+oriundos de operações de crédito internas, exclusive as referidas no inciso IV deste parágrafo; e 
+de outras origens. 
+A programação dos investimentos à conta de recursos oriundos dos orçamentos fiscal e da seguridade social, inclusive mediante participação acionária, observará o valor e a destinação constantes do orçamento original. 
+As empresas cuja programação conste integralmente no orçamento fiscal ou no orçamento da seguridade social, de acordo com o disposto no art. 4º desta Lei, não integrarão o orçamento de investimento das estatais. 
+As fontes de recursos, as modalidades de aplicação e os identificadores de uso e de resultado primário, aprovados na lei orçamentária e em seus créditos adicionais, poderão ser modificados, justificadamente, para atender às necessidades de execução, se publicados por meio de: 
+portaria do Ministro de Estado do Planejamento, Orçamento e Gestão, para as fontes de recursos, observada a vedação constante do art. 85; 
+portaria do dirigente máximo de cada órgão a que estiver subordinada a unidade orçamentária, para as modalidades de aplicação, desde que verificada a inviabilidade técnica, operacional ou econômica da execução do crédito na modalidade prevista na lei orçamentária; e 
+portaria do Secretário de Orçamento Federal, do Ministério do Planejamento, Orçamento e Gestão, para os identificadores de uso e de resultado primário. 
+As modificações a que se refere este artigo também poderão ocorrer quando da abertura de créditos suplementares autorizados na lei orçamentária, observada a vedação constante do art. 36 desta Lei. 
+Não se aplica a exigência estabelecida no inciso II deste artigo quando da definição de que trata o art. 5, § 4, V, desta Lei. 
+Os projetos de lei relativos a créditos adicionais serão apresentados na forma e com o detalhamento estabelecidos na lei orçamentária anual, encaminhados pelo Poder Executivo ao Congresso Nacional, preferencialmente, nas primeiras quinzenas de maio e outubro. 
+Observado o disposto no caput deste artigo, o prazo final para o encaminhamento dos referidos projetos é 15 de outubro de 2003. 
+Os projetos de lei relativos a créditos adicionais solicitados pelos órgãos dos Poderes Legislativo e Judiciário e do Ministério Público da União, com indicação dos recursos compensatórios, exceto os recursos destinados a pessoal e dívida, serão encaminhados ao Congresso Nacional no prazo de até 30 (trinta) dias, a contar da data do pedido, observados os prazos previstos neste artigo. 
+Os projetos de lei de créditos adicionais destinados a despesas primárias que tenham por fonte recursos de origem financeira deverão conter demonstrativo de que não afetam o resultado primário anual previsto no Anexo de Metas Fiscais desta Lei, ou indicar as compensações necessárias, em nível de subtítulo. 
+(VETADO) 
+(VETADO) 
+(VETADO) 
+Os créditos a que se refere o caput deste artigo serão encaminhados de forma consolidada de acordo com as áreas temáticas definidas no Parecer Preliminar sobre a proposta orçamentária para 2003. 
+O disposto no caput não se aplica quando a abertura do crédito for necessária para atender novas despesas obrigatórias de caráter constitucional ou legal. 
+Acompanharão os projetos de lei relativos a créditos adicionais exposições de motivos circunstanciadas que os justifiquem e que indiquem as conseqüências dos cancelamentos de dotações propostas sobre a execução das atividades, dos projetos, das operações especiais e dos respectivos subtítulos e metas. 
+Cada projeto de lei deverá restringir-se a um único tipo de crédito adicional, conforme definido no art. 41, I e II, da Lei nº 4.320, de 1964. 
+Para fins do disposto no art. 165, § 8º, da Constituição e do § 5º deste artigo, considera-se crédito suplementar a criação de grupo de natureza de despesa em subtítulo existente. 
+Os créditos adicionais destinados a despesas com pessoal e encargos sociais serão encaminhados ao Congresso Nacional por intermédio de projetos de lei específicos e exclusivamente para essa finalidade. 
+Os créditos adicionais aprovados pelo Congresso Nacional serão considerados automaticamente abertos com a sanção e publicação da respectiva lei. 
+Nos casos de créditos à conta de recursos de excesso de arrecadação, as exposições de motivos conterão a atualização das estimativas de receitas para o exercício, apresentadas de acordo com a classificação de que trata o art. 10, III, desta Lei. 
+Os projetos de lei relativos a créditos adicionais solicitados pelos órgãos dos Poderes Legislativo e Judiciário e do Ministério Público da União, com indicação dos recursos compensatórios, exceto os recursos destinados a pessoal e dívida, serão encaminhados ao Congresso Nacional no prazo de até 30 (trinta) dias, a contar da data do pedido, observados os prazos previstos neste artigo. 
+Os projetos de lei de créditos adicionais destinados a despesas primárias que tenham por fonte recursos de origem financeira deverão conter demonstrativo de que não afetam o resultado primário anual previsto no Anexo de Metas Fiscais desta Lei, ou indicar as compensações necessárias, em nível de subtítulo. 
+(VETADO) 
+(VETADO) 
+(VETADO) 
+Os decretos de abertura de créditos suplementares autorizados na lei orçamentária serão submetidos pelo Ministro de Estado do Planejamento, Orçamento e Gestão ao Presidente da República, quando for o caso, acompanhados de exposição de motivos que inclua a justificativa e a indicação dos efeitos dos cancelamentos de dotações sobre execução das atividades, dos projetos, das operações especiais e dos respectivos subtítulos e metas, e observe o disposto no § 9º do art. 61 desta Lei. 
+O Órgão Central do Sistema de Planejamento e de Orçamento Federal disponibilizará, à Comissão Mista de que trata o art. 166, § 1º, da Constituição, mensalmente, na forma de banco de dados, a título informativo, os decretos de que trata o caput deste artigo. 
+Os recursos alocados na lei orçamentária, com as destinações previstas no art. 11, X e XI, desta Lei, somente poderão ser cancelados para a abertura de créditos adicionais com outra finalidade mediante autorização específica do Congresso Nacional. 
+A reabertura dos créditos especiais e extraordinários, conforme disposto no art. 167, § 2º, da Constituição, será efetivada mediante decreto do Presidente da República. 
+Se o projeto de lei orçamentária não for sancionado pelo Presidente da República até 31 de dezembro de 2002, a programação dele constante poderá ser executada para o atendimento de despesas que constituem obrigações constitucionais ou legais da União, relacionadas no Anexo a que se refere o art. 100 desta Lei. 
+Os Poderes deverão elaborar e publicar até 30 (trinta) dias após a publicação da lei orçamentária de 2003, cronograma anual de desembolso mensal, por órgão, nos termos do art. 8º da Lei Complementar nº 101, de 2000, com vistas ao cumprimento da meta de resultado primário estabelecida nesta Lei. 
+No caso do Poder Executivo, o ato referido no caput e os que o modificarem conterão: 
+metas quadrimestrais para o resultado primário dos orçamentos fiscal e da seguridade social; 
+metas bimestrais de realização de receitas não-financeiras, em atendimento ao disposto no art. 13 da Lei Complementar nº 101, de 2000, desagregado pelos principais tributos federais, considerando-se aquelas administradas pela Secretaria da Receita Federal, as do Instituto Nacional de Seguro Social, as outras receitas do Tesouro Nacional e as próprias de entidades da administração indireta, bem como, identificando separadamente, quando cabível, as resultantes de medidas de combate à evasão e à sonegação fiscal, da cobrança da dívida ativa e da cobrança administrativa; 
+cronograma de pagamentos mensais de despesas não-financeiras à conta de recursos do Tesouro e de outras fontes, excluídas as despesas constantes do Anexo a que se refere o art. 100 desta Lei e incluídos os Restos a Pagar, que deverão também ser discriminados em cronograma mensal à parte; 
+demonstrativo de que a programação atende às metas quadrimestrais e à meta de resultado primário estabelecida nesta Lei. 
+Excetuadas as despesas com pessoal e encargos sociais, com precatórios e com sentenças judiciais, os cronogramas anuais de desembolso mensal dos Poderes Legislativo e Judiciário e do Ministério Público da União terão como referencial o repasse previsto no art. 168 da Constituição, na forma de duodécimos. 
+A distribuição do montante das dotações orçamentárias objeto da limitação de empenho e movimentação financeira de que trata o art. 9º da Lei Complementar nº 101, de 2000, necessária ao cumprimento das metas fiscais, será fixada da seguinte forma: 
+O Poder Executivo verificará a necessidade global da limitação, distribuindo-a entre o conjunto de projetos e o de atividades e operações especiais; 
+Os valores definidos no inciso I serão distribuídos entre os Poderes e o Ministério Público da União de forma proporcional à participação de cada um nas dotações iniciais da lei orçamentária no conjunto de projetos, bem como no conjunto de atividades e operações especiais. 
+Excluem-se da base de cálculo dos valores da limitação de que trata o inciso II do caput deste artigo: 
+as despesas que constituem obrigações constitucionais ou legais de execução, conforme Anexo previsto no art. 100 desta Lei; 
+as dotações constantes da proposta orçamentária, desde que a nova estimativa de receita, demonstrada no relatório de que trata o § 5º deste artigo, seja igual ou superior àquela estimada na proposta orçamentária, e destinadas às: 
+Estabelecidos os montantes a serem limitados na forma do caput deste artigo, fica facultada aos Poderes Legislativo e Judiciário, bem como ao Ministério Público da União, a distribuição da contenção entre projetos e atividades. 
+Na hipótese da ocorrência do disposto no caput deste artigo, o Poder Executivo informará aos demais Poderes e ao Ministério Público da União, até o 23º (vigésimo terceiro) dia do mês subseqüente ao final do bimestre, acompanhado dos parâmetros adotados e das estimativas de receitas e despesas, o montante que caberá a cada um na limitação do empenho e da movimentação financeira. 
+Os Poderes Legislativo e Judiciário e o Ministério Público da União, com base na informação de que trata o § 3º deste artigo, publicarão ato, até o final do mês subseqüente ao encerramento do respectivo bimestre, estabelecendo os montantes disponíveis para empenho e movimentação financeira em cada um dos conjuntos de despesas mencionados no caput deste artigo. 
+O Poder Executivo encaminhará ao Congresso Nacional, no mesmo prazo previsto no § 3º deste artigo, relatório que será apreciado pela Comissão Mista de que trata o art. 166, § 1, da Constituição, contendo: 
+a memória de cálculo das novas estimativas de receitas e despesas, e demonstrando a necessidade da limitação de empenho e movimentação financeira nos percentuais e montantes estabelecidos; 
+a revisão das projeções das variáveis de que trata o Anexo de Metas Fiscais desta Lei; 
+a justificação das alterações de despesas obrigatórias e as providências quanto à alteração da respectiva dotação orçamentária; 
+os cálculos da frustração das receitas não-financeiras, que terão por base demonstrativos atualizados de que trata o item VII, alíneas "h" e "i", do anexo de informações complementares, e demonstrativos equivalentes, no caso das demais receitas, justificando os desvios em relação à sazonalidade originalmente prevista; 
+a estimativa atualizada do superávit primário das empresas estatais, acompanhada da memória dos cálculos para as empresas que responderem pela variação. 
+Aplica-se o disposto no § 5º deste artigo a quaisquer limitações de empenho no âmbito do Poder Executivo, inclusive por ocasião da elaboração da programação anual de que trata o art. 8º da Lei Complementar nº 101, de 2000. 
+(VETADO) 
+A atualização monetária do principal da dívida mobiliária refinanciada da União não poderá superar, no exercício de 2003, a variação do Índice Geral de Preços - Mercado (IGP-M), da Fundação Getúlio Vargas. 
+As despesas com o refinanciamento da dívida pública federal serão incluídas, na lei orçamentária, em seus anexos e nas leis de créditos adicionais, separadamente das demais despesas com o serviço da dívida, constando o refinanciamento da dívida mobiliária em unidade orçamentária específica. 
+Para os fins desta Lei, entende-se por refinanciamento o pagamento do principal, acrescido da atualização monetária da dívida pública federal, realizado com receita proveniente da emissão de títulos. 
+A lei orçamentária não poderá incluir estimativa de receita decorrente da emissão de títulos da dívida pública federal superior à necessidade de atendimento das despesas com: 
+o refinanciamento, os juros e outros encargos da dívida, interna e externa, de responsabilidade direta ou indireta do Tesouro Nacional ou que venha a ser de responsabilidade da União nos termos de resolução do Senado Federal; 
+o aumento do capital de empresas e sociedades em que a União detenha, direta ou indiretamente, a maioria do capital social com direito a voto e que não estejam incluídas no programa de desestatização; 
+a desapropriação de imóveis rurais, para fins de reforma agrária, nos termos do art. 184, § 4º, da Constituição, no caso dos Títulos da Dívida Agrária, e para assentamentos de trabalhadores rurais, com outras modalidades de títulos; 
+a equalização de taxas de juros dos financiamentos às exportações de bens ou serviços nacionais e dos financiamentos à produção de bens destinados à exportação, no âmbito do Proex, devendo os títulos conter cláusulas de atualização cambial até o vencimento; 
+a aquisição de garantias complementares aceitas no exterior, necessárias à renegociação da dívida externa, de médio e longo prazos; 
+a entrega de recursos a unidades federadas e seus Municípios, na forma e condições detalhadas no Anexo da Lei Complementar nº 87, de 13 de setembro de 1996, alterado pela Lei Complementar nº 102, de 11 de setembro de 2000; 
+contratos já celebrados no âmbito do Programa de Apoio à Reestruturação e ao Ajuste Fiscal dos Estados e dos Municípios, bem como aqueles relativos à redução da presença do setor público nas atividades bancária e financeira; 
+financiamentos no âmbito do Recoop; 
+a cobertura de resultados negativos do Banco Central do Brasil, observado o art. 28 da Lei Complementar nº 101, de 2000; 
+a participação do Tesouro Nacional no pagamento dos expurgos dos índices de correção do FGTS ocorridos nos Planos Verão e Collor I, em montante suficiente para atender às determinações legais que regulamentarem o assunto; 
+refinanciamentos de dívidas rurais; e 
+a concessão de subsídios no âmbito do Programa de Subsídio à Habitação de Interesse Social. 
+A receita decorrente da liberação das garantias prestadas pela União, na forma do disposto no Plano Brasileiro de Financiamento 1992, aprovadas pelas Resoluções do Senado Federal n 98, de 1992, e 90, de 1993, será destinada, exclusivamente, à amortização, juros e outros encargos da dívida pública mobiliária federal, de responsabilidade do Tesouro Nacional. 
+Os Poderes Executivo, Legislativo e Judiciário e o Ministério Público da União terão como limites na elaboração de suas propostas orçamentárias, para pessoal e encargos sociais, observado o art. 71 da Lei Complementar nº 101, de 2000, a despesa com a folha de pagamento calculada de acordo com a situação vigente em abril de 2002, projetada para o exercício, considerando os eventuais acréscimos legais, inclusive revisão geral, a serem concedidos aos servidores públicos federais, alterações de planos de carreira e admissões para preenchimento de cargos, em conformidade com o disposto no art. 77 desta Lei. 
+O Poder Executivo, por intermédio do órgão central do Sistema de Pessoal Civil - Sipec, publicará, até 31 de agosto de 2002, a tabela de cargos efetivos e comissionados integrantes do quadro geral de pessoal civil, demonstrando, por órgão, autarquia e fundação, os quantitativos de cargos ocupados por servidores estáveis e não-estáveis e de cargos vagos, comparando-os com os quantitativos do ano anterior. 
+Os Poderes Legislativo e Judiciário, assim como o Ministério Público da União, observarão o cumprimento do disposto neste artigo, mediante atos próprios dos dirigentes máximos de cada órgão, destacando-se, inclusive, as entidades vinculadas da administração indireta. 
+Os cargos transformados após 31 de agosto de 2002, em decorrência de processo de racionalização de planos de carreiras dos servidores públicos, serão incorporados à tabela referida neste artigo. 
+No exercício de 2003, observado o disposto no art. 169 da Constituição e no art. 77 desta Lei, somente poderão ser admitidos servidores se, cumulativamente: 
+existirem cargos e empregos públicos vagos a preencher, demonstrados na tabela a que se refere o art. 73 desta Lei, considerados os cargos transformados, previstos no § 2º do mesmo artigo, bem como aqueles criados de acordo com o art. 77 desta Lei ou se houver vacância, após 31 de agosto de 2002, dos cargos ocupados constantes da referida tabela; 
+houver prévia dotação orçamentária suficiente para o atendimento da despesa; e 
+for observado o limite previsto no art. 72 desta Lei. 
+No exercício de 2003, a realização de serviço extraordinário, quando a despesa houver extrapolado 95% (noventa e cinco por cento) dos limites referidos no art. 72 desta Lei, exceto no caso previsto no art. 57, § 6, II, da Constituição, somente poderá ocorrer quando destinada ao atendimento de relevantes interesses públicos que ensejam situações emergenciais de risco ou de prejuízo para a sociedade. 
+A autorização para a realização de serviço extraordinário, no âmbito do Poder Executivo, nas condições estabelecidas no caput deste artigo, é de exclusiva competência do Ministro de Estado do Planejamento, Orçamento e Gestão. 
+Os projetos de lei sobre transformação de cargos, a que se refere o art. 73, § 2º, desta Lei, bem como os relacionados a aumento de gastos com pessoal e encargos sociais, no âmbito do Poder Executivo, deverão ser acompanhados de manifestações da Secretaria de Recursos Humanos e da Secretaria de Orçamento Federal, ambas do Ministério do Planejamento, Orçamento e Gestão, em suas respectivas áreas de competência. 
+Os órgãos próprios do Poder Legislativo, do Poder Judiciário e do Ministério Público da União assumirão em seus âmbitos as atribuições necessárias ao cumprimento do disposto neste artigo. 
+Para atendimento do disposto no caput deste artigo, os projetos de lei serão sempre acompanhados de declaração do proponente e do ordenador de despesas, com as premissas e metodologia de cálculo utilizadas, conforme estabelece os arts. 16 e 17 da Lei Complementar nº 101, de 2000. 
+Para fins de atendimento ao disposto no art. 169, § 1º, II, da Constituição, atendido o inciso I do mesmo dispositivo, ficam autorizadas as concessões de quaisquer vantagens, aumentos de remuneração, criação de cargos, empregos e funções, alterações de estrutura de carreiras, bem como admissões ou contratações de pessoal a qualquer título, em especial do pessoal das Instituições Federais de Ensino, constantes de anexo específico da lei orçamentária, observado o disposto no art. 71 da Lei Complementar nº 101, de 2000. 
+O demonstrativo previsto no caput deste artigo conterá os valores referentes às alterações propostas. 
+Para fins de elaboração do anexo específico referido no caput, os Poderes Legislativo e Judiciário e o Ministério Público da União informarão, e os órgãos setoriais do Sistema de Planejamento e de Orçamento Federal submeterão a relação das modificações de que trata o caput deste artigo ao órgão central do referido sistema, junto com suas respectivas propostas orçamentárias, demonstrando sua compatibilidade com o disposto na Lei Complementar nº 101, de 2000, e com a referida proposta e contendo os valores estimados para as alterações propostas. 
+Fica autorizada, nos termos da Lei nº 10.331, de 18 de dezembro de 2001, a revisão geral das remunerações, subsídios, proventos e pensões dos servidores ativos e inativos dos Poderes Executivo, Legislativo e Judiciário, bem como do Ministério Público da União, das autarquias e fundações públicas federais, cujo percentual será definido em lei específica. 
+À exceção do pagamento de eventuais reajustes gerais concedidos aos servidores públicos federais, despesas decorrentes de convocação extraordinária do Congresso Nacional, ou de vantagens autorizadas por atos previstos no art. 59 da Constituição, a partir de 1º de julho de 2002, a execução de despesas não previstas nos limites estabelecidos na forma do art. 58 desta Lei somente poderá ocorrer após a abertura de créditos adicionais para fazer face a tais despesas. 
+O relatório bimestral de execução orçamentária conterá, em anexo, a discriminação das despesas com pessoal e encargos sociais, de modo a evidenciar os quantitativos despendidos com vencimentos e vantagens fixas, despesas variáveis, encargos com pensionistas e inativos e encargos sociais para as seguintes categorias: 
+pessoal civil da administração direta; 
+pessoal militar; 
+servidores das autarquias; 
+servidores das fundações; 
+empregados de empresas que integrem os orçamentos fiscal e da seguridade social. 
+O disposto no § 1º do art. 18 da Lei Complementar nº 101, de 2000, aplica-se exclusivamente para fins de cálculo do limite da despesa total com pessoal, independentemente da legalidade ou validade dos contratos. 
+Não se considera como substituição de servidores e empregados públicos, para efeito do caput, os contratos de terceirização relativos à execução indireta de atividades que, simultaneamente: 
+sejam acessórias, instrumentais ou complementares aos assuntos que constituem área de competência legal do órgão ou entidade, na forma de regulamento; 
+não sejam inerentes a categorias funcionais abrangidas por plano de cargos do quadro de pessoal do órgão ou entidade, salvo expressa disposição legal em contrário, ou quando se tratar de cargo ou categoria extintos, total ou parcialmente; 
+não caracterizem relação direta de emprego. 
+Aplicam-se aos militares das Forças Armadas, no que couber, as exigências estabelecidas neste Capítulo. 
+As agências financeiras oficiais de fomento, respeitadas suas especificidades, observarão as seguintes prioridades: 
+para a Caixa Econômica Federal, redução do déficit habitacional e melhoria nas condições de vida das populações mais carentes, via financiamentos a projetos de investimentos em saneamento básico e desenvolvimento da infra-estrutura urbana e rural; 
+para o Banco do Brasil S.A., aumento da oferta de alimentos para o mercado interno e da oferta de produtos agrícolas para exportação e intensificação das trocas internacionais do Brasil com seus parceiros comerciais; 
+para o Banco do Nordeste do Brasil S.A., Banco da Amazônia S.A., Banco do Brasil S.A. e Caixa Econômica Federal, estímulo à criação de empregos e ampliação da oferta de produtos de consumo popular, mediante apoio à expansão e ao desenvolvimento das micro, pequenas e médias empresas; 
+para o Banco Nacional de Desenvolvimento Econômico e Social - BNDES: 
+(VETADO) 
+financiamento dos programas estratégicos do Plano Plurianual 2000-2003; 
+reestruturação produtiva, com vistas a estimular a competitividade interna e externa das empresas nacionais; 
+financiamento nas áreas de saúde, educação e infra-estrutura, incluindo o transporte urbano e os projetos do setor público, em complementação aos gastos de custeio; 
+financiamento para investimentos na área de geração e transmissão de energia elétrica, bem como a programas relativos à eficiência no uso das fontes de energia; 
+financiamento para controle de erosão associado a programas municipais de melhoria de estradas rurais; e 
+redução das desigualdades regionais de desenvolvimento, por meio do apoio à implantação e expansão das atividades produtivas, bem como daquelas relacionadas na alínea "d"; 
+para a Financiadora de Estudos e Projetos - Finep - e o BNDES, promoção do desenvolvimento da infra-estrutura e da indústria, da agricultura e da agroindústria, com ênfase no fomento à pesquisa, à capacitação científica e tecnológica, à melhoria da competitividade da economia, à estruturação de unidades e sistemas produtivos orientados para o fortalecimento do Mercosul e à geração de empregos; e 
+para o Banco da Amazônia S.A., Banco do Nordeste do Brasil S.A. e Banco do Brasil S.A., redução das desigualdades sociais nas regiões Norte, Nordeste e Centro-Oeste do País, mediante apoio a projetos voltados para o melhor aproveitamento das oportunidades de desenvolvimento econômico-social e maior eficiência dos instrumentos gerenciais dos Fundos Constitucionais de Financiamento do Norte - FNO, do Nordeste - FNE, e do Centro-Oeste - FCO. 
+Os encargos dos empréstimos e financiamentos concedidos pelas agências não poderão ser inferiores aos respectivos custos de captação e de administração, ressalvado o previsto na Lei nº 7.827, de 27 de setembro de 1989. 
+É vedada a concessão ou renovação de quaisquer empréstimos ou financiamentos pelas agências financeiras oficiais de fomento a: 
+empresas e entidades do setor privado ou público, inclusive aos Estados, ao Distrito Federal e aos Municípios, bem como às suas entidades da administração indireta, fundações, empresas públicas e sociedades de economia mista e demais empresas em que a União, direta ou indiretamente, detenha a maioria do capital com direito a voto, que estejam inadimplentes com a União, seus órgãos e entidades das administrações direta e indireta e com o Fundo de Garantia do Tempo de Serviço; 
+empresas, com a finalidade de financiar a aquisição de ativos públicos incluídos no Plano Nacional de Desestatização; 
+(VETADO) 
+Em casos excepcionais, devidamente justificados, o BNDES poderá, no processo de privatização, financiar o comprador, desde que para promover a isonomia entre as entidades participantes. 
+O Poder Executivo deverá enviar ao Congresso Nacional, em até 15 (quinze) dias após o encaminhamento da proposta de lei orçamentária, plano de aplicação dos recursos das agências de fomento, detalhado na forma do § 5º deste artigo. 
+Integrará o relatório de que trata o § 3º do art. 165 da Constituição, demonstrativo dos empréstimos e financiamentos concedidos pelas agências oficiais de fomento, discriminando-se: 
+total por região e unidade da Federação, indicando a participação de cada setor de atividade, bem como o demonstrativo da origem dos recursos aplicados; 
+total, por região e unidade da Federação, indicando a origem dos recursos aplicados; 
+o total dos recursos aplicados a fundo perdido por região, unidade da Federação e setor de atividade, explicitando-se os critérios utilizados e a origem dos recursos. 
+A elaboração dos demonstrativos a que se refere o § 5º observará os seguintes critérios: 
+os empréstimos e financiamentos deverão ser apresentados evidenciando, separadamente, o fluxo das aplicações (empréstimos e financiamentos concedidos, menos amortizações) e os empréstimos e financiamentos efetivamente concedidos; 
+a metodologia deve explicitar, tanto para o fluxo das aplicações, quanto para os empréstimos e financiamentos efetivamente concedidos, a composição de: 
+Recursos Próprios; 
+Recursos do Tesouro; e 
+Recursos de Outras Fontes. 
+O Poder Executivo demonstrará, em audiência pública perante a Comissão Mista de que trata o art. 166, § 1º, da Constituição, em maio e setembro, a aderência das aplicações dos recursos das agências financeiras oficiais de fomento de que trata este artigo à política estipulada nesta Lei, bem como a execução do plano de aplicação previsto no § 4º deste artigo. 
+(VETADO) 
+O projeto de lei ou medida provisória que conceda ou amplie incentivo ou benefício de natureza tributária só será aprovado ou editado se atendidas as exigências do art. 14 da Lei Complementar nº 101, de 2000. 
+Aplica-se à lei ou medida provisória que conceda ou amplie incentivo ou benefício de natureza financeira as mesmas exigências referidas no caput, podendo a compensação, alternativamente, dar-se mediante o cancelamento, pelo mesmo período, de despesas em valor equivalente. 
+(VETADO) 
+Na estimativa das receitas do projeto de lei orçamentária poderão ser considerados os efeitos de propostas de alterações na legislação tributária e das contribuições que sejam objeto de proposta de emenda constitucional, de projeto de lei ou de medida provisória que esteja em tramitação no Congresso Nacional, vedada a utilização de receitas condicionadas no financiamento de despesas com pagamento de pessoal e benefícios previdenciários. 
+Se estimada a receita, na forma deste artigo, no projeto de lei orçamentária: 
+serão identificadas as proposições de alterações na legislação e especificada a receita adicional esperada, em decorrência de cada uma das propostas e seus dispositivos; e 
+será apresentada programação especial de despesas condicionadas à aprovação das respectivas alterações na legislação. 
+Caso as alterações propostas não sejam aprovadas, ou o sejam parcialmente, até 28 de fevereiro de 2003 ou até o envio do projeto de lei orçamentária para sanção do Presidente da República, prevalecendo o que ocorrer por último, de forma a não permitir a integralização dos recursos esperados, as dotações à conta das referidas receitas serão canceladas, mediante decreto, até 31 de março de 2003 ou 30 (trinta) dias após a publicação da lei orçamentária, conforme o caso, observados os critérios a seguir relacionados, para aplicação seqüencial obrigatória e cancelamento linear, até ser completado o valor necessário para cada fonte de receita: 
+de até 100% (cem por cento) das dotações relativas aos novos subtítulos de projetos; 
+de até 60% (sessenta por cento) das dotações relativas aos subtítulos de projetos em andamento; 
+de até 25% (vinte e cinco por cento) das dotações relativas às ações de manutenção; 
+dos restantes 40% (quarenta por cento) das dotações relativas aos subtítulos de projetos em andamento; e 
+dos restantes 75% (setenta e cinco por cento) das dotações relativas às ações de manutenção. 
+O Ministro de Estado do Planejamento, Orçamento e Gestão procederá, mediante portaria, a ser publicada até 31 de março de 2003 ou 30 (trinta) dias após a publicação da lei orçamentária, à troca das fontes de recursos condicionadas, constantes da lei orçamentária sancionada, pelas respectivas fontes definitivas, cujas alterações na legislação foram aprovadas. 
+Aplica-se o disposto neste artigo às propostas de alteração na vinculação das receitas. 
+O projeto e a lei orçamentária anual poderão contemplar subtítulos relativos a obras e serviços com indícios de irregularidades graves informados pelo Tribunal de Contas da União, permanecendo a execução orçamentária, física e financeira dos contratos, convênios, parcelas ou subtrechos em que foram identificados os indícios, condicionada à adoção de medidas saneadoras pelo órgão ou entidade responsável, sujeitas à prévia deliberação da Comissão Mista de que trata o art. 166, § 1º, da Constituição, nos termos do § 6º deste artigo. 
+Para os efeitos desta Lei, entende-se por: 
+execução física: a autorização para que o contratado realize a obra, forneça o bem ou preste o serviço; 
+execução orçamentária: o empenho, a liquidação da despesa, inclusive a inscrição em Restos a Pagar; 
+execução financeira: o pagamento, inclusive dos Restos a Pagar já inscritos. 
+Os indícios de irregularidades graves, para os fins deste artigo, são aqueles que tornem recomendável a paralisação cautelar da obra ou serviço, e que, sendo materialmente relevantes, tenham a potencialidade de, entre outros efeitos: 
+ocasionar prejuízos significativos ao erário ou a terceiros; 
+ensejar nulidade do procedimento licitatório ou de contrato. 
+Quando não constar a indicação de contratos, convênios, parcelas ou subtrechos no Anexo a que se refere o art. 10, § 10, desta Lei, fica vedada a execução da totalidade da dotação orçamentária do subtítulo correspondente. 
+Os ordenadores de despesa e os órgãos setoriais de contabilidade deverão providenciar o bloqueio e o desbloqueio, no Siafi ou no Siasg, das dotações orçamentárias, das autorizações para execução e dos pagamentos relativos aos subtítulos de que trata o caput deste artigo, permanecendo nessa situação até a deliberação prevista no § 5º deste artigo. 
+As exclusões ou inclusões dos subtítulos, contratos, convênios, parcelas ou subtrechos no rol em anexo à lei orçamentária, observarão decreto legislativo, elaborado com base nas informações prestadas pelo Tribunal de Contas da União, que nelas emitirá parecer conclusivo a respeito do saneamento dos indícios de irregularidades graves apontados de forma a subsidiar a decisão da Comissão Mista de que trata o caput e do Congresso Nacional. 
+A decisão da Comissão Mista de que trata o art. 166, § 1º, da Constituição, com base em pronunciamento conclusivo do Tribunal de Contas da União, que reconheça o saneamento dos indícios de irregularidades apontados, terá caráter terminativo, salvo recurso ao Plenário do Congresso Nacional, assinado por 0,1 (um décimo) dos representantes de cada Casa. 
+A Comissão Mista de que trata o art. 166, § 1, da Constituição, disponibilizará, inclusive pela internet, a relação atualizada das obras e serviços de que trata o caput. 
+Os processos em tramitação no Tribunal de Contas da União que tenham por objeto o exame de obras ou serviços mencionados neste artigo serão instruídos e apreciados prioritariamente, adaptando-se os prazos e procedimentos internos, para o exercício de 2003, de forma a garantir essa urgência. 
+O Tribunal de Contas da União enviará à Comissão Mista de que trata o art. 166, § 1º, da Constituição, até 30 (trinta) dias após o encaminhamento da proposta orçamentária pelo Poder Executivo, informações recentes sobre a execução físico-financeira das obras constantes dos orçamentos fiscal, da seguridade social e de investimento, inclusive na forma de banco de dados. 
+Das informações referidas no caput constarão, para cada obra fiscalizada, sem prejuízo de outros dados considerados relevantes pelo Tribunal: 
+a classificação institucional, funcional e programática, atualizada conforme constante da lei orçamentária para 2002; 
+sua localização e especificação, com as etapas, os subtrechos ou as parcelas e seus respectivos contratos, conforme o caso, nos quais foram identificadas irregularidades; 
+a classificação dos eventuais indícios de irregularidades identificados, de acordo com sua gravidade; 
+as providências já adotadas pelo Tribunal quanto às irregularidades; 
+o percentual de execução físico-financeira; 
+a estimativa do valor necessário para conclusão. 
+A seleção das obras a serem fiscalizadas deve considerar, dentre outros fatores, o valor liquidado no exercício de 2001 e o fixado para 2002, a regionalização do gasto e o histórico de irregularidades pendentes obtidos a partir de fiscalizações anteriores do Tribunal, devendo dela fazer parte todas as obras contidas no Quadro VII anexo à Lei nº 10.407, de 10 de janeiro de 2002, que não foram objeto de deliberação do Tribunal pela regularidade durante os 12 (doze) meses anteriores à data da publicação desta Lei. 
+O Tribunal deverá, adicionalmente, no mesmo prazo previsto no caput, enviar informações sobre outras obras nas quais tenham sido constatados indícios de irregularidades graves em outros procedimentos fiscalizatórios realizados nos últimos 12 (doze) meses contados da publicação desta Lei, com o mesmo grau de detalhamento definido no § 1º deste artigo. 
+O Tribunal encaminhará à Comissão referida no caput, sempre que necessário, relatórios de atualização das informações fornecidas, sem prejuízo da atualização das informações relativas às deliberações proferidas para as obras ou serviços cuja execução apresente indícios de irregularidades graves, em 30 de novembro de 2002, disponibilizando, nesta oportunidade, o relatório atualizado na sua página na internet, até a aprovação da Lei Orçamentária. 
+Durante o exercício de 2003, o Tribunal de Contas da União remeterá ao Congresso Nacional, em até 15 (quinze) dias após sua constatação, informações referentes aos indícios de irregularidades graves, identificados em procedimentos fiscalizatórios, ou saneamento de indícios anteriormente apontados, referentes a obras e serviços constantes da lei orçamentária, acompanhadas de subsídios que permitam a análise da conveniência e oportunidade de continuação ou paralisação da obra ou serviço. 
+O Tribunal de Contas da União disponibilizará à Comissão Mista de que trata o caput deste artigo acesso ao seu sistema eletrônico de fiscalização de obras e serviços. 
+As contas de que trata o art. 56 da Lei Complementar nº 101, de 2000, serão prestadas pelo Presidente da República, pelos Presidentes dos órgãos do Poder Legislativo, pelo Presidente do Supremo Tribunal Federal, pelos Presidentes dos Tribunais Superiores, consolidando as dos respectivos tribunais, e pelo Chefe do Ministério Público e deverão ser apresentadas ao Congresso Nacional dentro de 60 (sessenta) dias após a abertura da sessão legislativa, que as encaminhará ao Tribunal de Contas da União, exceto no caso previsto no § 2º do art. 56 da Lei Complementar nº 101, de 2000, para elaboração dos respectivos pareceres prévios, dentro do prazo de 60 (sessenta) dias do seu recebimento. 
+Para fins de apreciação da proposta orçamentária, do acompanhamento e da fiscalização orçamentária a que se refere o art. 166, § 1°, II, da Constituição, será assegurado, ao órgão responsável, o acesso irrestrito, para fins de consulta, bem como o recebimento de dados, em meio digital, dos seguintes sistemas: 
+Sistema Integrado de Administração Financeira do Governo Federal - SIAFI; 
+Sistema Integrado de Dados Orçamentários - SIDOR; 
+Sistema de Análise Gerencial de Arrecadação - ANGELA, respeitado o sigilo fiscal do contribuinte; 
+Sistemas de Gerenciamento da Receita e Despesa da Previdência Social; 
+Sistema de Informação das Estatais - SIEST; 
+Sistema de Informações Gerenciais e de Planejamento do Plano Plurianual - SIGPLAN; e 
+Sistema Integrado de Administração de Serviços Gerais - SIASG. 
+Todas as receitas realizadas pelos órgãos, fundos e entidades integrantes dos orçamentos fiscal e da seguridade social, inclusive as diretamente arrecadadas, serão devidamente classificadas e contabilizadas no Siafi no mês em que ocorrer o respectivo ingresso. 
+Todos os atos e fatos relativos a pagamento ou transferência de recursos financeiros para outra esfera de governo ou entidade privada, registrados no Siafi, conterão, obrigatoriamente, referência ao programa de trabalho correspondente ao respectivo crédito orçamentário no detalhamento existente na lei orçamentária. 
+As unidades responsáveis pela execução dos créditos orçamentários e adicionais aprovados processarão o empenho da despesa, observados os limites fixados para cada categoria de programação e respectivos grupos de natureza da despesa, fontes de recursos, modalidades de aplicação e identificadores de uso, especificando o elemento de despesa. 
+Os custos unitários de materiais e serviços de obras executadas com recursos dos orçamentos da União não poderão ser superiores a 30% (trinta por cento) àqueles constantes do Sistema Nacional de Pesquisa de Custos e Índices da Construção Civil - Sinapi, mantido pela Caixa Econômica Federal. 
+Somente em condições especiais, devidamente justificadas em relatório técnico circunstanciado, aprovado pela autoridade competente, poderão os respectivos custos ultrapassar o limite fixado no caput deste artigo, sem prejuízo da avaliação dos órgãos de controle interno e externo. 
+A Caixa Econômica Federal promoverá a ampliação dos tipos de empreendimentos atualmente abrangidos pelo sistema, de modo a contemplar os principais tipos de obras públicas contratadas, em especial as obras de edificações, saneamento, rodoviárias, ferroviárias, barragens, irrigação e linhas de transmissão. 
+As entidades privadas beneficiadas com recursos públicos a qualquer título submeter-se-ão à fiscalização do Poder concedente, com a finalidade de verificar o cumprimento de metas e objetivos para os quais receberam os recursos. 
+O impacto e o custo fiscal das operações realizadas pelo Banco Central do Brasil na execução de suas políticas serão demonstrados: 
+nas notas explicativas dos respectivos balanços e balancetes encaminhados ao Congresso Nacional em até 60 (sessenta) dias do encerramento de cada trimestre; 
+em relatório a ser encaminhado ao Congresso Nacional no mínimo até 10 (dez) dias antes da reunião conjunta prevista no art. 9, § 5, da Lei Complementar nº 101, de 2000. 
+No relatório de que trata o inciso II deste artigo serão analisados, especialmente, os desvios verificados em relação aos parâmetros projetados no Anexo de Metas Fiscais desta Lei e o impacto líquido do custo das operações com derivativos e de outros fatores no endividamento público. 
+O impacto e o custo fiscal das operações extra-orçamentárias constantes do Balanço Financeiro e da Demonstração de Variações Patrimoniais da União serão igualmente demonstrados em notas explicativas nos respectivos balanços, inclusive os publicados nos termos do art. 165, § 3º, da Constituição. 
+O Poder Executivo, por intermédio do seu Órgão Central do Sistema de Planejamento e de Orçamento Federal, deverá atender, no prazo máximo de 10 (dez) dias úteis, contado da data de recebimento, as solicitações de informações encaminhadas pelo Presidente da Comissão Mista de Planos, Orçamentos Públicos e Fiscalização do Congresso Nacional, relativas a aspectos quantitativos e qualitativos de qualquer categoria de programação ou item de receita, incluindo eventuais desvios em relação aos valores da proposta que venham a ser identificados posteriormente ao encaminhamento do projeto de lei. 
+Para os efeitos do art. 16 da Lei Complementar nº 101, de 2000: 
+as especificações nele contidas integrarão o processo administrativo de que trata o art. 38 da Lei nº 8.666, de 21 de junho de 1993, bem como os procedimentos de desapropriação de imóveis urbanos a que se refere o § 3º do art. 182 da Constituição; e 
+entende-se como despesas irrelevantes, para fins do § 3º do art. 16 referido no caput, aquelas cujo valor não ultrapasse, para bens e serviços, os limites dos incisos I e II do art. 24 da Lei nº 8.666, de 1993. 
+Até 24 (vinte e quatro) horas após o encaminhamento à sanção presidencial dos autógrafos do projeto de lei orçamentária e dos projetos de lei de créditos adicionais, o Poder Legislativo enviará ao Poder Executivo, em meio magnético de processamento eletrônico, os dados e informações relativos aos autógrafos, indicando: 
+em relação a cada categoria de programação e grupo de natureza de despesa dos projetos originais, o total dos acréscimos e o total dos decréscimos, por fonte de recursos, realizados pelo Congresso Nacional; e 
+as novas categorias de programação e, em relação a estas, os detalhamentos fixados no art. 5º desta Lei, as fontes de recursos e as denominações atribuídas. 
+Acompanha esta Lei Anexo específico contendo a relação das ações que constituem obrigações constitucionais e legais da União, nos termos do art. 9°, § 2°, da Lei Complementar nº 101, de 2000. 
+O Poder Executivo atualizará a relação de que trata o caput sempre que promulgada emenda constitucional ou lei de que resultem obrigações para a União. 
+O Poder Executivo poderá incluir outras ações na relação de que trata o caput, desde que, para tanto, demonstre que a ação constitui obrigação constitucional ou legal da União. 
+A relação, sempre que alterada, será publicada no Diário Oficial da União e encaminhada à Comissão de que trata o § 1º do art. 166 da Constituição. 
+Para efeito de emissão e fiscalização dos Relatórios de Gestão Fiscal previstos no art. 54 da Lei Complementar nº 101, de 2000: 
+os Poderes e órgãos enviarão os referidos relatórios ao Congresso Nacional e ao Tribunal de Contas da União, nos termos do art. 5º, I, da Lei nº 10.028, de 19 de outubro de 2000; 
+o Tribunal de Contas da União remeterá à Comissão Mista permanente de que trata o art. 166, § 1, da Constituição, no prazo de 45 (quarenta e cinco) dias do recebimento, análise e avaliação dos resultados mencionados no caput deste artigo. 
+Ficam facultadas à Justiça Federal a elaboração e a publicação do relatório de que trata o caput deste artigo em nível orçamentário, nos termos do § 2º do art. 5º desta Lei. 
+Esta Lei entra em vigor na data de sua publicação. 

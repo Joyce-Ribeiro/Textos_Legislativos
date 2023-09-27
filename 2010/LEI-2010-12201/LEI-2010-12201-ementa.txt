@@ -1,0 +1,1 @@
+ Cria cargos de Analista, Inspetor e Agente Executivo no quadro de pessoal da Comissão de Valores Mobiliários. 

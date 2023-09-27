@@ -1,0 +1,1 @@
+ Reajusta valores da tabela progressiva para cálculo do imposto de renda.

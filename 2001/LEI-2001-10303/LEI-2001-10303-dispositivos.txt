@@ -1,0 +1,56 @@
+Esta Lei altera e acrescenta dispositivos na Lei nº 6.404, de 15 de dezembro de 1976, que dispõe sobre as Sociedades por Ações, e na Lei nº 6.385, de 7 de dezembro de 1976, que dispõe sobre o mercado de valores mobiliários e cria a Comissão de Valores Mobiliários. 
+Para os efeitos desta Lei, a companhia é aberta ou fechada conforme os valores mobiliários de sua emissão estejam ou não admitidos à negociação no mercado de valores mobiliários. 
+Somente os valores mobiliários de emissão de companhia registrada na Comissão de Valores Mobiliários podem ser negociados no mercado de valores mobiliários. 
+Nenhuma distribuição pública de valores mobiliários será efetivada no mercado sem prévio registro na Comissão de Valores Mobiliários. 
+A Comissão de Valores Mobiliários poderá classificar as companhias abertas em categorias, segundo as espécies e classes dos valores mobiliários por ela emitidos negociados no mercado, e especificará as normas sobre companhias abertas aplicáveis a cada categoria. 
+O registro de companhia aberta para negociação de ações no mercado somente poderá ser cancelado se a companhia emissora de ações, o acionista controlador ou a sociedade que a controle, direta ou indiretamente, formular oferta pública para adquirir a totalidade das ações em circulação no mercado, por preço justo, ao menos igual ao valor de avaliação da companhia, apurado com base nos critérios, adotados de forma isolada ou combinada, de patrimônio líquido contábil, de patrimônio líquido avaliado a preço de mercado, de fluxo de caixa descontado, de comparação por múltiplos, de cotação das ações no mercado de valores mobiliários, ou com base em outro critério aceito pela Comissão de Valores Mobiliários, assegurada a revisão do valor da oferta, em conformidade com o disposto no art. 4º-A. 
+Terminado o prazo da oferta pública fixado na regulamentação expedida pela Comissão de Valores Mobiliários, se remanescerem em circulação menos de 5% (cinco por cento) do total das ações emitidas pela companhia, a assembléia-geral poderá deliberar o resgate dessas ações pelo valor da oferta de que trata o § 4, desde que deposite em estabelecimento bancário autorizado pela Comissão de Valores Mobiliários, à disposição dos seus titulares, o valor de resgate, não se aplicando, nesse caso, o disposto no § 6º do art. 44. 
+O acionista controlador ou a sociedade controladora que adquirir ações da companhia aberta sob seu controle que elevem sua participação, direta ou indireta, em determinada espécie e classe de ações à porcentagem que, segundo normas gerais expedidas pela Comissão de Valores Mobiliários, impeça a liquidez de mercado das ações remanescentes, será obrigado a fazer oferta pública, por preço determinado nos termos do § 4, para aquisição da totalidade das ações remanescentes no mercado.
+O número de ações preferenciais sem direito a voto, ou sujeitas a restrição no exercício desse direito, não pode ultrapassar 50% (cinqüenta por cento) do total das ações emitidas.
+As preferências ou vantagens das ações preferenciais podem consistir: 
+em prioridade na distribuição de dividendo, fixo ou mínimo; 
+em prioridade no reembolso do capital, com prêmio ou sem ele; ou 
+na acumulação das preferências e vantagens de que tratam os incisos I e II. 
+Independentemente do direito de receber ou não o valor de reembolso do capital com prêmio ou sem ele, as ações preferenciais sem direito de voto ou com restrição ao exercício deste direito, somente serão admitidas à negociação no mercado de valores mobiliários se a elas for atribuída pelo menos uma das seguintes preferências ou vantagens: 
+direito de participar do dividendo a ser distribuído, correspondente a, pelo menos, 25% (vinte e cinco por cento) do lucro líquido do exercício, calculado na forma do art. 202, de acordo com o seguinte critério: 
+prioridade no recebimento dos dividendos mencionados neste inciso correspondente a, no mínimo, 3% (três por cento) do valor do patrimônio líquido da ação; e 
+direito de participar dos lucros distribuídos em igualdade de condições com as ordinárias, depois de a estas assegurado dividendo igual ao mínimo prioritário estabelecido em conformidade com a alínea a; ou 
+direito ao recebimento de dividendo, por ação preferencial, pelo menos 10% (dez por cento) maior do que o atribuído a cada ação ordinária; ou 
+direito de serem incluídas na oferta pública de alienação de controle, nas condições previstas no art. 254-A, assegurado o dividendo pelo menos igual ao das ações ordinárias. 
+Deverão constar do estatuto, com precisão e minúcia, outras preferências ou vantagens que sejam atribuídas aos acionistas sem direito a voto, ou com voto restrito, além das previstas neste artigo. 
+Os dividendos, ainda que fixos ou cumulativos, não poderão ser distribuídos em prejuízo do capital social, salvo quando, em caso de liquidação da companhia, essa vantagem tiver sido expressamente assegurada. 
+Salvo disposição em contrário no estatuto, o dividendo prioritário não é cumulativo, a ação com dividendo fixo não participa dos lucros remanescentes e a ação com dividendo mínimo participa dos lucros distribuídos em igualdade de condições com as ordinárias, depois de a estas assegurado dividendo igual ao mínimo. 
+Salvo no caso de ações com dividendo fixo, o estatuto não pode excluir ou restringir o direito das ações preferenciais de participar dos aumentos de capital decorrentes da capitalização de reservas ou lucros (art. 169). 
+O estatuto pode conferir às ações preferenciais com prioridade na distribuição de dividendo cumulativo, o direito de recebê-lo, no exercício em que o lucro for insuficiente, à conta das reservas de capital de que trata o § 1º do art. 182. 
+Nas companhias objeto de desestatização poderá ser criada ação preferencial de classe especial, de propriedade exclusiva do ente desestatizante, à qual o estatuto social poderá conferir os poderes que especificar, inclusive o poder de veto às deliberações da assembléia-geral nas matérias que especificar.
+Os certificados de ações emitidas por companhias abertas podem ser assinados por dois mandatários com poderes especiais, ou autenticados por chancela mecânica, observadas as normas expedidas pela Comissão de Valores Mobiliários.
+A propriedade das ações nominativas presume-se pela inscrição do nome do acionista no livro de “Registro de Ações Nominativas” ou pelo extrato que seja fornecido pela instituição custodiante, na qualidade de proprietária fiduciária das ações. 
+A instituição autorizada pela Comissão de Valores Mobiliários a prestar serviços de custódia de ações fungíveis pode contratar custódia em que as ações de cada espécie e classe da companhia sejam recebidas em depósito como valores fungíveis, adquirindo a instituição depositária a propriedade fiduciária das ações. 
+A instituição depositária não pode dispor das ações e fica obrigada a devolver ao depositante a quantidade de ações recebidas, com as modificações resultantes de alterações no capital social ou no número de ações da companhia emissora, independentemente do número de ordem das ações ou dos certificados recebidos em depósito. 
+Aplica-se o disposto neste artigo, no que couber, aos demais valores mobiliários. 
+A instituição depositária ficará obrigada a comunicar à companhia emissora: 
+imediatamente, o nome do proprietário efetivo quando houver qualquer evento societário que exija a sua identificação; e 
+no prazo de até 10 (dez) dias, a contratação da custódia e a criação de ônus ou gravames sobre as ações. 
+A propriedade das ações em custódia fungível será provada pelo contrato firmado entre o proprietário das ações e a instituição depositária. 
+A instituição tem as obrigações de depositária e responde perante o acionista e terceiros pelo descumprimento de suas obrigações.
+Salvo disposição em contrário do estatuto social, o resgate de ações de uma ou mais classes só será efetuado se, em assembléia especial convocada para deliberar essa matéria específica, for aprovado por acionistas que representem, no mínimo, a metade das ações da(s) classe(s) atingida(s).
+É vedado às companhias abertas emitir partes beneficiárias.
+A companhia poderá emitir debêntures que conferirão aos seus titulares direito de crédito contra ela, nas condições constantes da escritura de emissão e, se houver, do certificado.
+A debênture poderá conter cláusula de correção monetária, com base nos coeficientes fixados para correção de títulos da dívida pública, na variação da taxa cambial ou em outros referenciais não expressamente vedados em lei. 
+A escritura de debênture poderá assegurar ao debenturista a opção de escolher receber o pagamento do principal e acessórios, quando do vencimento, amortização ou resgate, em moeda ou em bens avaliados nos termos do art. 8.
+Na companhia aberta, o conselho de administração poderá deliberar sobre a emissão de debêntures simples, não conversíveis em ações e sem garantia real, e a assembléia-geral pode delegar ao conselho de administração a deliberação sobre as condições de que tratam os incisos VI a VIII deste artigo e sobre a oportunidade da emissão. 
+Nenhuma emissão de debêntures será feita sem que tenham sido satisfeitos os seguintes requisitos: 
+arquivamento, no registro do comércio, e publicação da ata da assembléia-geral, ou do conselho de administração, que deliberou sobre a emissão; 
+inscrição da escritura de emissão no registro do comércio; 
+Os registros do comércio manterão livro especial para inscrição das emissões de debêntures, no qual serão anotadas as condições essenciais de cada emissão.
+As debêntures podem ser objeto de depósito com emissão de certificado, nos termos do art. 43. 
+A escritura de emissão pode estabelecer que as debêntures sejam mantidas em contas de custódia, em nome de seus titulares, na instituição que designar, sem emissão de certificados, aplicando-se, no que couber, o disposto no art. 41.
+notificar os debenturistas, no prazo máximo de 60 (sessenta) dias, de qualquer inadimplemento, pela companhia, de obrigações assumidas na escritura da emissão. 
+O estatuto da sociedade pode estabelecer que as divergências entre os acionistas e a companhia, ou entre os acionistas controladores e os acionistas minoritários, poderão ser solucionadas mediante arbitragem, nos termos em que especificar.
+O acionista deve exercer o direito a voto no interesse da companhia; considerar-se-á abusivo o voto exercido com o fim de causar dano à companhia ou a outros acionistas, ou de obter, para si ou para outrem, vantagem a que não faz jus e de que resulte, ou possa resultar, prejuízo para a companhia ou para outros acionistas. 
+(VETADO) 
+(VETADO) 
+(VETADO) 
+(VETADO) 
+(VETADO) 
+(VETADO) 

@@ -1,0 +1,22 @@
+É criado o Sistema Nacional de Controle de Medicamentos, envolvendo a produção, comercialização, dispensação e a prescrição médica, odontológica e veterinária, assim como os demais tipos de movimentação previstos pelos controles sanitários. 
+Todo e qualquer medicamento produzido, dispensado ou vendido no território nacional será controlado por meio do Sistema Nacional de Controle de Medicamentos. 
+O controle aplica-se igualmente às prescrições médicas, odontológicas e veterinárias. 
+O controle será realizado por meio de sistema de identificação exclusivo dos produtos, prestadores de serviços e usuários, com o emprego de tecnologias de captura, armazenamento e transmissão eletrônica de dados. 
+Os produtos e seus distribuidores receberão identificação específica baseada em sistema de captura de dados por via eletrônica, para os seguintes componentes do Sistema Nacional de Controle de Medicamentos: 
+fabricante (autorização de funcionamento, licença estadual e alvará sanitário municipal dos estabelecimentos fabricantes); 
+fornecedor (atacadistas, varejistas, exportadores e importadores de medicamentos); 
+comprador (inclusive estabelecimentos requisitantes de produtos não aviados em receitas com múltiplos produtos); 
+produto (produto aviado ou dispensado e sua quantidade); 
+unidades de transporte/logísticas; 
+consumidor/paciente; 
+prescrição (inclusive produtos não aviados numa receita com múltiplos produtos); 
+médico, odontólogo e veterinário (inscrição no conselho de classe dos profissionais prescritores). 
+Além dos listados nos incisos do § 1o deste artigo, poderão ser incluídos pelo órgão de vigilância sanitária federal outros componentes ligados à produção, distribuição, importação, exportação, comercialização, prescrição e uso de medicamentos. 
+O órgão de vigilância sanitária federal competente implantará e coordenará o Sistema Nacional de Controle de Medicamentos. 
+O órgão definirá o conteúdo, a periodicidade e a responsabilidade pelo recebimento e auditoria dos balanços das transações comerciais necessários para o controle de que trata o art. 3o desta Lei. 
+O órgão de vigilância sanitária federal competente implantará o sistema no prazo gradual de 3 (três) anos, sendo a inclusão dos componentes referentes ao art. 3o desta Lei feita da seguinte forma: 
+no primeiro ano, os referentes aos incisos I e II do § 1o; 
+no segundo ano, os referentes aos incisos III, IV e V do § 1o; 
+no terceiro ano, os referentes aos incisos VI, VII e VIII do § 1o. 
+O órgão de vigilância sanitária federal competente estabelecerá as listas de medicamentos de venda livre, de venda sob prescrição e retenção de receita e de venda sob responsabilidade do farmacêutico, sem retenção de receita. 
+Esta Lei entra em vigor na data de sua publicação. 

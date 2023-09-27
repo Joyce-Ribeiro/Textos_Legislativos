@@ -1,0 +1,1 @@
+ Cria o Quadro da Secretaria e dos serviços auxiliares do Tribunal de Justiça do Distrito Federal. 

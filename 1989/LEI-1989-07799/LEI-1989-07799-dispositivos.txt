@@ -1,0 +1,105 @@
+Fica instituído o BTN Fiscal, como referencial da indexação de tributos e contribuições de competência da União. 
+O valor diário do BTN Fiscal será divulgado pela Secretaria da Receita Federal, projetando a evolução da taxa mensal de inflação e refletirá a variação do valor do Bônus do Tesouro Nacional - BTN, em cada mês. 
+O valor do BTN Fiscal, no primeiro dia útil de cada mês, corresponderá ao valor do Bônus do Tesouro Nacional - BTN, atualizado monetariamente para este mesmo mês, de conformidade com o § 2º do art. 5º da Lei nº 7.777, de 19 de junho de 1989. 
+Além das hipóteses previstas nesta Lei o BTN Fiscal poderá ser utilizado, como referencial, para a atualização monetária de contratos ou obrigações expressos em moeda nacional, efetivados após a data da vigência desta Lei. 
+O disposto no parágrafo anterior não se aplica: 
+às mensalidades escolares; 
+aos aluguéis residenciais; 
+aos salário; 
+aos contratos sujeitos ao regime do Decreto-Lei nº 2.300, de 21 de novembro de 1986; 
+aos preços e tarifas submetidos a controle oficial; 
+às demais obrigações, regidas por legislação especial, indicadas pelo Ministro da Fazenda. 
+(Vetado). 
+Para efeitos de determinar o lucro real - base de cálculo do Imposto de Renda jurídicas, a correção monetária das demonstrações financeiras será efetuada de acordo com as normas previstas nesta Lei. 
+ A correção monetária das demonstrações financeiras tem por objetivo expressar, em valores reais, os elementos patrimoniais e a base de cálculo de Imposto de Renda de cada período-base. 
+Não será admitido à jurídica utilizar procedimentos de correção monetária das demonstrações financeiras que descaracterizem os seus resultados, com a finalidade de reduzir a base de cálculo do imposto ou de postergar o seu pagamento. 
+Os efeitos da modificação do poder de compra da moeda nacional sobre o valor dos elementos do patrimônio e os resultados do período-base serão computados na determinação do lucro real mediante os seguintes procedimentos: 
+correção monetária, na ocasião da elaboração do balanço patrimonial: 
+das contas do ativo permanente e respectiva depreciação, amortização ou exaustão, e das provisões para atender a perdas prováveis na realização do valor de investimentos; 
+das contas representativas do custo dos imóveis não classificados no ativo permanente; 
+das contas representativas das aplicações em ouro; 
+das contas representativas de adiantamentos a fornecedores de bens sujeitos à monetária, salvo se o contrato previr a indexação do crédito; 
+das contas integrantes do patrimônio líquido; 
+de outras contas que venham a ser determinadas pelo Poder Executivo, considerada a natureza dos bens ou valores que representem; 
+registro, em conta especial, das contrapartidas dos ajustes de correção monetária de que trata o item I; 
+dedução, como encargo do período-base, do saldo da conta de que trata o item II, se devedor; 
+observado o disposto na Seção III deste Capítulo, cômputo no lucro real do saldo da conta de que trata o item II, se credor. 
+Os bens e direitos do ativo sujeitos a correção monetária e os valores registrados em contas do patrimônio líquido , baixados no curso do períodos-base, serão corrigidos monetariamente segundo a variação do valor do BTN Fiscal ocorrida a partir do dia último balanço corrigido até o dia em que a baixa for efetuada, e a contrapartida da correção será registrada na conta de que trata o item II do artigo anterior. 
+Os bens e valores acrescidos no curso do período base serão corrigidos monetariamente segundo a variação do valor do BTN Fiscal ocorrida a partir do acréscimo até o dia em que a baixa for efetuada. 
+Serão corrigidas monetariamente, na forma deste artigo, as contas retificadoras correspondentes aos bens e valores baixados. 
+O disposto neste artigo não se aplica em relação aos imóveis de venda das empresas que se dediquem a compra e venda, loteamento, incorporação e construção de imóveis. 
+Ressalvado o disposto no artigo anterior, a correção monetária das demonstrações financeiras somente terá efeitos fiscais quando efetuada ao final de período-base de incidência do imposto de renda. A incorporação, fusão ou cisão é também considerada como encerramento de período-base de incidência. 
+Para efeito de determinar o lucro real, o lucro apurado em balanço que não corresponda a encerramento de período-base de incidência não poderá ser corrigido monetariamente dentro do próprio período-base em que foi produzido. 
+Os lucros ou dividendos pagos ou creditados por conta de resultado de período-base ainda não encerrado serão registrados em conta redutora do patrimônio líquido, cujo saldo será corrigido monetariamente na forma deste Lei. 
+Para as efeitos desta Lei, considera-se exercício da correção o período entre o último balanço corrigido e o balanço a corrigir. 
+Fica o Poder Executivo, com base nos objetivos da correção monetária, autorizado a baixar inscrições: 
+que forem necessárias à aplicação do disposto nesta Lei aos empreendimentos em fase de construção, implantação ou pré-operacionais e aos bens vinculados às provisões técnicas de sociedades seguradoras e companhias de capitalização; 
+relativas a outras situações especiais, bem como em relação a operações efetuadas entre pessoas jurídicas coligadas, controladoras e controladas, sob controle comum ou associadas por qualquer forma. 
+A correção monetária das demonstrações financeiras (art. 4º, inciso I) será procedida com base na variação diária do valor do BTN Fiscal, ou de outro índice que vier a ser legalmente adotado. 
+O registro do ativo permanente da escrituração do contribuinte deve ser mantido com observância das seguinte normas: 
+cada bem classificado com investimentos deve ser escriturado em subconta distinta; 
+os bens do imobilizado devem ser agrupados em contas distintas segundo sua natureza e as taxas anuais de depreciação ou amortização a eles aplicáveis; os imóveis, os recursos minerais e florestais e as propriedades imateriais deverão ser registrados em subcontas separadas; 
+as aplicações de recursos em despesas do ativo diferido devem ser registradas em subcontas distintas, segundo a natureza, os empreendimentos ou atividades a que se destinam e o prazo de amortização. 
+O contribuinte deve manter registros que permitam identificar os bens do imobilizado e determinar o ano da sua aquisição, o valor original e os posteriores acréscimos ao custo, reavaliações e baixas parciais e eles referentes. 
+Valor original do bem é a importância em moeda nacional pela qual a aquisição tenha sido registrada na escrituração do contribuinte. Os valores em moeda estrangeira serão convertidos à taxa de câmbio em vigor na data do desembaraço aduaneiro. 
+O laudo que servir de base ao registro de reavaliação de bens deve identificar os bens reavaliados pela conta em que estão escriturados e indicar os anos da aquisição e das modificações no seu custo original. 
+Se o registro do imobilizado não satisfizer ao disposto no artigo anterior, os bens baixados serão considerados como os mais antigos nas contas em que estiverem registrados. 
+Estão sujeitos à correção monetária, nos termos desta Lei: 
+as florestas que se destinam ao corte para comercialização, consumo ou industrialização; 
+os direitos contratuais de exploração de florestas, com prazo de exploração superior a dois anos: 
+as florestas destinadas à exploração dos respectivos frutos; 
+as florestas destinadas à proteção do solo e à preservação do meio ambiente. 
+Para efeito de correção monetária, consideram-se valor original das florestas as importância efetivamente aplicadas, em cada período, na elaboração do projeto técnico, no preparo de terras, na aquisição de sementes, no plantio , na proteção, na vigilância, na administração de viveiros e flores e na abertura e conservação de caminhos de serviços. 
+As pessoas jurídicas sujeitas à tributação com base no lucro real deverão manter Livro Razão Auxiliar em BTN Fiscal, no qual as contas sujeitas à correção monetária serão escrituradas adotando-se com unidade de conta o valor do BTN Fiscal. 
+No período-base em que for iniciada a escrituração do Razão Auxiliar em BTN Fiscal, os saldos de abertura das contas serão determinados mediante a divisão do saldo da escrituração transferido do balanço anterior pelo valor do BTN Fiscal no dia desse balanço. 
+A escrituração da movimentação das contas deverá ser feita em partidas diárias e os lançamentos no Razão Auxiliar em BTN Fiscal poderão ser feitos, em cada conta, pelo total dos débitos e créditos do dia. 
+A pessoa jurídica que, de acordo com o balaço de encerramento do último período-base, possuir patrimônio líquido com valor inferior ao equivalente a setecentos mil BTN Fiscais, fica dispensada da escrituração diária do Livro Razão Auxiliar em BTN Fiscal, ficando obrigada a efetuá-la somente por ocasião do levantamento do balanço a corrigir. 
+Na transposição para o Razão Auxiliar em BTN Fiscal dos lançamentos da escrituração do exercício da correção, os valores registrados serão convertidos para número de BTN Fiscais mediante sua divisão pelo valor do BTN Fiscal, observadas as seguintes normas: 
+os ajustes, baixas, liquidações ou transferências de valores oriundos de período-base anterior serão convertidos para número de BTN Fiscais pelo valor destes: 
+no dia do balanço do período-base anterior, quando não houver obrigatoriedade da correção prevista no art. 5º; 
+no dia em que ocorrer qualquer um dos eventos previstos neste inciso, quando houver obrigatoriedade da correção prevista no art. 5º; 
+as transferências, no período-base, entre contas sujeitas à correção, serão convertidas para número de BTN Fiscais pelo valor destes no dia do balanço do período-base anterior; 
+os valores acrescidos às contas no exercício da correção serão convertidos para número de BTN Fiscais pelo valor destes no dia no acréscimo; 
+os ajustes, baixas, liquidações ou transferências de valores acrescidos, no exercício da correção, às contas de investimento, serão deduzidos dos acréscimos, na ordem cronológica destes , e convertidos para número de BTN Fiscais pelo valor destes no dia em que ocorrer qualquer um desses eventos. 
+nos ajustes, baixas, liquidações ou transferências de valores acrescidos, no exercício da correção, às contas do ativo diferido, serão deduzidos aos acréscimos, na ordem cronológica destes, e convertidos para número de BTN Fiscais pelo valor destes no dia em que ocorrer qualquer um desses eventos; 
+os ajustes, baixas, liquidações ou transferências de valores acrescidos, no exercício da correção, às contas do patrimônio líquido, serão deduzidos dos acréscimos, na ordem cronológica destes, e convertidos para número de BTN Fiscais pelo valor destes no dia em que ocorrer qualquer um desses eventos; 
+o valor de patrimônio líquido de investimento em coligada ou controlada transferido do período-base anterior e as reduções desse valor, durante o exercício da correção, pelo recebimento de lucros ou dividendos, serão convertidos para números de BTN Fiscais pelo valor destes no dia em que forem distribuídos; 
+os lucros ou dividendos, recebidos durante o período-base, de participação societária avaliada pelo custo de aquisição, na hipótese a que se refere o art. 2º do Decreto-Lei nº 2.075, 20 de dezembro de 1983 serão convertidos para número de BTN Fiscais pelo valor destes no dia da distribuição. 
+Na baixa de bens do ativo imobilizado e dos respectivos encargos serão observadas as seguintes normas: 
+o valor do bem baixado será determinado mediante o seguinte procedimento: 
+serão identificados o valor original (art. 12, &1º) e a época de aquisição do bem a ser baixado, inclusive dos acréscimos ao custo e reavaliações ocorridas antes do início do período-base; 
+o valor do bem será convertido para BTN Fiscal mediante sua divisão pelo valor deste no dia da aquisição e de cada acréscimo ao custo ou reavaliação, e o valor do bem em BTN Fiscal será registrado como baixa no Razão Auxiliar em BTN Fiscal; 
+a baixa na escrituração será feita pelo valor determinado mediante a multiplicação do valor do bem em BTN Fiscal (alínea b) pelo valor deste no dia em que a baixa for efetuada; 
+o valor da depreciação, amortização ou exaustão acumulada correspondente ao bem baixado será determinado mediante o seguinte procedimento: 
+com base na taxa anual do encargo e na época da aquisição e dos acréscimos ao custo e reavaliações do bem a ser baixado, será determinada a percentagem total da depreciação, amortização e exaustão até o balanço do período-base anterior; 
+a percentagem de que trata a alínea anterior será aplicada sobre o valor do bem em BTN Fiscal no balanço do período-base anterior (item I, alínea b) , e produto será o valor dos encargos em BTN Fiscal, a ser registrado no Razão Auxiliar em BTN Fiscal; 
+se tiver havido, no exercício da correção dedução de quotas de depreciação, amortização ou exaustão do bem baixado, os valores dessa quotas em BTN Fiscal serão adicionados ao determinado nos termos da alínea anterior; 
+o valor a ser baixado na escrituração será o produto dos encargos expressos em BTN Fiscal (alínea b e c) pelo valor do BTN Fiscal no dia em que a baixa for efetuada. 
+As quotas de depreciação, amortização e exaustão a serem registradas na escrituração como custo ou despesa operacional serão determinadas com base no Razão Auxiliar em BTN Fiscal, observadas as seguintes normas: 
+a quota anual em BTN Fiscal será o produto da taxa anual de depreciação ou amortização, ou da percentagem de exaustão, sobre o valor do bem em BTN Fiscal constante do Razão Auxiliar em BTN Fiscal; 
+a quota anual em BTN Fiscal será registrada na conta do encargo do Razão Auxiliar em BTN Fiscal, e o montante da quota a ser lançado na escrituração será determinado mediante a conversão da quota em BTN Fiscal para cruzados novos: 
+pelo valor médio do BTN Fiscal em cada mês, se registrada em duodécimos mensais: 
+pelo valor médio do BTN Fiscal no exercício da correção, se registrada por ocasião do balanço do encerramento do período. 
+com base na taxa anual do encargo e na época da aquisição e dos acréscimos ao custo e reavaliações do bem a ser baixado, será determinada a percentagem total da depreciação, amortização e exaustão até o balanço do período-base anterior; 
+a percentagem de que trata a alínea anterior será aplicada sobre o valor do bem em BTN Fiscal no balanço do período-base anterior (item I, alínea b) , e produto será o valor dos encargos em BTN Fiscal, a ser registrado no Razão Auxiliar em BTN Fiscal; 
+se tiver havido, no exercício da correção, dedução de quotas de depreciação, amortização ou exaustão do bem adicionados ao determinado nos termos da alínea anterior; 
+o valor a ser baixado na escrituração será o produto dos encargos expressos em BTN Fiscal (alínea b e c) pelo valor do BTN Fiscal no dia em que a baixa for efetuada. 
+As quotas de depreciação, amortização e exaustão a serem registradas na escrituração como custo ou despesa operacional serão determinadas com base no Razão Auxiliar em BTN Fiscal, observadas as seguintes normas: 
+a quota anual em BTN Fiscal será o produto da taxa anual de depreciação ou amortização, ou da percentagem de exaustão, sobre o valor do bem em BTN Fiscal constante do Razão Auxiliar em BTN Fiscal; 
+a quota anual em BTN Fiscal será registrada na conta do encargo do Razão Auxiliar em BTN Fiscal, e o montante da quota a ser lançado na escrituração será determinado mediante a conversão da quota em BTN Fiscal para cruzados novos: 
+pelo valor médio do BTN Fiscal em cada mês, se registrada em duodécimos mensais; 
+pelo valor médio do BTN Fiscal no exercício da correção, se registrada por ocasião do balanço de encerramento de período. 
+As quotas de depreciação, amortização e exaustão a serem registradas na escrituração como custo ou despesa operacional serão determinadas com base no Razão Auxiliar em BTN Fiscal, observadas as seguintes normas: 
+a quota anual em BTN Fiscal será o produto da taxa anual de depreciação ou amortização, ou da percentagem de exaustão, sobre o valor do bem em BTN Fiscal constante do Razão Auxiliar em BTN Fiscal; 
+a quota anual em BTN Fiscal será registrada na conta do encargo do Razão Auxiliar em BTN Fiscal, e o montante da quota a ser lançado na escrituração será determinado mediante a conversão da quota em BTN Fiscal para cruzados novos: 
+pelo valor médio do BTN Fiscal em cada mês, se registrada em duodécimos mensais: 
+pelo valor médio do BTN Fiscal no exercício da correção, se registrada por ocasião do balanço do encerramento do período. 
+com base na taxa anual do encargo e na época da aquisição e dos acréscimos ao custo e reavaliações do bem a ser baixado, será determinada a percentagem total da depreciação, amortização e exaustão até o balanço do período-base anterior; 
+a percentagem de que trata a alínea anterior será aplicada sobre o valor do bem em BTN Fiscal no balanço do período-base anterior (item I, alínea b) , e produto será o valor dos encargos em BTN Fiscal, a ser registrado no Razão Auxiliar em BTN Fiscal; 
+se tiver havido, no exercício da correção, dedução de quotas de depreciação, amortização ou exaustão do bem adicionados ao determinado nos termos da alínea anterior; 
+o valor a ser baixado na escrituração será o produto dos encargos expressos em BTN Fiscal (alínea b e c) pelo valor do BTN Fiscal no dia em que a baixa for efetuada. 
+As quotas de depreciação, amortização e exaustão a serem registradas na escrituração como custo ou despesa operacional serão determinadas com base no Razão Auxiliar em BTN Fiscal, observadas as seguintes normas: 
+a quota anual em BTN Fiscal será o produto da taxa anual de depreciação ou amortização, ou da percentagem de exaustão, sobre o valor do bem em BTN Fiscal constante do Razão Auxiliar em BTN Fiscal; 
+a quota anual em BTN Fiscal será registrada na conta do encargo do Razão Auxiliar em BTN Fiscal, e o montante da quota a ser lançado na escrituração será determinado mediante a conversão da quota em BTN Fiscal para cruzados novos: 
+pelo valor médio do BTN Fiscal em cada mês, se registrada em duodécimos mensais; 
+pelo valor médio do BTN Fiscal no exercício da correção, se registrada por ocasião do balanço de encerramento de período. 

@@ -1,0 +1,1 @@
+ Permite a fixação de época especial para a prestação de provas. 

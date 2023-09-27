@@ -1,0 +1,34 @@
+Esta Lei regula a expedição e a validade nacional da Declaração de Nascido Vivo. 
+A Declaração de Nascido Vivo tem validade em todo o território nacional até que seja lavrado o assento do registro do nascimento. 
+A Declaração de Nascido Vivo será emitida para todos os nascimentos com vida ocorridos no País e será válida exclusivamente para fins de elaboração de políticas públicas e lavratura do assento de nascimento. 
+A Declaração de Nascido Vivo deverá ser emitida por profissional de saúde responsável pelo acompanhamento da gestação, do parto ou do recém-nascido, inscrito no Cadastro Nacional de Estabelecimentos de Saúde - CNES ou no respectivo Conselho profissional. 
+A Declaração de Nascido Vivo não substitui ou dispensa, em qualquer hipótese, o registro civil de nascimento, obrigatório e gratuito, nos termos da Lei. 
+A Declaração de Nascido Vivo deverá conter número de identificação nacionalmente unificado, a ser gerado exclusivamente pelo Ministério da Saúde, além dos seguintes dados: 
+nome e prenome do indivíduo; 
+dia, mês, ano, hora e Município de nascimento; 
+sexo do indivíduo; 
+informação sobre gestação múltipla, quando for o caso; 
+nome e prenome, naturalidade, profissão, endereço de residência da mãe e sua idade na ocasião do parto; 
+nome e prenome do pai; e 
+outros dados a serem definidos em regulamento. 
+O prenome previsto no inciso I não pode expor seu portador ao ridículo. 
+Caso não seja possível determinar a hora do nascimento, prevista no inciso II, admite-se a declaração da hora aproximada. 
+A declaração e o preenchimento dos dados do inciso VI são facultativos. 
+A Declaração de Nascido Vivo deverá conter inscrição indicando que o registro civil de nascimento permanece obrigatório, não sendo substituído por esse documento. 
+Os dados colhidos nas Declarações de Nascido Vivo serão consolidados em sistema de informação do Ministério da Saúde. 
+Os dados do sistema previsto no caput poderão ser compartilhados com outros órgãos públicos, para elaboração de estatísticas voltadas ao desenvolvimento, avaliação e monitoramento de políticas públicas, respeitadas as normas do Ministério da Saúde sobre acesso a informações que exigem confidencialidade. 
+O sistema previsto no caput deverá assegurar a interoperabilidade com o sistema de registro eletrônico determinado pela Lei nº 11.977, de 7 de julho de 2009, de modo a permitir a troca de dados com os serviços de registro civil de pessoas naturais. 
+Os arts. 49 e 54 da Lei nº 6.015, de 31 de dezembro de 1973, passam a vigorar com a seguinte redação: 
+No mapa de que trata o caput deverá ser informado o número da identificação da Declaração de Nascido Vivo. 
+Os mapas dos nascimentos deverão ser remetidos aos órgãos públicos interessados no cruzamento das informações do registro civil e da Declaração de Nascido Vivo conforme o regulamento, com o objetivo de integrar a informação e promover a busca ativa de nascimentos. 
+Os mapas previstos no caput e no § 4 o deverão ser remetidos por meio digital quando o registrador detenha capacidade de transmissão de dados.
+número de identificação da Declaração de Nascido Vivo - com controle do dígito verificador, ressalvado na hipótese de registro tardio previsto no art. 46 desta Lei. 
+Não constituem motivo para recusa, devolução ou solicitação de retificação da Declaração de Nascido Vivo por parte do Registrador Civil das Pessoas Naturais: 
+equívocos ou divergências que não comprometam a identificação da mãe; 
+omissão do nome do recém-nascido ou do nome do pai; 
+divergência parcial ou total entre o nome do recém nascido constante da declaração e o escolhido em manifestação perante o registrador no momento do registro de nascimento, prevalecendo este último; 
+divergência parcial ou total entre o nome do pai constante da declaração e o verificado pelo registrador nos termos da legislação civil, prevalecendo este último; 
+demais equívocos, omissões ou divergências que não comprometam informações relevantes para o registro de nascimento. 
+O nome do pai constante da Declaração de Nascido Vivo não constitui prova ou presunção da paternidade, somente podendo ser lançado no registro de nascimento quando verificado nos termos da legislação civil vigente. 
+Nos nascimentos frutos de partos sem assistência de profissionais da saúde ou parteiras tradicionais, a Declaração de Nascido Vivo será emitida pelos Oficiais de Registro Civil que lavrarem o registro de nascimento, sempre que haja demanda das Secretarias Estaduais ou Municipais de Saúde para que realizem tais emissões.
+Esta Lei entra em vigor na data de sua publicação. 
